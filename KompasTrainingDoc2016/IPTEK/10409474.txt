@@ -1,0 +1,19 @@
+
+	Teknologi informasi
+	Keroyokan Bangun Info Banjir
+
+
+	Hujan tak henti menyambangi Jakarta dan kawasan sekitarnya sepanjang akhir pekan ini. Cuaca serupa diperkirakan bakal mendera sepanjang akhir tahun ini hingga Februari-Maret tahun 2015.
+	Warga yang ingin berlibur atau beraktivitas di luar ruang harus banyak menimba informasi agar tak terjebak banjir hingga kemacetan. Masyarakat yang tinggal di kawasan rawan tergenang pun dituntut selalu siaga. Mereka terus menunggu pengurus RT setempat mengabarkan tepatnya kapan air meluap dan harus segera mengungsi atau tidak.
+	Untuk itu, kebutuhan informasi realtime dan terus update  terkait banjir di Jakarta amat tinggi. Berusaha memenuhi tuntutan itu, Pemerintah Provinsi DKI Jakarta melalui Badan Penanggulangan Bencana Daerah (BPBD) bersama Universitas Wollongong dan Twitter akan meluncurkan petajakarta.org/banjir awal Desember 2014. Tidak sekadar peta, platform jaringan dengan sumber terbuka (open source) berbasis masyarakat ini juga mengumpulkan dan menyebarkan data banjir di Jakarta.
+	Dengan media sosial Twitter, semua orang bisa berpartisipasi. Pengumpulan data secara keroyokan mempercepat penyebaran informasi dan penanganan bencana, termasuk penyaluran bantuan.
+	Penyumbang hanya butuh akun Twitter untuk mengabarkan apa yang dia lihat kepada pengelola sistem. Setelah diverifikasi, antara lain, lewat petugas di lapangan, pengelola akan mengunggah data ke situs. Kepala Seksi Informasi BPBD DKI Jakarta Bambang Surya Putra mengatakan, data yang disajikan lebih akurat karena melalui proses verifikasi.
+	Pengguna Twitter cukup menyampaikan kabar dengan menyebut (mention) akun @petajkt dan tanda pagar (tagar) #banjir. Sistem selanjutnya akan mencatat lokasi pengirim dan menandai lokasi yang dilaporkan di peta.
+	Selain dicek oleh petugas di lapangan, data juga dicek dengan membandingkannya dengan sumber lain, termasuk instansi lain yang terkait. Dari warga untuk warga. Satu sisi warga mengabarkan, sisi lain warga dan instansi terkait membutuhkan info banjir secara realtime, kata Bambang.
+	Menurut Bambang, selain tim dari Universitas Wollongong dan Pemerintah Australia, program tersebut juga didukung oleh Twitter Inc. Sistem pelaporan melalui media sosial Twitter dipilih karena warga Jakarta dinilai sangat aktif di Twitter.
+	Sistem informasi mengenai banjir di Jakarta pernah dilakukan oleh google.org melalui Google Crisis Response saat banjir besar melanda Jakarta awal tahun 2013. Peta lokasi banjir dan ketinggian air datanya bersumber dari Badan Nasional Penanggulangan Bencana. Selain itu, aplikasi ini juga memuat data lokasi pengungsian dan nomor telepon penting.
+	(Mukhamad Kurniawan)
+	Ilustrasi:
+	Handining
+
+ 

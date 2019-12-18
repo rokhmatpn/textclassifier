@@ -1,0 +1,35 @@
+
+	Klinik Fotografi
+	Memahami Digital Back Achromatic
+	Tips &amp; Catatan
+	ARBAIN RAMBEY
+
+
+	Pernahkah Anda mencetak foto berukuran besar, 100 cm x 150 cm misalnya, lalu puaskah Anda dengan hasilnya? Lalu, untuk ukuran poster bioskop, berapa megapiksel diperlukan? Juga, apakah format medium masih diperlukan dalam dunia fotografi?
+	Tiga pertanyaan di atas layak mengemuka untuk membicarakan sebuah digital back, atau sebuah perangkat perekam digital, yang baru saja memasuki pasaran. Dengan nama IQ260, produk keluaran PhaseOne ini menyita perhatian karena hanya bisa merekam hitam putih.
+	Digital back adalah sebuah perangkat berisi sensor digital dan juga firmware pengolah dan penyimpan gambar untuk kamera format medium. Sebuah digital back bisa ditempelkan di kamera yang sesuai untuknya. Sekadar catatan, kamera format medium adalah kamera yang ukuran sensornya di atas 24 mm x 36 mm.
+	Pada kamera DSLR umum, yang sensornya micro four third, APSC, dan full frame seperti pada tabel, semua bagian yang ada di sebuah digital back menyatu pada kameranya, tak bisa dipisah-pisahkan. Kamera format medium merek PhaseOne memisahkan bagian kamera dengan digital back-nya dengan alasan ekonomi: kita bisa meng-upgrade tiap bagian, hanya bagian yang perlu di-upgrade.
+	Masalah resolusi
+	Sebuah file foto digital berkekuatan 6 megapiksel (3.000 piksel x 2.000 piksel) cukup baik untuk menghasilkan cetakan foto sebesar 30 cm x 20 cm. Saat ini, DSLR sudah ada yang berkemampuan rekam 36 megapiksel, yang mampu menghasilkan cetakan 90 cm x 60 cm dengan baik.
+	Sesungguhnya, sebuah poster bioskop berukuran 3 meter x 5 meter bisa dihasilkan dari kamera berkemampuan 6 megapiksel saja. Namun, sadarkah Anda bahwa poster bioskop bukan untuk dilihat dari jarak dekat?
+	Untuk cetakan besar yang tidak untuk dilihat dari jarak dekat, pengujiannya bisa dilakukan dengan mencetaknya pada kertas 30 cm x 20 cm terlebih dahulu. Kalau hasilnya layak, dia bisa dicetak sebesar apa pun asal nanti melihat hasil cetaknya dari jarak yang proporsional dengan ukuran fisiknya.
+	Namun, ada banyak cetakan foto besar yang akan dilihat dari jarak sangat dekat, yaitu kertas dinding (wallpaper), atau juga poster pakaian atau tas untuk dipasang di toko. Kalau cetakan untuk jenis ini tidak dibuat dengan kamera format medium, cetakannya sulit diharapkan bisa menghasilkan kehalusan detail yang memadai.
+	 
+	Achromatic
+	Klik memotret dengan memakai digital back IQ260 pekan lalu, mencoba menjawab dua pertanyaan: kehalusan detail dan juga soal achromatic.
+	Sebenarnya, istilah achromatic bukanlah istilah umum, yaitu lebih ke penamaan PhaseOne terhadap IQ260 yang hanya merekam gayscale. Mengapa IQ260 meniadakan warna?
+	Umumnya fotografer menghasilkan foto hitam putih dengan terlebih dahulu memotret berwarna, lalu menghitamputihkannya dengan perangkat lunak. Dengan kata lain, dari empat komponen warna RGB (red, green, dan blue), digabungkan menjadi satu dengan beberapa persentase komponen masing-masing.
+	Dalam kasus IQ260, sejak awal semua komponen warna dijadikan grayscale pada porsi yang ditur oleh sang digital back. Dengan realitas ini, foto hitam putih yang terjadi sungguh ciri khas IQ260, baik dalam menakar hitam pekat maupun skin tone (kepekatan warna kulit).
+	Memang, saat ini DSLR format 135 berkemampuan makin besar dan tidak mustahil tidak lama lagi akan ada DSLR 60 megapiksel selayaknya IQ260. Namun, ukuran sensor tetap sangat membedakan mutu foto yang dihasilkan. Ukuran 60 juta piksel pada bidang 36 mm x 24 mm tentu berbeda dengan 60 juta piksel pada bidang 60 mm x 45 mm bukan?
+	Ibarat 60 manusia bekerja pada ruang 5 meter x 5 meter dibandingkan dengan 60 orang yang bekerja di sebuah aula, hasil kerja mereka tentu jauh berbeda.
+	Kamera digital format medium memang sangat mahal, tetapi dalam skala industri kamera ini tetap dibutuhkan dan belum bisa digantikan oleh adik-adiknya.
+	Foto: 6
+	FOTO-FOTO: KOMPAS/ARBAIN RAMBEY
+	1. Black on Black
+	2. Model: Fernanda (Brasil), Lokasi: Springhill Kemayoran, Kamera: PhaseOne, Digital Back: IQ260, Rana: 1/100, Diafragma: 11, ISO: 200, Lampu: Broncolor.
+	3. IQ260 pada kamera ALPA (view camera).
+	4. Digital back IQ260 pada kamera PhaseOne.
+	5. Potongan ekstrem dari foto Black on Black.
+	6. Perbandingan ukuran sensor IQ260 dengan sensor full frame dan APSC.
+
+ 

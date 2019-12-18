@@ -1,0 +1,35 @@
+
+	Teknologi Sensor
+	Cermati Bola di Mulut Gawang
+
+
+	Wasit kadang kala luput dan salah memantau pergerakan bola di mulut gawang. Padahal, keputusannya menetapkan skor mutlak. Dalam ajang Piala Dunia 2014, masalah itu diatasi dengan memasang sistem kamera dan komputer pemantau gawang. Hasilnya terbukti dapat membantu wasit mengambil keputusan tepat.
+	OLEH YUNI IKAWATI
+	Kejuaraan Piala Dunia Brasil 2014 akan berakhir 13 Juli 2014. Berbeda dengan kompetisi sebelumnya, Federasi Asosiasi Sepak Bola Internasional (FIFA) memastikan kali ini tak ada gol kontroversial yang tak terpecahkan, seperti kasus gol Frank Lampard saat Inggris melawan Jerman pada Piala Dunia 2010.
+	Pasalnya, pada turnamen ke-20 Piala Dunia 2014 mulai diterapkan sistem pemantau bola di gawang yang disebut teknologi garis gawang atau goal- line technology (GLT). Keputusan resmi FIFA memakai GLT didasarkan pada 2.000 uji coba yang membuktikan keandalannya.
+	Direktur pelaksana uji coba, Dirk Broichhausen, menyatakan, sistem itu amantak dapat di- hackkarena tak terkoneksi ke internet. Sinyalnya pun dienkripsi atau diacak sebelum dikirim sehingga sulit dimanipulasi.
+	GLT telah diverifikasi dalam tes instalasi akhir dengan memperhitungkan kondisi dinamis di setiap wilayah, desain stadion, kelembaban, pencahayaan, dan variabel lain yang berpengaruh di lokasi pertandingan.
+	Aplikasi di Brasil
+	Dalam laga sesungguhnya, sistem itu pertama kali terbukti keampuhannya pada penyisihan Grup E Piala Dunia 2014 dalam membantu wasit Sandro Ricci dari Brasil untuk memastikan terciptanya gol kedua Perancis saat melawan Honduras di Stadion Beira-Rio di Porto Alegre, Brasil, Senin (16/6).
+	Ketika itu, pada menit ke 48, bola tendangan Karim Benzema membentur tiang gawang, lalu mental mengenai tubuh penjaga gawang Honduras, Noel Valladares. Sebelum diraih dengan tangan kanannya, bola menggelinding melewati garis gawang.
+	Semua kejadian dalam hitungan detik itu terekam kamera beresolusi dan berkecepatan tinggi yang dipasang di sekitar gawangtermasuk kamera mungil di pojok kanan-kiri gawang. Ada 7 kamera mengarah ke setiap mulut gawang. Jadi, 14 kamera dipasang di sekitar stadion.
+	Dengan kamera sebanyak itu, tak ada satu posisi pun pergerakan bola yang tak terlacak ketika melewati garis gawang. Sebab, sistem bisa beroperasi jika beberapa kamera tak berfungsi. Pengoperasian sistem dilakukan di 11 stadion lain yang dipakai pada laga akbar di Brasil itu.
+	Pantauan kamera dengan segera diketahui wasit. Caranya, saat bola melintasi garis gawang, sistem itu mengirimkan sinyal yang terenkripsi lewat transmisi gelombang radio ke jam tangan khusus yang dikenakan wasit. Kurang dari satu detik, kata GOAL muncul di layar LED (light emitting diode) pada jam digital itu.
+	Setiap sorotan kamera direkam dengan kecepatan sekitar 2.000 frame (bingkai) per detik, lalu disimpan di basis data di komputer yang terhubung pada semua kamera itu. Pemroses
+	citra pada komputer akan menyaring obyek yang bukan bola dan mengidentifikasi posisi bola dengan akurasi beberapa millimeter. Peranti lunak pada sistem itu akan mengidentifikasi piksel atau elemen gambar yang membentuk gambar bola.
+	Hasil pemrosesan komputer itu berupa citra gambar grafik, lalu ditayangkan di layar televisi dan layar raksasa stadion sehingga bisa dilihat siapa pun. Berkat sistem GLT, keputusan wasit menjadi tak terbantahkan.
+	Sistem kamera
+	Sistem GLT yang dipakai pada Piala Dunia 2014 disebut kontrol sasaran (goal control), hasil rancangan tim peneliti dari Jerman. Sebelumnya, sistem itu dipakai dalam Piala Konfederasi 2013.
+	Teknologi garis gawang berbasis kamera pertama kali dikembangkan Dr Paul Hawkins di Romsey-Hampshire, Inggris, pada 1999 dan dinamai Hawk-Eye (Mata Elang). Untuk mengembangkan si Mata Elang, Paul bekerja sama dengan para insinyur dari perusahaan Jerman, Siemens, didanai Roke Manor Research Limited.
+	Hawk-Eye dipakai dalam pertandingan kriket pada 2001 dan 2008. Pada 2005, sistem itu dinyatakan layak oleh Federasi Tenis Internasional dan dipakai di AS Terbuka, Australia Terbuka, dan Wimbledon.
+	Untuk sepak bola, Hawk-Eye disetujui Dewan Asosiasi Sepak Bola Internasional (International Football Association Board/ IFAB) pada 2012. Hal itu didasari, antara lain, tingkat kesalahan rendah, hanya 3,6 mm, lebih rendah dari 3 cm yang dipersyaratkan FIFA.
+	Sistem itu dijajal pada Club World Cup 2012 di  Stadion Toyota. Ketika diterapkan pada musim Premier League 2013-2014 di Inggris, Hawk Eye menunjukkan keandalannya pertama kali, yaitu dalam penentuan gol dari Edin Dzeko untuk Manchester City lawan Cardiff City, 18 Januari 2014.
+	Sensor medan magnet
+	Selain pengamatan dengan kamera digital yang dilengkapi sensor optik, FIFA dan IFAB
+	juga menyetujui pemakaian sensor medan magnet yang disebut GoalRef rancangan Adidas untuk tujuan sama. Keputusan itu didasari terjadi gol kontroversial Pedro Mendes dari Tottenham Hotspur ke gawang Manchester United pada ajang 2005.
+	Sistem GoalRef berupa chip mikro berisi rangkaian elektronik pasif diameter 2 cm dipasang di inti bola. Kumparan kawat dibentangkan di dalam tiang gawang demi menghasilkan efek tirai medan elektromagnet di mulut gawang.
+	Kumparan itu terhubung ke komputer yang menunjukkan perubahan frekuensi medan magnet saat bola melintasi garis gawang. Mekanisme pemberitahuannya ke wasit sama dengan sistem Goal Control.
+	Sistem GLT yang pakai induksi elektromagnetik itu dikembangkan Jerman dan Denmark. Pengujian di Superliga Denmark dan Club World Cup 2012. GoalRef pertama kali diuji pada Piala Dunia Klub FIFA 2012 di Stadion Internasional Yokohama. Sistem serupa dibuat Cairos Technologies AG bersama Adidas. Uji coba dilakukan pada Kejuaraan Dunia U-17 FIFA 2005 dan mendapat lisensi dari FIFA pada 2013.
+	Meski sistem GLT andal, sistem kamera lebih mudah dipasang dibandingkan sistem sensor yang perlu bongkar gawang dan tanah di kotak penalti untuk pasang kabel. Sistem kamera lebih mahal. Itu jadi dasar keberatan klub-klub di Divisi German Bundesliga dalam penerapan GLT.
+
+Grafik: Teknologi Garis Gawang

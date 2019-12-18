@@ -1,0 +1,21 @@
+
+	Teknologi Perikanan
+	Sistem Berbasis Android bagi Aktivitas Nelayan
+
+
+	REMBANG, KOMPAS - Kesatuan Nelayan Tradisional Indonesia bekerja sama dengan Universitas Surya, Jakarta, mengembangkan sistem informasi berbasis Android bagi nelayan tradisional Indonesia. Sistem tersebut menyangkut informasi data nelayan, cuaca, pencatatan jenis dan lokasi ikan Indonesia, serta harga ikan.
+	Sistem itu diujikan dalam kegiatan Rembuk Nelayan Pantai Utara Jawa di Desa Pasar Bangi, Rembang, Kabupaten Rembang, Jawa Tengah, 12-13 Agustus 2014. Kegiatan itu dimotori Kesatuan Nelayan Tradisional Indonesia (KNTI). Sistemnya sudah jadi, kata Direktur Pusat Studi Oseanografi dan Teknologi Kelautan Universitas Surya Alan F Koropitan, Rabu (13/8), di Rembang.
+	Informasi pada sistem informasi berbasis Android itu diperbarui tiap hari. Isinya meliputi posisi, sebaran, dan jumlah ikan.
+	Sistem tersebut juga memuat informasi cuaca dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) serta harga ikan terbaru di pusat-pusat penjualan ikan di Indonesia. Pada sistem informasi itu, nelayan juga bisa saling menginformasikan harga ikan di tempat mereka.
+	Selain itu, bisa diketahui data nelayan di Indonesia, mulai dari jumlah, jenis tangkapan, jenis kapal, dan alat tangkapnya, kata dia.
+	Sistem itu dibangun, menurut Alan, karena selama ini informasi bagi nelayan belum terpadu. Sistem pencatatan selama ini ditangani Kementerian Kelautan dan Perikanan, sedangkan informasi cuaca didapat dari BMKG.
+	Untuk mengakses informasi dari BMKG, misalnya, nelayan harus membuka internet dan laman instansi itu sehingga tidak praktis. Sementara saat ini banyak nelayan sudah menggunakan telepon seluler berbasis Android dengan harga terjangkau sehingga sistem informasi nelayan yang diterapkan di telepon Android bisa cukup membantu.
+	Mereka tinggal membuka aplikasi itu di telepon seluler Android. Di dalamnya ada menu dan formulir pengisian untuk mengetahui informasi apa yang ingin didapat para nelayan, ujar Alan.
+	Saat ini, Universitas Surya dan KNTI telah mengenalkan sistem itu kepada nelayan di sejumlah daerah, antara lain Jawa Tengah dan Sumatera Utara. Dalam waktu dekat, sistem akan diterapkan di wilayah-wilayah percontohan yang ditunjuk KNTI, termasuk Rembang.
+	Ketua Dewan Penasihat KNTI M Riza Damanik mengemukakan, tantangan terbesar para nelayan adalah perubahan iklim. Hal itu dapat berdampak pada perubahan sebaran ikan dan cuaca di perairan yang belakangan ini sudah tidak menentu lagi.
+	Melalui sistem informasi itu, para nelayan bisa mendapatkan informasi akurat mengenai cuaca, daerah tangkapan, dan harga ikan yang sesuai pasar, kata dia.
+	Selain itu, sistem informasi sebaran ikan yang akurat mendorong efisiensi usaha perikanan. Selama ini, 70 persen aktivitas perikanan tradisional tidak efisien mengonsumsi solar bersubsidi karena minim informasi.
+	Melalui sistem informasi yang tepat itu pula, potensi kebocoran solar bersubsidi bisa lebih terkendali. (HEN)
+	 
+
+ 

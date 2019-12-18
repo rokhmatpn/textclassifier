@@ -1,0 +1,60 @@
+
+	Sosok: Betzig, Hell, dan Moerner
+	Menerobos Angka Teori
+
+
+	Hambatan merupakan kesem-patan menuju kesuksesan, hal itu menggambarkan kegigihan tiga ilmuwan dalam meraih penghargaan Nobel Kimia 2014. Tantangan akan keterbatasan pengamatan mikroskopik di masa lalu mentok pada ukuran 0,2 mikrometer. Kondisi ini memotivasi Eric Betzig, Stefan W Hell, dan William E Moerner untuk menerobosnya. Mereka menciptakan harapan bahwa tak ada obyek yang terlalu kecil untuk dipelajari.
+	Oleh ICHWAN SUSANTO
+	Temuan ini menerobos teori yang diungkapkan ahli mikroskop Ernst Abbe pada 1873. Saat itu, Abbe menunjukkan, resolusi gambar yang dihasilkan mikroskop tak akan melebihi setengah panjang gelombang cahaya. Patokan ini dipakai dan dipercaya banyak ilmuwan pada waktu itu.
+	Namun, teori itu tak membatasi imajinasi dan kreativitas mereka. Betzig, Hell, dan Moerner berinovasi dengan memanfaatkan sifat perpendaran cahaya pada molekul. Metode ini memberikan jalan bagi para ilmuwan untuk melihat secara langsung proses molekul atau enzim yang bekerja di dalam dan antarsel.
+	Metode yang mereka kembangkan menjadi jalan pembuka bagi berbagai inovasi menggunakan teknik nanoskopi yang hingga kini dipakai di dunia. Saat teknik nanoskopi ini diterapkan, mereka menghasilkan pengetahuan yang tak pernah terpikirkan sebelumnya.
+	Seperti Hell yang bisa menunjukkan pembentukan sinapsis, jembatan penghubung antarsel saraf, Moerner membuka secara jelas penyakit huntington, salah satu jenis penyakit saraf, dan Betzig menunjukkan tahapan demi tahapan pembelahan sel telur yang dibuahi menjadi embrio. Temuan mereka membuka banyak jalan dan temuan yang berguna bagi perkembangan dunia medis, farmasi, dan mikrobiologi.
+	Stefan W Hell
+	Bagi Hell, temuannya berawal dari pola pikir di luar kotak. Kita harus menerobos batasan untuk mendapatkan skala yang lebih baik, katanya.
+	Dia juga menekankan pentingnya menyenangi keilmuan agar bisa menikmati setiap isu dan informasi terkait. Selain itu, peneliti pun harus bisa menjawab kebutuhan industri.
+	Ini dibuktikan lewat metode deplesi emisi terstimulasi (STED) yang ia kemukakan pada 1994. Metode ini menggunakan penyinaran laser yang berfungsi membangkitkan perpendaran molekul dan laser kedua untuk memadamkan perpendaran molekul, terkecuali pada bagian berukuran nanometer yang diinginkan.
+	Artikel ilmiah tersebut saat itu tidak menimbulkan kegemparan, tetapi membawanya bekerja di Max Planck Institute, Gottingen, Jerman, untuk kimia biofisika. Di sini, ia membawa ide membangun mikroskop STED.
+	Pada 2000, ia menunjukkan keampuhan mikroskop STED rancangannya. Dengan mikroskop itu, Hell memperoleh gambar bakteri Escherichia coli dengan resolusi tiga kali lipat dibandingkan dengan pemanfaatan mikroskop optik.
+	William E Moerner
+	Pada 1989, saat bekerja di pusat penelitian perusahaan IBM, Moerner mendeteksi penyerapan cahaya oleh molekul tunggal. Percobaan ini membuka pintu bagi masa depan baru dan menginspirasi ilmuwan kimia untuk kembali menaruh perhatian kepada molekul tunggal.
+	Pada 1997, Moerner bergabung dengan University of California, San Diego, Amerika Serikat. Ia bergabung dengan tim ilmuwan Roger Tsien, peraih Nobel Kimia 2008, untuk mendapatkan protein berpendar hijau (GFP) yang bercahaya dalam warna-warna pelangi. Protein hijau itu diisolasi dari ubur-ubur.
+	Dengan menggunakan teknologi genetik, ilmuwan memasangkan GFP dengan protein lain. Sinar warna hijau ini selanjutnya mengungkapkan secara jelas di mana penanda protein diposisikan dalam sel.
+	Moerner menemukan bahwa perpendaran dari satu varian GFP dapat dihidupkan dan dimatikan. Kemudian, ia memisahkan protein itu pada gel untuk membuat jarak antarindividu protein lebih besar daripada batas teori Abbe, 0,2 mikrometer.
+	Oleh karena protein ini jarang tersebar, mikroskop optik reguler dapat membedakan sinar dari setiap individu molekul. Hasil penelitian ini di-
+	publikasikan dalam jurnal ilmiah Nature (1997).
+	Dengan penemuan ini, Moerner, yang mengantongi sedikitnya 10 paten di Amerika Serikat, menunjukkan kemungkinan mengontrol fluoresensi molekul tunggal secara optik. Ini memecahkan masalah yang dirumuskan Eric Betzig dua tahun sebelumnya.
+	Eric Betzig
+	Seperti Hell, Betzig terobsesi menerobos batas difraksi Abbe. Pada awal 1990, ia bekerja dengan model mikroskop dekat bidang di Bell Laboratories, New Jersey, Amerika Serikat. Mikroskop itu dapat menembus batas difraksi Abbe dengan sejumlah kelemahan.
+	Pada 1995, ia berkesimpulan bahwa kemampuan mikroskop jenis ini tidak dapat ditingkatkan lagi. Dia sempat meninggalkan karier penelitian. Namun, batas difraksi Abbe terus mengusiknya.
+	Ia lalu menggabungkan temuannya dan temuan Moerner. Kedua temuan itu memunculkan teori bahwa setiap perpendaran cahaya yang berbeda pada satu molekul, jika dilapiskan, akan menghasilkan gambar yang lengkap dan beresolusi tinggi.
+	Idenya ini dicatatkan dalam jurnal Optics Letters. Dia lalu bergabung di perusahaan ayahnya, meninggalkan dunia penelitian. Beberapa tahun kemudian, Betzig tak dapat mengerem kerinduannya kepada dunia akademis. Dengan berpegang pada GFP, ia berupaya lagi untuk menerobos batas difraksi Abbe.
+	Terobosan nyata datang pada 2005, saat ia menemukan protein berpendar yang dapat diaktifkan, mirip dengan temuan Moerner yang telah mendeteksinya. Betzig menyadari, protein itu diperlukan untuk menyalurkan idenya. Perpendaran molekul-molekul tak harus dari warna yang berbeda.
+	Setahun kemudian, Betzig, yang awalnya bercita-cita menjadi astronot, memperagakan teorinya. Ia merangkai protein yang berpendar di membran yang menutup lisosom sel. Dengan dorongan cahaya, protein diaktifkan untuk berpendar. Oleh karena sinarnya amat lemah, hanya sebagian yang berpendar.
+	Dengan ukuran yang amat kecil, kebanyakan dari mereka berada dalam posisi lebih besar dibandingkan dengan batas angka difraksi Abbe. Oleh karena itu, posisi setiap protein yang berpendar terekam tepat di mikroskop. Saat perpendarannya mati, ilmuwan mengaktifkan lagi subgrup protein. Proses ini terus berulang hingga didapatkan banyak gambar.
+	Gambar-gambar ini ditumpangkan sehingga mendapatkan gambar membran lisosom beresolusi tinggi. Hasilnya jauh lebih baik dibandingkan dengan batas difraksi Abbe dan dipublikasikan dalam jurnal Science (2006).
+	(nobelprize.org/AP)
+	 
+	STEFAN W HELL
+	? Lahir: Arad, Romania, 1962
+	? Kewarganegaraan: Jerman
+	? Pendidikan: PhD University of Heidelberg, Jerman, 1990
+	? Pekerjaan: Direktur di Max Planck Institute for Biophysical Chemistry dan Kepala Divisi di Pusat Penelitian Kanker Heidelberg, Jerman
+	WILLIAM E MOERNER
+	? Lahir: Pleasanton, California, Amerika Serikat (AS), 1953
+	? Kewarganegaraan: AS
+	? Pendidikan: PhD Cornell University Ithaca, New York, AS, 1982
+	? Pekerjaan: Profesor Kimia Terapan Fisika di Stanford University, AS
+	ERIC BETZIG
+	? Lahir: Ann Arbor, Michigan, AS, 1960
+	? Kewarganegaraan: AS
+	? Pendidikan: PhD Cornell University Ithaca, New York, AS, 1988
+	? Pekerjaan: Pimpinan Janelia Farm Research Campus, Howard Hughes Medical Institute, Ashburn, Virginia, AS
+	Foto 3:
+	Foto 1:
+	REUTERS/Diego Nigro/JC Imagem
+	Foto 2:
+	AFP/CHRISTOF STACHE
+	Foto 3:
+	AFP/NIGEL TREBLIN
+
+ 

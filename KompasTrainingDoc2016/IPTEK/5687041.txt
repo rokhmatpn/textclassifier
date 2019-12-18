@@ -1,0 +1,20 @@
+
+	Catatan Iptek
+	Ruang Gelap Bumi
+
+
+	Oleh Ahmad Arif
+	Pada era ketika dunia seolah telanjang karena dipantau seribuan satelit dan dijejak jutaan radar, pesawat Boeing 707-200 berbobot 328 ton tiba-tiba menghilang di udara. Setelah dua pekan, pesawat berpenumpang 239 orang ini akhirnya terlacak di ruang terpencil Bumi di Samudra Hindia.
+	Kecanggihan teknologi memungkinkan perjalanan pesawat di muka Bumi bisa dilacak lewat internet, seperti disajikan http://flightstats.com dan http://flightradar24.com. Nama maskapai, nomor penerbangan, arah, hingga kecepatan pesawat bisa diketahui. Perjalanan pesawat Malaysia Airlines System (MAS), MH-370, rute Kuala Lumpur ke Beijing, Sabtu (8/3) malam, awalnya juga bisa diikuti di laman internet ini.
+	Informasi lengkap pergerakan pesawat ini tersedia berkat sistem ADS-B (Automatic Dependent Surveillance-Broadcast). Sistem ini memantulkan gelombang radio berisi data rinci, termasuk posisi pesawat berdasarkan satelit atau GPS, melalui transponder yang dipasang di tubuh pesawat.
+	Menurut Mikael Robertsson, pendiri flightradar24.com, setiap orang bisa menangkap gelombang radio ini dengan alat penerima sederhana, mirip pesawat radio di mobil (Kazi Stastna, CBC News, 12/3). Sistem ini dianggap sebagai teknik pemantauan pesawat masa depan. Hingga kini, penerbangan sipil dipantau sinyal elektronik yang dikirim transponder lain dengan radar.
+	Seperti sistem ADS-B, transponder radar bisa dikontrol dari kokpit. Akibatnya, saat kedua transponder MH-370 tiba-tiba tak mengirim sinyal setelah sejam terbang, banyak yang menduga ada masalah di kokpit. Apalagi, radio komunikasi juga mati total.
+	Pesawat menghilang saat di Laut Tiongkok Selatan, tetapi radar militer Malaysia menjejak MH-370 memutar ke Semenanjung Melayu. Radar militer mendeteksi setiap obyek terbang. Hasil pemantauan berupa noktah berkedip sehingga membutuhkan waktu memverifikasi pesawat yang tiba-tiba hilang dari radar sipil.
+	Teka-teki merumit saat mesin pesawat mengirim data tetap bekerja empat jam setelah lepas dari radar militer. Data dikirim otomatis oleh dua mesin Rolls-Royce Trent 800 di pesawat itu ke pusat pemantau di Derby, Inggris (Kompas, 14/3). Dengan 4 jam tersisa, ke mana pesawat itu menghilang?
+	Ruang gelap
+	Teknologi radar butuh pemancar yang berbasis di daratan. Samudra Hindia ibarat ruang gelap karena tak terdeteksi radar. MH700-200 memang bisa bersembunyi di ruang gelap Bumi ini, tetapi agaknya sulit menghindar dari mata satelit. Perusahaan satelit Inggris, Inmarsat, akhirnya memastikan pesawat ini telah terbang ke koridor selatan ke Samudra Hindia. Kami menggunakan efek Doppler, yang frekuensinya berubah sesuai pergerakan satelit kami di orbit, kata Chris McLaughlin, pejabat Inmarsat seperti dikutip The Telegraph, (24/3). Metode ini belum pernah dilakukanuntuk mencari pesawat hilang.
+	Berdasarkan Encyclopedia of World Scientist (2007), efek Doppler ditemukan fisikawan Chistian Doppler (1803-1853). Efek tercipta karena suara terpantul dari benda bergerak. Contoh sederhana, suara sirene ambulans mengeras saat mendekati kita yang diam. Setelah ambulans lewat, suara sirene pun mengecil.
+	Kesimpulan Inmarsat mendekati kenyataan setelah satelit sejumlah negara memotret obyek mencurigakan mengapung di laut, sekitar 2.500 km barat daya Perth, Australia. Pantauan langsung pesawat pencari juga mengorfirmasi keberadaan obyek yang diduga serpihan pesawat (Kompas, 25/3).
+	Namun, masih ada pertanyaan tersisa, kenapa pesawat ini bersembunyi dari pantauan radar sipil, lalu tiba-tiba terdeteksi berbelok arah, sebelum kemudian menghilang ke ruang gelap Bumi di ujung selatan Samudra Hindia?
+
+ 

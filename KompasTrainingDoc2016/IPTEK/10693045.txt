@@ -1,0 +1,18 @@
+
+	APLIKASI KOTA
+	Relasi Rakyat-Pemerintah di Ruang Maya
+
+
+	Lewat sebuah aplikasi, warga dan pemerintah Ibu Kota bisa berinteraksi langsung. Semua bisa terhubung, melaporkan dan menyelesaikan masalah, serta berbagi informasi tentang kota.
+	Senin (15/12), Gubernur DKI Jakarta Basuki Tjahaja Purnama meresmikan aplikasi bertajuk Smartcity (kota pintar) itu. Aplikasi ini berbasis web, bisa diakses lewat komputer yang terhubung internet, melalui alamat smartcity.jakarta.go.id. Laman ini merangkum informasi dari sejumlah media sosial, yakni Qlue, Twitter, dan Waze.
+	Basuki mengidamkan Smartcity menjadi toko serba ada. Semua informasi tentang Jakarta bisa didapatkan, mulai dari situasi lalu lintas jalan, aktivitas kota yang terekam oleh ribuan kamera pemantau (CCTV), infrastruktur terkait banjir dan kebencanaan, hingga informasi ringan, seperti tempat makan, pasar tradisional dan mal, rumah sakit, atau kantor polisi.
+	Akan tetapi, tak sekadar rangkuman info sebagaimana bisa didapatkan di Waze atau Twitter, Smartcity menjadi ruang interaksi antara warga dan pemerintah. Warga bisa melaporkan masalah yang mereka temukan, seperti tumpukan sampah, jalan rusak, saluran tersumbat, penyerobotan trotoar, kemacetan, atau parkir liar sekaligus dengan mengunggah foto. Laporan warga menjadi informasi yang bisa dilihat semua orang, termasuk aparat kelurahan atau kecamatan.
+	Lurah atau camat di wilayah yang dilaporkan bertanggung jawab atas penyelesaiannya. Sistem secara otomatis melaporkan keluhan yang diselesaikan dan yang belum, kata Kepala Dinas Komunikasi, Informatika, dan Kehumasan DKI Jakarta Agus Bambang Setyowidodo.
+	Menurut Agus, selain dengan Google, Twitter, dan Waze, Pemprov DKI menggandeng TerralogiQ untuk mengembangkan aplikasi Qlue dan Crop yang berbasis Android yang terhubung ke Smartcity. Qlue adalah media sosial yang menjadi ruang pelaporan warga. Crop merupakan aplikasi yang ditanam di telepon pintar aparat.
+	Grafik tentang isu-isu publik juga ditampilkan, seperti problem apa yang banyak dilaporkan warga, sehingga membantu para penentu kebijakan. Pemerintah pun menggandeng Polda Metro Jaya untuk melengkapi aplikasi ini menjadi ruang mitigasi kejahatan.
+	(Mukhamad Kurniawan)
+	Foto:
+	KOMPAS/PRIYOMBODO
+	Petugas melakukan perawatan rutin pada kamera pemantau (CCTV) di Jalan Imam Bonjol, Jakarta Pusat, Senin (15/12). Pada hari yang sama, Gubernur DKI Jakarta Basuki Tjahaja Purnama meluncurkan aplikasi Smartcity. Kegunaan aplikasi ini, antara lain, adalah untuk melihat keadaan Jakarta terkini dari hasil pemantauan CCTV dan laporan warga terkait kondisi pintu air, banjir, kemacetan, serta tumpukan sampah.
+
+ 

@@ -1,0 +1,23 @@
+
+	Cip KTP Dijamin Aman
+	BPPT Terus Memonitor Catatan Otomatis Aktivitas Server
+
+
+	Jakarta, Kompas - Pengelola teknis teknologi informasi kartu tanda penduduk elektronik, Badan Pengkajian dan Penerapan Teknologi, mengakui cip diimpor dari luar negeri. Namun, BPPT menjamin KTP elektronik bebas dari pemalsuan dan peretasan karena keamanan cip telah didesain dengan baik.
+	Direktur Pusat Teknologi Informasi dan Komunikasi Badan Pengkajian dan Penerapan Teknologi (BPPT) Hary Budiarto menyampaikan hal itu di Jakarta, Kamis (20/11). Menurut dia, semua cip KTP elektronik generasi pertama diimpor, terutama dari Tiongkok dan Perancis.
+	Generasi kedua nanti kami ambil alih. Cip akan diproduksi di dalam negeri, katanya.
+	Hary memastikan, cip memenuhi standar ISO 7816 untuk sistem operasi cip dan standar ISO 1443 untuk teknologi nirkontak. Cip penyimpan informasi biodata, pas foto, tanda tangan, dan sidik jari, yang ditanamkan dalam KTP elektronik, juga telah dienkripsi Lembaga Sandi Negara.
+	Data sudah dienkripsi. Ada kode unik dan kunci publik yang berbeda setiap KTP elektronik sehingga tidak bisa dibaca sembarangan oleh mesin pembaca kartu elektronik, kata Hary.
+	Proses enkripsi
+	Proses enkripsi yang rumit membuat KTP elektronik sulit dipalsukan. Kartu ini hanya bisa dibaca oleh mesin pembaca kartu elektronik yang sudah ditanami modul keamanan akses (SAM).
+	Mesin pembaca kartu elektronik impor yang dijual bebas tidak akan bisa membacanya, katanya.
+	Dia menjamin, tidak ada KTP elektronik palsu dan mustahil hal itu terjadi. Paling yang dipalsu blangko saja. Jadi, kartu dibuat mirip KTP elektronik yang ketika dimasukkan ke mesin pembaca akan diketahui ternyata palsu, kata Hary.
+	Pertemuan intensif
+	Terkait kekhawatiran publik terhadap keamanan data KTP elektronik yang berkembang belakangan ini, pemerintah pun menggelar pertemuan secara intensif. BPPT bersama Lembaga Sandi Negara dan Institut Teknologi Bandung pun bertemu.
+	Pertemuan itu menghasilkan rekomendasi audiensi dengan Kementerian Dalam Negeri pada Senin (24/11). Server jelas berada di Jakarta dan Batam (Kepulauan Riau). Memang pemeliharaan masih dilakukan pengembang yang berada di luar negeri. Tetapi, kami sudah membatasi akses mereka dan memonitor akses server oleh orang asing itu, kata Hary.
+	BPPT terus memonitor berkas catatan otomatis server sekaligus memeriksa aktivitas pemasok asing yang memelihara server dari luar negeri itu. Menurut Hary, mereka dapat langsung mendeteksi apabila pemasok asing tersebut menyalin data KTP elektronik dari server secara ilegal.
+	Pembatasan hak akses dan pemantauan penggunaan hak akses yang dilakukan BPPT sudah tepat. Pakar forensik digital, Ruby Alamsyah, mengatakan, sistem kerja jarak jauh (remote) merupakan hal biasa dalam proyek teknologi informasi. Termasuk jika ada kegiatan pemeliharaan dari vendor di luar negeri terhadap server yang ada di dalam negeri.
+	Standar kerja transaksi elektronik masih mengacu ke standar internasional yang sudah baku dan aman. Ada pula yang diatur Peraturan Pemerintah Nomor 82 Tahun 2012 tentang Penyelenggaraan Sistem dan Transaksi Elektronik. Pemerintah juga harus memperhatikan standar ISO 27001 (Manajemen Keamanan Informasi) untuk keamanan.
+	Akses terhadap server harus dibatasi. Untuk mengetahui adakah akses berlebihan, penggunaan hak akses terhadap server KTP elektronik harus diaudit, kata Ruby. (AMR)
+
+ 

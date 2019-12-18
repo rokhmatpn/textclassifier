@@ -1,0 +1,23 @@
+
+	Situs Berita Dipalsukan
+	Kemkominfo dan Polri Diminta Bertindak Cepat
+
+
+	Jakarta, kompas - Ada 10 situs berita dalam jaringan internet Indonesia dipalsukan untuk penyebaran informasi fiktif, bahkan fitnah, Selasa (29/7). Pembaca diminta berhati-hati dengan mencocokkan alamat situs media arus utama dengan yang tertera. Pemilik dan pengelola situs yang merasa dirugikan diminta melapor ke Polri.
+	Dari pengecekan dan penelusuran, situs-situs yang dibajak itu dikelola media massa arus utama, yakni antaranews.com, beritasatu.com, detik.com, inilah.com, kompas.com, liputan6.com, merdeka.com, republika.com, tempo.co, dan tribunnews.com.
+	Tidak terlalu sulit untuk membedakan alamat situs media massa arus utama dengan yang palsu. Alamat yang benar adalah kompas.com, sedangkan yang palsu adalah kompas.com--news.com.
+	Menyesatkan
+	Hal yang sama dialami situs lain. Kemiripannya adalah ada penambahan --news.com di belakang alamat yang benar. Cukup mudah membedakan mana situs yang benar atau palsu. Pembaca diharapkan jangan percaya pada situs dengan alamat domain tambahan --news.com.
+	Salah satu contoh, di kompas.com--news.com ada informasi berjudul Ditemukan Kejanggalan Mengejutkan Data KPU di Situs Resmi. Informasi ini tidak mencantumkan sumber berita sehingga tidak dipercaya. Saat dicek ke kompas.com, berita itu tidak pernah ada. Pembaca yang tidak teliti bisa terkecoh dan memercayai informasi itu berasal dari kompas.com sehingga merugikan redaksi tersebut.
+	Informasi yang disebarkan situs palsu itu menyesatkan, kata Redaktur Pelaksana kompas.com Wisnubrata. Redaksi meminta Kementerian Komunikasi dan Informatika mengatasi pemalsuan situs berita dan meminta Polri mengusut kasus ini.
+	Hal senada dikatakan Pemimpin Redaksi tempo.co Daru Priyambodo. Kemkominfo diminta cepat melacak dan menutup situs palsu itu. Situs porno dan SARA cepat diblokir. Situs penyebar informasi sesat seharusnya juga segera ditutup, katanya.
+	Daru mengatakan telah meminta tim teknologi informasi untuk mengecek situs-situs palsu itu sebagai bahan laporan ke Polri. Namun, yang paling penting, publik atau pembaca harus tahu dan waspada bahwa ada situs-situs pemalsu situs berita nasional guna penyebaran berita bohong.
+	Kejahatan
+	Anggota Dewan Pers, Nezar Patria, yang dihubungi mengatakan, pembuat situs palsu itu beritikad buruk karena membuat alamat yang mirip situs asli tetapi untuk menyiarkan disinformasi atau berita tidak akurat, tidak dipercaya, bahkan fitnah. Namun, efeknya agar publik terkecoh dan percaya sehingga ini kejahatan dalam informasi.
+	Dewan Pers memantau situs- situs palsu itu dan meminta pengelola situs berita yang dirugikan untuk melapor. Dewan Pers meminta publik kritis dan teliti membaca informasi. Cek sumber berita ke situs-situs media massa arus utama agar tidak termakan fitnah.
+	Kepala Bidang Humas Polda Metro Jaya Komisaris Besar Rikwanto mengatakan, Polri tidak menunggu laporan. Kami mulai menyelidiki, katanya.
+	Pakar digital forensik Ruby Alamsyah mengatakan, kejahatan terhadap situs berita bukan pembajakan, melainkan membuat subdomain alamat palsu. Cara ini kerap terjadi pada kejahatan perbankan, yakni mengarahkan korban ke link situs internet banking palsu untuk menarik dana.
+	Menurut Ruby, kejahatan di internet tetap meninggalkan jejak sehingga bisa dilacak dan diatasi. Dari kasus ini, Kemkominfo dan Polri patut menegakkan Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik. Penegakan hukum tidak perlu menunggu laporan, bisa dilakukan kapan saja, katanya. (BRO)
+	 
+
+ 

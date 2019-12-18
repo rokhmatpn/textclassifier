@@ -1,0 +1,41 @@
+
+	Meniti Peradaban Digital Indonesia
+
+
+	Layar gadget atau gawai bagi anak masa kini tak ubahnya permen warna-warni bagi anak-anak yang hidup puluhan tahun lalu. Keduanya punya daya sihir yang tak terelakkan pada zamannya. Lantas, haruskah keniscayaan ini dimusuhi?
+	Oleh Sarie Febriane
+	Kenneth (8), siswa kelas III sekolah dasar itu, asyik terpaku di depan layar laptop. Tiba-tiba dia berseru. Zombie-ku kok jadi hilang!
+	Efrida, tutor dari Coding Indonesia, kemudian menghampiri Kenneth dan membantunya memecahkan masalah. Rupanya ada susunan instruksi yang kurang lengkap dalam script permainan atau games yang tengah dirancang oleh Kenneth. Ya, bocah ini tengah merancang sebuah games zombie dengan aplikasi dari situs scratch.mit.edu, situs terbuka dan gratis bagi siapa saja di dunia untuk belajar bahasa pemrograman komputer atau coding.
+	Bersama Kenneth, siang itu, 12 siswa lainnya juga tengah asyik menciptakan games zombie dengan aneka kreasi masing-masing. Mereka adalah siswa sekolah dasar di Sekolah High/Scope Indonesia di bilangan TB Simatupang, Jakarta Selatan. Selama sepekan sekali, seusai jam sekolah, anak-anak itu mempelajari coding di laboratorium komputer sekolah dengan bantuan bimbingan dari Coding Indonesia, lembaga pengajaran coding bagi anak-anak dan dewasa.
+	Coding secara sederhana dapat dipahami sebagai cara menyusun rangkaian instruksi sehingga komputer dapat melakukan berbagai hal yang kita inginkan atau memecahkan masalah. Mempelajari coding bukan berarti mendorong anak-anak menjadi seorang pemrogram. Seperti halnya anak-anak mempelajari matematika, ilmu alam, dan ilmu sosial di bangku sekolah, bukan berarti mereka akhirnya harus menjadi ilmuwan dari bidang ilmu tersebut. Ilmu-ilmu itu dipelajari untuk membantu mereka memahami kehidupan.
+	Begitu pula dengan coding. Anak-anak dibekali ilmu tersendiri untuk memahami bahasa kehidupan di masa kini dan masa depan yang akan semakin bertumpu pada peran teknologi komputer dan dunia digital. Dengan demikian, anak-anak dibiasakan tidak menerima begitu saja kehadiran teknologi dalam kehidupan sehari-hari, lalu hanya sebatas menggunakannya sebagai gaya hidup konsumtif.
+	Jadi, ini soal mau menjadikan gadget sebagai sahabat atau musuh. Sebab, bagaimanapun anak-anak di masa kini adalah digital native. Ketimbang khawatir terus-menerus anak-anak hanya sebagai konsumen dan diperpudak gadget, mereka diarahkan untuk menjadi kreator dengan perangkat gadget-nya. Gadget untuk berkreasi, sarana produktif, dan alat untuk belajar, kata Eva Tantri Mahastri, Kepala Sekolah Dasar dan SMP High/Scope Indonesia.
+	Anak-anak dapat mempelajari coding dengan mulai berkreasi membuat hal yang menyenangkan, seperti menciptakan games, animasi, aneka aplikasi, dan web. Dari proses kreatif ini, coding menjadi cikal-bakal produk kreatif lainnya hingga pemecahan masalah berbangsa dan bernegara.
+	Masih ingat bagaimana hiruk-pikuk pemilihan presiden yang lalu? Di tengah kegaduhan rekapitulasi suara pasca pencoblosan, muncullah situs fenomenal kawalpemilu.org. Sebuah gerakan publik crowdsourcing yang dipelopori anak muda Ainun Najib dan kawan-kawannya serta sukses membangun kredibilitas dalam proses rekapitulasi suara alternatif. Dalam contoh kasus inilah, coding menjadi krusial untuk dikuasai generasi mendatang.
+	Coding melatih cara berpikir anak untuk memecahkan masalah secara sistematis, mencermati sekuen, dan menyeleksi fungsi-fungsi yang bisa digunakan untuk menyusun instruksi. Pada akhirnya coding mempertajam cara berpikir anak, kata Wahyudi, pemrogram dan salah satu pendiri Coding Indonesia.
+	Berawal dari resah
+	Coding Indonesia sendiri berdiri sejak tahun 2013 atas inisiatif seorang ibu yang resah, Kurie Suditomo. Kurie sempat gelisah dengan kecenderungan anak sulungnya, Ranu (10), yang begitu berhasrat pada perangkat gadget untuk sekadar bermain games. Padahal, Kurie tak memanjakannya dengan limpahan aneka gadget. Memang, sekalipun orangtua tak memberikan gadget kepada anak-anak, pada akhirnya penetrasi gadget akan datang dari lingkungan sekitar.
+	Keresahan Kurie adalah keresahan banyak orangtua masa kini. Sampai akhirnya Kurie merasa tercerahkan ketika menemukan situs http://code.org. Situs yang baru tahun 2013 diluncurkan ini merupakan organisasi nirlaba berbasis di Amerika Serikat yang mengampanyekan pengajaran ilmu komputer bagi anak-anak di seluruh dunia.
+	Melalui situs itu, Kurie menyadari sebagai orangtua tak perlu memusuhi perangkat gawai tanpa solusi yang sesuai zaman. Dia pun yakin coding dapat mengasah kreativitas anaknya bertransformasi menjadi kreator dengan memanfaatkan perangkat gadget. Dengan tujuan itu, gerakan code.org memberikan materi pengajaran coding secara gratis. Singkat cerita, Kurie bersama teman lamanya, Wahyudi, pemrogram yang lama bekerja di Jerman dan AS, kemudian mendirikan Coding Indonesia.
+	Bagaimanapun, bahasa komputer adalah bahasa di masa depan, terlepas dari soal anak ingin menjadi apa, kata Kurie.
+	Keseimbangan
+	Seperti juga Kurie, bagi Dinda Damarasri, memberi kanal yang positif bagi anaknya lebih menjadi solusi ketimbang mengisolasi anak dari paparan gawai, tetapi justru membuat anak kian penasaran. Dinda pun memilih mencemplungkan anak sulungnya, Diaz (11), untuk mempelajari coding.
+	Diaz lantas seperti botol sampanye yang dibuka katupnya, kreativitasnya meluncur deras. Kini, sudah lebih dari 30 games yang diciptakan yang tersimpan dalam situs scratch.mit.edu. Jika game karyanya itu mendapat pujian jempol (like) atau digubah anak lain, entah di belahan dunia mana, Diaz tentu saja senang dan merasa sangat diapresiasi.
+	Meski demikian, Kurie dan Dinda tetap berusaha menyeimbangkan hobi anak-anak mereka berkutat dengan perangkat komputer dengan aktivitas fisik luar ruang yang nyata. Kurie mendorong Ranu menekuni taekwondo, sementara Dinda menyemangati Diaz berlatih sepak bola. Selain itu, relasi kedua anak itu terhadap perangkat gawai juga dibatasi hanya di akhir pekan.
+	Selain bekerja sama dengan sekolah-sekolah, Coding Indonesia juga membuka kelas independen di kawasan Cipete dan Kemang, Jakarta. Anak-anak pun datang dengan sukarela penuh hasrat. Dia sama sekali enggak terpaksa, hujan badai pun tetap datang ke sini, ujar Denny Alexander, ayah dari William (9), yang kursus coding di kelas Cipete.
+	Misi Kurie dan Wahyudi kini adalah terus mengampanyekan dan mengajarkan coding bagi anak-anak di Indonesia. Tak hanya di kawasan urban, pengajaran coding oleh Coding Indonesia juga akan terus berusaha menembus pelosok Tanah Air sebagai komitmen amal kampanye tersebut. Idealnya, coding sebagai ilmu komputer dapat terintegrasi dalam kurikulum sekolah, seperti yang mulai dijalani di Inggris dan beberapa negara bagian di AS.
+	Kita (Indonesia) belum terlambat kok. AS saja baru memulai. Seperti ucapan Obama, Dont just play on your phone, program it, ujar Kurie menirukan ucapan Presiden AS Barack Obama.
+
+ 
+Grafik: Internet Makin Memasyarakatkan
+
+	Foto: 4
+	FOTO-FOTO: KOMPAS/LASTI KURNIA
+	1. Anak-anak bermain game online di Warnet Fibernet Easy Cam di kawasan Kemandoran, Jakarta, Kamis (11/12).
+	2. Ribuan warga mengeluarkan gawainya (gadget) merekam peristiwa acara pesta rakyat pada pelantikan Presiden Joko Widodo di Monumen Nasional, Jakarta, Senin (20/10).
+	3. Berbagai jenis gawai digunakan seseorang secara bersamaan menjadi pemandangan yang lazim saat ini, Kamis (11/12), di Jakarta.
+	4. Anak-anak belajar membuat aplikasi game di Coding Indonesia, Cipete, Jakarta, Sabtu (22/11). Pola konsumtif terhadap game berusaha diubah menjadi produktif dan anak belajar bahasa pemrograman.
+	Foto:
+	MYE
+
+ 

@@ -1,0 +1,16 @@
+
+	Informasi Geospasial
+	Google Berpotensi Melanggar Undang-undang
+
+
+	JAKARTA, KOMPAS  Google, perusahaan Amerika Serikat yang bergerak di bidang jasa dan produk internet, berpotensi melanggar Undang-Undang Nomor 4 Tahun 2011 tentang Informasi Geospasial. Pelanggaran itu terjadi karena menampilkan peta Indonesia yang tidak mengacu pada Informasi Geospasial Dasar yang dikeluarkan dan dikelola Badan Informasi Geospasial.
+	UU Informasi Geospasial akan berlaku pada 1 April 2014. Pelanggaran terhadap UU tersebut dapat digugat dan dikenai sanksi. Hal itu disampaikan Kepala Badan Informasi Geospasial Asep Karsidi, Rabu (12/2), di Jakarta. Sanksi akan dikenakan bagi siapa pun yang menyebarkan informasi geografis yang tidak mengacu pada Informasi Geospasial Dasar (IGD), termasuk mengungkap lokasi strategis.
+	Asep mengakui, Google memiliki kecepatan tinggi dalam pencarian informasi karena memiliki mesin pencari (searching engine) dan server memadai.
+	Namun, Google seharusnya mengacu pada IGD sehingga penunjukan lokasi akurat. Saat ini Google menggunakan peta yang didasari informasi geospasial dari komunitas di daerah.
+	Google dapat dipersalahkan karena peta hingga skala besar pada Google map menampilkan suatu lokasi hingga ke obyek rumah dan jalan diperoleh dari komunitas awam. Tingkat akurasi peta yang dapat diakses siapa pun itu sangat rendah.
+	Obyek strategis geografi seperti markas besar TNI dan gudang peluru dicantumkan dalam Google map dan disebarluaskan ke seluruh dunia. Setiap pengumpulan data strategis yang diikat dengan sistem koordinat harus ada izin dan kerja sama dengan otoritas, ujarnya.
+	Menurut Asep, BIG akan mengundang Google untuk bekerja sama dalam penyebaran informasi geospasial berbasis IGD. Lembar peta Indonesia dapat ditutup dengan lembar peta BIG. Google harus bekerja sama menyebarkan peta yang dapat dipertanggungjawabkan, ujarnya.
+	Hal yang sama dilakukan oleh negara lain, seperti Iran dan China. Di Google, kita tidak dapat melihat obyek strategis mereka, katanya. Google harus menghormati kebijakan satu peta, satu basis data, satu referensi, satu standar, dan satu portal yang dikeluarkan BIG, sebagai pembina IG Termatik dan pengelola basis data IGD, demikian Dodi Sukmayadi, Deputi Informasi Geospasial Dasar BIG.
+	Ada 7 lapisan informasi geospasial meliputi garis pantai, kontur batimetri, sungai dan badan air, jalan, serta bangunan umum, penamaan rupabumi atau toponimi, batas wilayah administrasi, dan tutupan lahan. (YUN)
+
+ 

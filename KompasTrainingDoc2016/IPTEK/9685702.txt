@@ -1,0 +1,44 @@
+
+	Teknologi Pencahayaan
+	Evolusi Sebuah Bola Lampu
+
+
+	Sejak ditemukan hampir dua abad silam, bola lampu yang menerangi bumi terus berkembang. Tuntutan hemat energi memicu inovasi hingga menghasilkan lampu yang kian efisien memanfaatkan energi. Fungsinya pun tak lagi menerangi rumah atau jalan, tetapi meluas, termasuk budidaya tanaman.
+	Oleh M Zaid Wahyudi
+	Ikhtiar Joseph Swann, Inggris, dan Thomas Alva Edison, Amerika Serikat, pada 1870-an menghasilkan bola lampu pijar. Meski mereka bukan penemu pertama lampu elektrik, usaha mereka memungkinkan produksi massal.
+	Cahaya lampu pijar berasal dari nyala filamen, kawat tipis dari tungsten. Saat lampu dinyalakan, arus listrik memanaskan filamen hingga suhu 2.200 derajat celsius hingga filamen berpijar. Supaya panas terkonsentrasi di sekitar filamen, tungsten ditempatkan dalam bola lampu kedap udara.
+	Karena cahaya lampu dari proses pemanasan, kestabilan arus listrik menentukan nyala lampu, kata dosen Program Studi Fisika Institut Teknologi Bandung, Rahmat Hidayat, Sabtu (11/10). Tegangan listrik turun, suplai arus berkurang, lampu meredup. Pun sebaliknya.
+	Suhu pemanasan yang tak terlalu tinggi membuat pancaran sinar berwarna kuning. Intensitas cahaya atau tingkat kecerlangan lampu pijar hanya
+	15 lumen per watt. Akibatnya, untuk menghasilkan cahaya lebih terang butuh energi listrik besar.
+	Namun, sebesar apa pun arus listrik yang diberikan, lebih dari 90 persennya diubah jadi panas. Hanya 5 persen listrik yang diubah jadi cahaya. Itu jelas tidak efisien dan boros listrik.
+	Pemanasan filamen terus-menerus, lanjut Rahmat, akan mengikis permukaan
+	tungsten hingga penampang kawat mengecil hingga filamen putus dan lampu tak bisa digunakan lagi. Mudah putusnya filamen membuat usia hidup lampu hanya 1.000 jam atau empat bulan untuk pemakaian 8 jam per hari.
+	Lampu pendar
+	Sifat boros lampu pijar mendorong ilmuwan dan perekayasa mencari bola lampu baru lebih efisien terkait energi. Lahirlah lampu pendar atau lampu
+	fluorosensi pada 1938.
+	Lampu ini paling banyak digunakan di Indonesia, baik tabung (tubular lamp/TL) maupun kompak. Sebagian masyarakat menyebutnya lampu neon karena banyak digunakan pada neon box atau papan reklame.
+	Sejatinya, kedua lampu itu berbeda jenis. Proses menghasilkan cahaya keduanya sama, lewat proses eksitasi elektron. Namun, kandungan gas yang dieksitasi berbeda. Eksitasi pada lampu neon hanya sekali, sedangkan lampu pendar dua kali.
+	Saat lampu dialiri listrik, elektroda pada ujung tabung lampu pendar memancarkan elektron bebas. Elektron itu akan mengionisasi gas argon dalam tabung bertekanan rendah.
+	Arus listrik membuat elektron bebas dan ion gas argon bergerak cepat dari satu elektroda ke elektroda lain. Arus listrik juga mengubah merkuri dalam tabung dari cair jadi gas. Proses itu akan membuat partikel bergerak (elektron dan ion) bertabrakan dengan atom merkuri. Akibatnya, elektron merkuri tereksitasi, turun ke tingkat energi lebih stabil dan melepaskan energi dalam bentuk foton atau cahaya ultraviolet.
+	Selanjutnya, cahaya ultraviolet akan mengeksitasi atom fosfor pada lapisan dalam tabung. Fosfor itu pula yang memberi warna putih tabung. Pada proses eksitasi lanjutan itu akan dihasilkan cahaya tampak putih terlihat mata. Variasi cahaya lampu pendar bisa diatur berdasarkan komposisi fosfor, ujarnya.
+	Proses eksitasi lanjutan itu tak ada pada lampu neon. Gas yang digunakan pun tidak hanya argon, tapi juga neon dan kripton. Neon menghasilkan cahaya merah, sedang gas lain menghasilkan warna berbeda.
+	Lampu pendar menghasilkan intensitas cahaya lebih baik dari lampu pijar, 67 lumen per watt. Pengubahan cahaya ultraviolet menjadi cahaya tampak juga menghasilkan panas yang hilang ke lingkungan, tapi jumlahnya lebih sedikit. Usia rata-rata lampu lebih lama, 8.500-10.000 jam.
+	Lampu LED
+	Meski lebih hemat dari lampu pijar, keberadaan merkuri yang merupakan logam berat dalam lampu pendar jadi masalah baru karena merusak lingkungan dan mengganggu kesehatan. Tuntutan ada lampu yang kian hemat tetap ada. Selain itu, lampu masa depan pun harus bisa diaplikasikan lebih luas.
+	Lahirlah lampu berteknologi dioda pemancar cahaya
+	(light-emitting diode/LED). Penelitian lampu LED dimulai 1960-an dengan menghasilkan lampu LED merah dan hijau. Baru pada 1990-an, LED biru hadir. Dengan temuan LED biru, LED putih bisa dibuat.
+	Temuan atas LED biru itulah yang membuat ilmuwan Jepang Isamu Akasaki, Hiroshi Amano, dan Shuji Nakamura dianugerahi hadiah Nobel Fisika 2014.
+	Sumber pencahayaan lampu LED berasal dari dioda berupa semikonduktor dari material padat dan mampu mengalirkan arus listrik. Energi yang dilepaskan dari gerakan elektron dalam semikondutor itulah yang akan menghasilkan cahaya.
+	Saat listrik dialirkan, elektron bebas dari bagian negatif semikonduktor yang diperkaya elektron bebas mengalir ke bagian positif. Saat bersamaan, lubang elektron pada bagian positif bergerak ke bagian negatif.
+	Gerakan itu membuat elektron bebas jatuh ke lubang elektron. Akibatnya, elektron turun ke tingkat energi yang lebih stabil dan melepaskan foton/cahaya. Kian tinggi energi foton yang dihasilkan, cahaya yang dihasilkan kian tinggi frekuensinya atau panjang gelombangnya.
+	Oleh karena itu, warna cahaya yang diperoleh lampu LED bergantung pada campuran materi penyusun diodanya. Misalnya, campuran aluminium, galium, dan arsenik akan menghasilkan cahaya merah. Perpaduan indium, galium, dan nitrida memberi warna biru.
+	Dibandingkan ukuran pembangkit cahaya lampu pijar dan pendar, ukuran LED sangat kecil, luasnya kurang dari 1 milimeter persegi. Semakin besar LED, susunan atomnya makin mudah rusak sehingga sifat elektriknya berkurang, ujar Rahmat yang juga meneliti LED.
+	Oleh karena itu, untuk membuat sebuah bola lampu umumnya tersusun beberapa LED. Ukuran kecil juga memungkinkan lampu LED ditempatkan pada berbagai sirkuit elektronik untuk beragam pencahayaan.
+	Tak hanya penerangan rumah atau jalan, rangkaian LED juga dimanfaatkan untuk pencahayaan beragam alat elektronik, mulai pengendali jarak jauh, layar monitor, telepon pintar, hingga televisi. Bahkan, LED juga bisa sebagai pengganti sinar matahari untuk menumbuhkan tanaman dalam ruang.
+	Lebih dari 50 persen energi listrik pada LED diubah jadi cahaya. Itu membuat LED lebih efisien dibandingkan lampu pendar, apalagi lampu pijar. Setiap 1 watt listrik mampu menghasilkan cahaya berintensitas 70-100 lumen. Usia pakai bisa lebih lama hingga 50.000 jam.
+	Proses produksi yang rumit membuat harga lampu LED masih mahal. Namun, jika dihitung biaya total pembelian dan pemakaian listrik, penggunaan LED tetap lebih murah.
+	Selain itu, LED juga rentan dengan temperatur tinggi yang akan membuatnya terlalu panas dan gagal beroperasi. Oleh karena itu, LED butuh arus listrik stabil dan pemasangan sirkuit listrik secara tepat.
+	(LIVESCIENCE/HOWSTUFFWORKS)
+
+ 
+Grafik: Evolusi Bola Lampu

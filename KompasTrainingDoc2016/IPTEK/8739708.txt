@@ -1,0 +1,22 @@
+
+	Inovasi
+	Bersama-sama Membuat Gigi Bicara...
+
+
+	Kehidupan manusia kini tak bisa dilepaskan dari teknologi informasi dan komunikasi. Bahkan, untuk urusan bau mulut dan suara juga bisa dideteksi lewat perangkat teknologi. Alat itulah yang dibuat oleh tim mahasiswa Universitas Gadjah Mada, Yogyakarta, yang dinamai Tootells, berupa gigi tiruan berbahan baku serbuk kayu dengan dilengkapi sistem elektronik berbasis microcontroller. Setiap bagian mulut yang tersentuh alat itu menghasilkan suara secara otomatis.
+	Alat yang membuat gigi seperti bisa berbicara itu adalah karya Apriliani Astuti, Isti Noor Masita, dan Navikatul Ula dari Fakultas Kedokteran Gigi UGM bersama Hamzah Asaludin dari Jurusan Teknik Mesin UGM serta Brisma Meihar Arsandi dari Program Studi Elektronika dan Instrumentasi Fakultas Matematika dan Ilmu Pengetahuan Alam (MIPA) UGM.
+	Alat ini dihajatkan untuk kalangan tunanetra untuk pendidikan kesehatan gigi. Namun, alat ini bisa juga sebagai media pembelajaran bagi siswa SD, SMP, SMA, dan warga lainnya agar lebih mengetahui tentang kesehatan gigi dan mulut, ujar Apriliani Astuti, yang menjadi ketua tim, beberapa saat lalu.
+	Isti Noor dan Navikatul menambahkan, ide membuat alat itu tercetus saat mereka melakukan pengabdian masyarakat. Masyarakat tak banyak yang mengetahui perihal kesehatan gigi dan mulut. Padahal, mulut merupakan pintu gerbang masuknya makanan ke perut. Jika sisa makanan yang tersangkut pada gigi tidak dibersihkan, lambat laun menyebabkan infeksi pada jaringan gusi, masuk ke jaringan darah, dan bisa mengakibatkan peradangan pada bagian tubuh lain, seperti ginjal, sendi, dan kepala.
+	Tidak sedikit pula kalangan yang paham soal kesehatan gigi dan mulut itu juga mengabaikan untuk menggosok gigi setelah makan dan sebelum tidur. Akibatnya, tingkat kerusakan gigi di negeri ini pun relatif tinggi, mencapai 72 persen untuk gigi berlubang dan 80 persen untuk persoalan gusi.
+	Kondisi tidak lebih baik terjadi pada kalangan tunanetra. Bahkan, dengan keterbatasannya, kesehatan rongga mulut mereka lebih buruk. Karang gigi kebanyakan warga tunanetra dibiarkan menumpuk. Kalau kita yang normal, dengan mengaca bisa mengetahui kondisi gigi. Namun, penderita tunanetra tak semudah itu, tutur Apriliani.
+	Selama ini pendidikan kesehatan mulut dan gigi dilakukan melalui penyuluhan, dengan alat peraga berbahan resin dan akrilik yang menggambarkan posisi gigi, gusi, rahang, dan saraf lain. Namun, alat peraga itu kurang interaktif. Apalagi, bagi warga yang tak bisa melihat.
+	Murah meriah
+	Dengan berbagai persoalan itu, Aprilia dan rekannya membuat alat peraga yang murah meriah dan gampang dimengerti semua kalangan. Bahan gigi tiruan berukuran relatif besar itu adalah serbuk kayu yang selama ini dianggap limbah tak berguna. Tootells itu lebih interaktif dan menggambarkan lebih detail tentang bagian dalam gigi, seperti email, dentin, pulpa, sementum, mahkota, akar gigi, geraham, dan gusi. Setiap bagian diberi garis pembatas yang jelas disertai tombol, alat sensor
+	microcontroller, dan speaker. Ketika pengguna menyentuh atau menekan tombol, otomatis mengeluarkan suara yang menerangkan secara lebih terinci bagian yang disentuh itu.
+	Alat peraga yang dilengkapi modul dental health education (DHE) berhuruf Braille ini diperkenalkan kepada siswa sekolah luar biasa khusus tunanetra di Yogyakarta. Siswa pun menyambut baik alat peraga itu karena memudahkan mereka mengenal anatomi dan struktur gigi. Mereka juga dapat mengetahui beberapa penyakit gigi, kata Aprilia lagi.
+	Alat peraga itu dibuat pada Februari 2014 setelah empat kali revisi. Pembuatan alat peraga itu didanai Direktorat Jenderal Pendidikan Tinggi Kementerian Pendidikan dan Kebudayaan. Kini, Aprilia dan timnya berupaya mematenkan karya mereka dan diharapkan bisa menjadi media pembelajaran bagi
+	siswa segala tingkatan, khususnya kalangan tunanetra. Apalagi harga alat peraga itu terbilang murah, yaitu Rp 500.000 per unit. (KHAERUL ANWAR)
+
+Foto:
+KOMPAS/KHAERUL ANWAR
+Kalangan tunanetra kini akan lebih mudah mengenal dan memahami akan pentingnya kesehatan gigi dan mulut. Kemudahan itu didapat dari alat peraga Tootells karya mahasiswa lintas disiplin ilmu dari Universitas Gadjah Mada, Yogyakarta, ini.

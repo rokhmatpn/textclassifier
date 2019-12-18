@@ -1,0 +1,34 @@
+
+	Teknologi Lampu
+	Manfaat LED Tak Hanya Terang
+
+
+	Ingar-bingar pemilu presiden yang bersamaan dengan putaran final Piala Dunia 2014 Brasil membius perhatian masyarakat pada gejolak kenaikan tarif dasar listrik. Bagaimanapun, kenaikan itu akan berdampak pada sektor ekonomi lain, terutama menjelang Lebaran.
+	Oleh AW SUBARKAH
+	Selama ini, layanan pasokan listrik terus dikeluhkan. Kenaikan tarif pun tidak mengubah kualitas layanan. Di sisi lain, perilaku konsumen juga masih seenaknya: membiarkan pesawat televisi menyala tanpa ditonton dan perangkat penyejuk udara bekerja tanpa diperlukan.
+	Bahkan, yang sangat sederhana, mematikan lampu yang tidak digunakan pun masih enggan. Apalagi di sejumlah lingkungan perusahaan, di ma-
+	na pemakaian listrik seperti gratis.
+	Itu semua sebenarnya bukan semata soal biaya yang harus dibayarkan kepada Perusahaan Listrik Negara (PLN). Namun, setiap ampere arus listrik yang dibiarkan sia-sia sama artinya membiarkan pencemaran lingkungan tanpa manfaat.
+	Tentu saja menyalahkan konsumen juga tidak bijaksana. Harus ada cara mengatasinya, misalnya dengan membuat instalasi sakelar yang memudahkan atau peraturan tertentu. Bahkan, Eropa saat ini sudah melarang penggunaan lampu pijar karena memberi beban listrik yang jauh lebih berat dibandingkan lampu hemat energi, apalagi jenis lampu light-emitting diode (LED).
+	Memang pelarangan itu tidak serta-merta bisa diterapkan di negeri yang daya beli masyarakatnya masih rendah ini. Dibutuhkan sosialisasi penggunaan bohlam LED. Sebenarnya penggunanya sudah banyak karena biaya operasional pemakaian listriknya bisa ditekan.
+	Kelebihan LED ada pada efisiensi konversi daya listrik. Dengan daya listrik yang sama, LED mampu memendarkan
+	cahaya tujuh kali atau lebih dibandingkan bohlam biasa atau dua kali lampu TL (neon). Bohlam LED 10 watt mampu membangkitkan cahaya lampu pijar berdaya 70 watt. Rendahnya efisiensi lampu pijar itu karena sebagian besar energi listrik diubah menjadi panas.
+	Masalahnya, sebagian besar masyarakat kurang teredukasi dengan hal ini. Sisi lain adalah soal harga. Harga lampu pijar berdaya 70 watt tidak lebih dari Rp 6.000. Bandingkan dengan LED 10 watt yang sekitar Rp 90.000. Jika ingin memulai, sebenarnya hal ini bisa dilakukan secara selektif. Penerangan lampu LED, misalnya, bisa dimulai pada lampu yang sering digunakan. Selain menghemat listrik, daya tahan LED juga jauh lebih lama, sekitar 20.000 jam dibandingkan lampu pijar yang hanya 1.000 jam atau lampu TL yang 5.000 jam.
+	Kualitas
+	Para ahli optimistis bahwa bohlam LED bisa mengambil alih peran bohlam hemat energi yang sekarang banyak digunakan mulai tahun 2015. Tahun 2020 diperkirakan LED memenuhi pasar lampu sebesar 88-90 persen. Hal itu dinilai akan semakin mengurangi beban lingkungan akibat pencemaran yang muncul pada pembangkitan listrik.
+	Berbagai merek LED yang
+	sekarang mudah ditemukan di pasar, termasuk produk buatan Tiongkok yang lebih murah, memicu pertumbuhan secara cepat. Bagi konsumen, produk teknologi baru antara satu merek dan merek lain memang masih sulit dibedakan, sedangkan penyempurnaan teknologinya terus berlangsung.
+	Kelemahan lampu LED yang beredar di pasaran sekarang terutama terletak pada sensitivitas variasi dan lonjakan tegangan. Bagaimanapun, komponen elektronik dioda memerlukan pasokan daya yang konstan sepanjang waktudi mana tegangan listrik bolak-balik PLN sebesar 220 volt secara drastis harus diturunkan menjadi tegangan searah. Namun, keandalannya ditentukan rangkaian elektronik penggeraknya.
+	Kemajuan teknologi elektronika memang berhasil membuat rangkaian elektronik yang ringkas sekalipun ketahanannya berkurang. Untuk meningkatkan kualitas itu, para peneliti di Institut Fraunhofer, Jerman, memfokuskan perhatian pada transistor dari bahan galium nitrida (GaN). Transistor dengan bahan semikonduktor baru ini mampu beroperasi pada arus, tegangan, dan temperatur yang lebih tinggi daripada transistor bahan silikon standar.
+	Panas memainkan peran, baik pada kecerahan maupun usia lampu LED, kata Michael Kunzer, manajer grup pada Fraunhofer IAF (Institute for Applied Solid State Physics). Transistor GaN sebagai komponen utama penggerak lampu LED yang diharapkan bisa memperbaiki kualitas lampu LED ini ternyata juga merupakan switch frekuensi tinggi, di mana kecepatan switch memberi dampak signifikan pada besar kumparan dan kondensator untuk menyimpan daya.
+	Kecepatan switch penggerak dari transistor GaN bisa dibuat pangkat 10 kecepatan driver transistor silikon. Ini berarti bisa dibuat rangkaian switching
+	lebih murah. Dan, lampu LED bisa menjadi lebih kompak dan ringan dengan membangkitkan cahaya yang sama atau bahkan lebih baik serta sudah tentu hal ini membuat harga lampu LED jadi lebih murah.
+	Dari penyempurnaan ini, para peneliti mampu meningkatkan kualitas penerangan dibandingkan dengan lampu LED di pasaran saat ini. Untuk lampu yang mampu membangkitkan cahaya sekitar 1.000 lumen, dengan daya yang sama, lampu berpenggerak GaN bisa meningkat hingga 2.060 lumen.
+	Peningkatan efisiensi ini jelas akan memberikan kontribusi sangat berarti bagi lingkungan, sedangkan lampu LED sendiri tidak mengandung unsur-unsur berbahaya. Jika pada tahun 2020 pasar LED ini mampu menguasai hingga 90 persen pangsa pasar penerangan, perannya untuk mengurangi beban lingkungan juga akan sangat berarti.
+	Namun, tentu saja peran PLN untuk memperbaiki kualitas layanan juga sangat penting. Bagaimanapun, menjaga stabilitas tegangan menjadi sangat penting.
+	 
+	Foto:
+	KOMPAS/AW SUBARKAH
+	Lampu LED
+
+ 

@@ -1,0 +1,31 @@
+
+	Fisika Medis
+	Terapi dan Tomografi Proton
+
+
+	Juli 2014, peneliti fisika partikel di Laboratorium Nasional Fermi, Fermilab, yang bekerja sama dengan fisikawan medis dari Northern Illinois University, Amerika Serikat, mengumumkan keberhasilan mereka membangun prototipe pemindai tomografi terkomputasi proton. Temuan itu menandai era baru fisika medis.
+	Hingga kini, tomografi masih memanfaatkan sinar-X (dikenal sebagai CT-scan). Berbeda dengan penggunaan sinar-X, pemakaian proton (proton computed tomography scanner atau disingkat pCT) bukan hanya dapat menurunkan dosis radiasi yang terpapar pada pasien, melainkan juga mampu meningkatkan akurasi pencitraan karena sifat unik dari inti atom hidrogen itu.
+	Umum diketahui bahwa keberhasilan pengobatan kanker sangat ditentukan oleh keakuratan penentuan dosis radiasi serta posisi jaringan kanker. Dua hal itu sangat berperan dalam menekan efek samping terapi dan tomografi, seperti kerusakan jaringan sehat di sekitar tumor.
+	Terapi proton
+	Secara umum, jaringan organ tubuh manusia dibentuk dari molekul-molekul dengan atom-atom sebagai penyusun dasarnya. Atom-atom itu memiliki inti serta sejumlah elektron yang mengorbit inti tersebut.
+	Radiasi dalam bentuk sinar-X (foton) atau proton yang masuk ke dalam jaringan akan berinteraksi dengan elektron-elektron tersebut sehingga dapat mengakibatkan terlepasnya elektron dari orbit, yang disebut sebagai proses ionisasi atau naiknya elektron ke keadaan kuantum lebih tinggi, yang dikenal sebagai proses eksitasi. Baik ionisasi maupun eksitasi dapat merusak fungsi sel atau bahkan mematikan sel.
+	Pada kasus sinar-X, intensitas radiasi yang sebanding dengan jumlah foton akan menurun saat memasuki jaringan tubuh manusia karena interaksinya dengan atom-atom penyusun jaringan. Akibatnya, daya rusak yang tersedia juga akan berkurang begitu foton-foton mencapai jaringan kanker target.
+	Di samping itu, dalam perjalanan menuju target, foton-foton akan merusak sel-sel jaringan sehat yang dilaluinya. Bahkan, dengan daya rusak yang lebih besar ketimbang yang dipakai untuk merusak target. Selanjutnya, foton yang berhasil melewati jaringan target akan merusak jaringan sehat di belakangnya.
+	Berbeda dengan foton, peluang interaksi proton dengan elektron yang mengorbit inti atom di dalam jaringan sangat bergantung kecepatannya. Dengan kata lain, proton akan memiliki daya rusak sangat tinggi pada kecepatan tertentu, umumnya kecepatan rendah.
+	Saat memasuki jaringan organ, kecepatan proton akan berkurang karena interaksinya dengan elektron-elektron jaringan sehat yang dilaluinya, tetapi dengan efek merusak yang relatif rendah. Daya rusak yang tinggi dicapai saat proton mencapai target massa kanker.
+	Setelah melewati target, intensitas radiasinya menurun drastis sehingga jaringan sehat di belakangnya aman. Jadi, dengan mengatur kecepatan proton, dokter dapat mengatur kedalaman posisi target sel yang akan dihancurkan. Selain itu, massa proton yang cukup besar, yaitu sekitar 2.000 kali massa elektron, mengakibatkan energi yang dapat diendapkan dalam jaringan target juga sangat besar sehingga daya rusaknya menjadi berlipat.
+	Tomografi proton
+	Dalam hal tomografi, keunikan sifat proton juga membawa keuntungan tersendiri. Dengan mengatur kecepatan proton, efek merusak dalam hal ini dapat diminimalkan karena energi terbesar yang diendapkan dapat diatur setelah proton melewati pasien, misalnya saat proton memasuki detektor. Jadi, dosis radiasi yang terpapar pada pasien dapat ditekan atau di lain pihak intensitas proton dapat dinaikkan untuk menghasilkan citra yang lebih tajam.
+	Tidak seperti sinar-X, proton adalah partikel bermuatan sehingga lintasannya dapat dideteksi satu per satu. Inilah kunci akurasi metode pCT.
+	Untuk pencitraan tiga dimensi, proton akan melewati dua keping detektor pelacak yang dilengkapi dengan photomultiplier silikon sebelum melewati pasien, serta dua keping lagi setelah melewati pasien, sebelum akhirnya berhenti di dalam detektor energi yang akan menghitung kehilangan energi total setelah melewati pasien. Detektor pelacak dan detektor energi dibangun di Fermilab karena peneliti di laboratorium ini punya pengalaman lebih dari empat dekade dalam membangun detektor berbagai partikel. Bahkan, detektor yang dibuat untuk pCT tersebut sangat mirip dengan detektor yang dipakai oleh peneliti Fermilab untuk eksperimen pengukuran massa quark Top oleh kolaborasi DZero.
+	Oleh karena dalam 1 detik ada sekitar 2 juta proton yang melintasi detektor-detektor itu, sedangkan jejaknya harus dilacak satu per satu oleh komputer, maka dibutuhkan sistem akuisisi data super andal. Para peneliti dari NIU bekerja keras mengembangkan peranti lunak khusus serta membangun komputer berkinerja tinggi, yang tugasnya memetakan secara akurat daya pengereman (stopping power) di setiap milimeter kubik jaringan tubuh pasien.
+	Untuk merekonstruksi citra kepala manusia saja, diperkirakan dibutuhkan paling sedikit data dari 1 miliar proton yang harus dikumpulkan kurang dari 10 menit. Selanjutnya, data itu diolah komputer untuk dicitrakan, juga dalam waktu kurang dari 10 menit.
+	Saat ini, kombinasi tomografi emisi positron (PET) dan sinar-X  yang dikenal sebagai hybrid PET-CT merupakan pilihan teknologi terbaik karena menghasilkan perpaduan informasi fungsional dan anatomi organ tubuh manusia yang selaras. Jika pCT sudah dapat dioperasikan secara komersial, bisa jadi hybrid PET-pCT akan menggeser paradigma ini.
+	Namun, perlu diingat bahwa sumber radiasi positron untuk PET masih harus dimasukkan ke tubuh pasien sehingga prosesnya bersifat invasif. Selain itu, problem utama PET adalah transportasi radiofarmaka atau senyawa kimia radioaktif sumber positron. Radioisotop yang digunakan untuk PET umumnya terlalu cepat meluruh.
+	Terry Mart
+	Dosen Fisika UI, Anggota Akademi Ilmu Pengetahuan Indonesia
+	Foto: 
+	FERMILAB(WWW.FINAL.GOV)
+	Anggota staf laboratorium memindahkan prototipe pemindai tomografi terkomputasi proton pada foto yang tidak disebutkan lokasi dan tanggalnya. Alat pemindai hasil kerja sama Fermilab dan Northern Illinois University, AS, itu menandai era baru fisika medis.
+
+ 

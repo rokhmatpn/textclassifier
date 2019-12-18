@@ -1,0 +1,51 @@
+
+	Sosok: Ainun Najib
+	Teknologi Informasi untuk Negeri
+
+
+	Sekalipun tinggal di negeri jiran Singapura, hati Ainun Najib (29) tak pernah lepas dari Indonesia. Keriuhan pemilu presiden kali ini, yang menciptakan polarisasi tajam di masyarakat, pun meresahkannya. Awalnya, dia berharap setelah pencoblosan pada 9 Juli 2014 keriuhan akan usai. Namun, persoalan ternyata jauh dari usai.
+	Oleh Ahmad Arif
+	Malam hari setelah hari pencoblosan, dua pasangan calon presiden-calon wakil presiden mendeklarasikan kemenangan. Hitung cepat (quick count) yang selama ini bisa menjadi rujukan siapa pemenang pemilihan pun terbelah karena ada lembah. Saya melihat di sosial media, dua kubu saling klaim. Perang komentar ramai sekali dan mengerikan, kata dia.
+	Pagi harinya, Ainun tidak masuk kantornya di salah satu perusahaan teknologi informasi (IT) internasional karena tidak enak badan. Namun, hari itu Ainun tidak bisa beristirahat dengan tenang. Dia terus memantau perkembangan berita hasil pemilu di Tanah Air.
+	Ainun Najib semakin terusik saat membaca berita tentang adanya salah satu kubu yang mengklaim telah menang berdasarkan real count yang dibuat. Belakangan, real count itu terbukti abal-abal karena hasilnya persis dengan hasil survei mereka pada 5 Juli. Artinya, real count itu bohong, tetapi banyak yang percaya. Padahal, rumor ini efeknya bisa menimbulkan gesekan, kata pemuda yang lahir dan besar di desa kecil di Gresik, Jawa Timur.
+	Sebagai ahli komputer, Ainun merasa bisa melakukan sesuatu. Saya khawatir kalau tidak ada sumber informasi yang melaporkan hasil pemilu secara independen, terbuka, dan bisa diverifikasi siapa pun akan menambah sengketa di masyarakat, kata dia.
+	Pada hari itu, Ainun juga melihat video di Youtube yang menampilkan Presiden Susilo Bambang Yudhoyono sedang menelepon Ketua Komisi Pemilihan Umum (KPU). Intinya, Presiden meminta agar KPU mengajak semua pihak ikut mengawal jalannya rekapitulasi suara. Akhirnya, saya bertekad akan melakukan sesuatu untuk ikut mengawal pemilu, ujar dia.
+	Ainun menghubungi temannya, ahli IT asal Indonesia yang bekerja di Silicon Valley, San Francisco, Amerika Serikat, yang dia tahu memiliki kegelisahan sama. Kami pernah bertemu saat sama-sama mengikuti
+	World Final ACM ICPC di Tokyo (Jepang) pada 2007, kata dia. Setelah itu kami lebih sering berkomunikasi di sosial media.
+	Sang kawan ini kemudian mengajak satu rekannya, anak muda Indonesia yang juga bekerja di Silicon Valley, untuk mengawal rekapitulasi suara. Saya memaparkan keinginan saya untuk mengawal rekapitulasi suara KPU, ucap dia. Kebetulan saat itu KPU sudah membuka datanya kepada publik dalam bentuk C1 (formulir rekapitulasi suara tingkat TPS) yang di-scan. Akhirnya, keluarlah ide untuk membuat crowdsourcing.
+	Ketiga pemuda ahli IT ini kemudian berbagi peran. Satu orang membuat server internal, yang lain membuat server publik. Saya kebagian peran sebagai koordinator desain website-nya dan menggalang sukarelawan, kata Ainun.
+	Dalam dua hari, desain situs web itu selesai. Biayanya sangat murah. Kami hanya beli domain 10 dollar AS. Belakangan saja harus keluarkan dana lagi, sekitar 15 dollar AS, untuk membentengi dari serangan peretas yang ingin mengganggu situs kami. Jadi, total sampai sekarang hanya menghabiskan uang 25 dollar AS, itu yang bayar dua kawan yang di Amerika, kisah Ainun.
+	Bagi Ainun, persoalan rekapitulasi suara ini sebetulnya sederhana. Itu cuma tambah-tambahan saja. Seharusnya tidak mungkin meleset kalau tidak ada kepentingan politik kotor. Salah satu anggota tim kami bahkan mengatakan, Masak urusan tambah-tambahan saja bangsa kita tidak bisa. Memang ada benarnya. Ini hal yang sebetulnya mudah, kenapa dipersulit, kata dia. Ainun juga mengaku jengkel karena ayahnya, seorang pengasuh pesantren, mendapat kiriman Obor Rakyat yang berisi kampanye hitam terhadap seorang capres.
+	Begitu desainnya selesai, Ainun segera menggalang sukarelawan melalui jejaring media sosial, utamanya Facebook. Dia memberi nama situsnya www.kawalpemilu.org. Dalam waktu singkat, ratusan orang, baik dari dalam maupun luar negeri, mendaftar untuk bergabung. Hingga kami tutup pendaftarannya, ada 700 sukarelawan yang membantu kami meng-input data, kata dia.
+	Mereka yang menjadi sukarelawan berasal dari dua kubu pendukung calon presiden, bahkan mereka yang golput pun turut serta. Para sukarelawan ini bergotong royong meng-input isian C1 yang sebelumnya diunggah KPU di laman http://pilpres2014.kpu.go.id/c1.php.
+	Kawal Pemilu paling cepat merekapitulasi C1, jauh melebihi kecepatan KPU, dengan keakuratan yang sangat tinggi.
+	 
+	Peduli kepada negeri
+	Antusiasme sukarelawan dalam pemilu kali ini memang luar biasa. Anak-anak muda yang biasa apatis dengan persoalan politik bergerak untuk turut serta dengan sukarela. Saya melihat partisipasi aktif masyarakat, terutama netizen, sangat besar. Ini membuktikan bahwa mereka sangat perhatian terhadap masa depan bangsa, kata Ainun.
+	Walaupun bekerja di bidang programming, dia mengaku sangat peduli dengan perkembangan politik Indonesia. Sekalipun tinggal di perantauan, Ainun tetap punya perhatian besar terhadap nasib negara ini dan dia percaya perbaikan itu harus dimulai dari politiknya. Menurut Ainun, orang-orang baik harus didorong untuk mengisi lembaga legislatif dan mengisi jabatan-jabatan penting.
+	Kalau bisa pulang, Ainun mengaku akan memilih pulang dan berkarya di Indonesia. Dia mengaku terpaksa di luar negeri karena kondisi Indonesia yang belum memberikan ruang nyaman untuk berkarya di bidangnya. Namun, dia harus realistis juga, mengukur kelayakan hidup hal-hal praktis, pendidikan anak, keamanan keluarga, dan potensi untuk maju.
+	Untuk dunia IT belum berkembang dengan baik di Indonesia. Bahkan, perusahaan saya punya cabang di Indonesia, tetapi ruang kerjanya berbeda. Di Indonesia mereka hanya jualan, kata dia.
+	Ainun berharap Pemerintah Indonesia ke depan bisa lebih berkomitmen dengan pengembangan IT. Sebagai perbandingan, di Singapura, anak-anak muda yang hendak membangun usaha IT akan mendapat dukungan penuh dari pemerintah. Ada beberapa teman saya, orang Indonesia, membuat perusahaan startup di Singapura, mendapat dana hibah sekitar Rp 500 juta, ujar dia.
+	Menurut Ainun, di dunia IT internasional, orang-orang Indonesia sebenarnya terkenal sangat jago. Dibandingkan dengan negara lain yang jago ngomong, kerja orang Indonesia dikenal lebih bagus etosnya. Orang kita enggak sombong, cenderung rendah hati, bahkan rendah diri. Low profile, but high performance. Inilah sejatinya kekayaan bangsa ini, bukan sekadar alamnya, kata dia.
+	Kekayaan alam itu cara pikir penjajah. Kita punya kekayaan manusia yang luar biasa, kata ayah dari dua anak tersebut.
+	Ainun melihat potensi pengembangan IT ini sangat besar. Asal dibuat kebijakan yang memudahkan perizinan dan permodalan, bahkan bisa memberikan hibah, Ainun yakin Indonesia bisa mengatasi ketertinggalan. Kami, anak-anak muda ini, sudah mencoba melakukan sesuatu untuk Indonesia. Kini, kami hanya berharap siapa pun yang menang nanti berkomitmen untuk membangun negeri dan yang kalah maulegawa dan bersama-sama membangun negeri dengan semangat positif, tanpa fitnah, ucap dia.
+	 
+	Ainun Najib
+	? Kelahiran: Gresik, 1985
+	? Riwayat sekolah:
+	- MI Islamiyah Ganggang, Balongpanggang, Gresik
+	- SLTPN 1 Balongpanggang, Gresik
+	- SMUN 5 Surabaya
+	- Nanyang Technological University, Singapura, jurusan Computer Engineering
+	- Saat ini bekerja sebagai IT Consultant di perusahaan IT terkemuka (tidak boleh disebut nama perusahaannya)
+	? Penghargaan:
+	- Bronze Medal Asia-Pacific Mathematical Olympiad 2003
+	- Mewakili Indonesia ke International Mathematical Olympiad 2002
+	- Sebagai tim menjuarai ACM ICPC (Inter Collegiate Programming Competition) Regional Asia di Teheran, Iran, 2006
+	- Mengikuti World Final ACM ICPC di Tokyo, Jepang 2007
+
+ 
+
+	Foto:
+	ARSIP PRIBADI
+

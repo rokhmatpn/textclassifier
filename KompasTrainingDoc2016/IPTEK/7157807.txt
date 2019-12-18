@@ -1,0 +1,20 @@
+
+	Catatan Iptek
+	Sihir Uji Statistik
+
+
+	Oleh Agnes Aristiarini
+	Hari-hari ini semua percakapan, dari senda gurau sampai diskusi serius, dari warung kaki lima hingga hotel berbintang, bermuara pada siapa presiden pilihan kita. Tarik-menarik kedua kubu dikawal ketat berbagai survei yang makin intens pekan-pekan ini.
+	Pada Primetime News MetroTV semalam, sebagai contoh, dampak debat capres pada malam sebelumnya (Senin, 9/6) langsung dapat dikuantifikasi. Yose Rizal, pengamat politik, menunjukkan data dari Politicawave yang menyebutkan hashtag percakapan di media sosial meningkat tiga kali lipat untuk pasangan capres-cawapres nomor 2 pasca debat capres.
+	Pada laman resminya, disebutkan Politicawave adalah sarana untuk memantau secara sistematis percakapan di media sosial, termasuk Facebook, Twitter, dan berbagai situs blog terkait berbagai isu politik, baik nasional maupun regional. Lembaga ini bertujuan menyediakan informasi yang dapat menjadi bahan pertimbangan para pengambil kebijakan di lembaga legislatif, eksekutif, dan yudikatif.
+	Sebelumnya, berbagai hasil survei yang menunjukkan elektabilitas pasangan capres-cawapres juga sudah dipublikasikan, yang disusul survei-survei lanjutan tentang naik turunnya tingkat kepercayaan masyarakat pada mereka.
+	Tren dunia
+	   Hiruk-pikuk statistik ternyata juga terjadi di Amerika Serikat. Pada pertarungan Obama-Romney tahun 2012, di antara iklan saling serang kedua kubu, berlangsung pula serangan pada Nate Silver, ekonom alumnus University of Chicago dan London School of Economic, yang prediksinya dianggap pro Obama.
+	Silver (36) mulai dikenal publik ketika ia mengembangkan Pecota, suatu sistem untuk memprediksikan kinerja dan pengembangan karier para pemain utama League Baseball. Kini Pemimpin Redaksi Blog FiveThirtyEight yang dikelola The New York Times dan menjadi koresponden khusus ABC News, Silver saat itu menggemparkan karena memprediksikan kemenangan mutlak Obama hampir di seluruh negara bagian Amerika.
+	Seusai pemilu berlangsung, model matematika Silver ternyata memang akurat. Ia menghitung Obama menang di 49 negara bagian dan kenyataannya 50. Ia hanya meleset di Indiana yang dimenangi Obama dengan hasil amat tipis: 0,1 persen.
+	Maka, cacian pun berubah jadi pujian. Ahli biostatistik Bob OHara membahasnya di Blog Grrlscientist yang dikelola The Guardian (How did Nate Silver Predict the US Election, 8/11/12) dan Chris Taylor di Mashable OP-ED (Triumph of the Nerds: Nate Silver Wins in 50 Minutes, 7/11/12).
+	Silver dalam blognya menulis, ia memprediksikan kemenangan Obama dengan membuat model statistik perilaku pemilih yang menggunakan beragam faktor sebagai input, dari hasil polling hingga berbagai komentar di media sosial.
+	Kalau Anda mengikuti orang-orang yang sama seperti yang saya lakukan di Twitter, Anda juga akan menyimpulkan bahwa Obama akan menang mutlak, karena saya tidak pernah bertemu analisis yang mendukung Romney, katanya (The Simple Case for Saying Obama is the Favorite, 2/11/12).
+	Tak dapat dimungkiri, uji statistik telah meluas perannya: membantu merumuskan masalah, rencana, dan implementasi dalam berbagai bidang secara ilmiah. Apakah sihirnya terus membuka mata hingga 9 Juli mendatang? Kita tunggu saja.
+
+ 

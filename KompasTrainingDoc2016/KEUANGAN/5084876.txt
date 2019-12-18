@@ -1,0 +1,14 @@
+
+	Pasar Modal
+	BEI Tawarkan Pelaporan Terintegrasi
+
+
+	Jakarta, Kompas - PT Bursa Efek Indonesia mulai mengenalkan sistem pelaporan keuangan terintegrasi yang disebut Extensible Business Reporting Language kepada perusahaan tercatat. Sosialisasi dilakukan selama tiga pekan sambil BEI menanti tanggapan dari perusahaan tercatat atau emiten di pasar modal Indonesia.
+	Direktur Penilaian Perusahaan BEI Hoesen menyatakan, penerapan sistem Extensible Business Reporting Language (XBRL) bertujuan memudahkan investor domestik ataupun global dalam melakukan analisis informasi atas perusahaan tercatat. Peningkatan tata kelola perusahaan yang baik juga diharapkan terjadi seiring penerapan sistem itu. Implementasi sistem ini diharapkan dapat dimulai pada tahun 2015.
+	Regulator pun bakal semakin mudah memantau laporan emiten. Sistem pelaporan XBRL digunakan di sejumlah negara di dunia dan telah divalidasi, baik untuk data kualitatif maupun kuantitatif, kata Hoesen, di Jakarta, Jumat (21/2).
+	Sistem XBRL menyediakan solusi yang efektif untuk persiapan, presentasi, dan pertukaran standar pelaporan keuangan internasional. Hal itu menerangkan kerangka kerja kolaboratif yang dikembangkan untuk menciptakan standardisasi yang disesuaikan dengan representasi digital atas laporan keuangan, pajak, dan laporan bisnis lainnya secara rinci serta ringkas atas data ekstrak.
+	Sejumlah emiten menyambut baik sosialisasi BEI itu. Direktur Emiten Perkapalan PT Capitol Nusantara Indonesia Tbk (CANI) Jansen Warokka mengaku sistem XBRL ini sebagai satu langkah strategis dan saling menguntungkan.
+	Saya rasa sistem ini bagus untuk direalisasikan. Bakal sangat membantu pihak yang berkepentingan atas laporan kinerja emiten di Indonesia, katanya.
+	Direktur PT Pelayaran Tempuran Emas Tbk (TMAS) atau Temas Line, Ferdy Suwandi, juga mengaku tidak keberatan. Sebagai emiten, pihaknya akan lebih mudah melaporkan dan mengunggah laporan. (BEN)
+
+ 

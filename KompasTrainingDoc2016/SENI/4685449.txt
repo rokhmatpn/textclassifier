@@ -1,0 +1,41 @@
+
+	Industri Kreatif
+	Ketika Badai Mengejar Tom Cruise
+
+
+	Film memanjakan imajinasi liar penonton. Teknologi efek visual menjadi peranti untuk memanjakan dan terus menembus batas imajinasi itu. Kompas masuk ke dapur pengolah imajinasi, Industrial Light &amp; Magic di Singapura. Di sanalah Iron Man sampai Transformers digarap.
+	Oleh Nur Hidayati
+	Tahun 1990-an, ketika teman-teman sebayanya melihat tong sampah bertutup cembung, si bocah Matt Lee merasa menemukan R2-D2, robot yang setia membantu Luke Skywalker Sang Ksatria Jedi di jagat Star Wars. Kini Lee bekerja di perusahaan yang menciptakan idolanya itu, Industrial Light &amp; Magic (ILM). Ia berkantor di Singapura, studio pertama ILM di luar Amerika Serikat. Tugas Lee sebagai 3D Generalist adalah menciptakan keajaiban.
+	Kami memungkinkan orang berada di tempat yang belum pernah didatangi sebelumnya, Planet Jupiter, misalnya, ujar Lee.
+	Menuju Jupiter, tentu butuh pesawat ruang angkasa. Kini, lewat film, khalayak bisa menonton pesawat ruang angkasa. Agar meyakinkan, Lee harus memastikan planet dan pesawatnya dibuat serealistis mungkin dengan ratusan detail kecil yang tak boleh luput.
+	Bukan hanya dengan komputer grafik, ia juga bekerja membuat model, misalnya membangun properti rumah peri atau istana para dewa. Seorang aktor bisa berakting di suatu lokasi dengan properti tertentu. Kemudian, dengan komputer, sebagian latar lokasi dihilangkan, diganti lingkungan lain. Hasilnya, bisa jadi pertarungan dalam mobil masa depan berlatar gedung-gedung pencakar langit futuristik.
+	Lain lagi dengan Justin Kosnikowski. Ia memimpin tim rotoscope di ILM Singapura. Ia antara lain mengurus badai pasir di Dubai yang mengejar Tom Cruise dalam film Mission Impossible: Ghost Protocol. Butuh waktu beberapa bulan untuk menciptakan badai itu secara digital. Setelah badai tercipta, disatukanlah gambar badai dengan gambar Tom Cruise tengah berlari.
+	Film bisa dibayangkan seperti deretan gambar yang bergerak cepat, 24 gambar (frame) per detik. Artinya, dalam adegan yang berlangsung 1 menit terdapat 1.440 gambar. Ketika badai pasir datang, satu per satu obyek yang ada di setiap gambar secara manual ditarik ke belakang badai, dari tiang lampu, pohon, mobil, gedung, hingga Tom Cruise. Badai tak seketika melenyapkan semua dari pandangan. Artinya, setiap gambar mesti ditelusuri piksel demi piksel. Itulah pekerjaan rotoscope.
+	Setelah semua berada di posisi tepat, misalnya, bukan berarti hasilnya bagus. Rambut Tom Cruise bisa jadi aneh atau sebelah lengannya yang terayun ke belakang terpotong badai. Di sini, setiap obyek pada gambar dilukis lagi. Mungkin Anda tidak langsung tahu apa yang salah ketika menonton, tetapi di bawah sadar kekurangan itu sesuatu yang bisa dirasakan. Jadi, kami harus teliti memastikan semuanya akan terlihat dan terasa nyata, kata Justin.
+	Sementara Damien Doennig piawai menggunakan teknik Imocap. Masih ingat Davy Jones, si kapten kapal hantu dalam sekuel Pirates of the Caribbean? Ia berwajah cumi-cumi dengan jenggot tentakel-tentakel yang menjulur ke sana-sini. Pada sosok menyeramkan itu, gerak urat wajah, mulut, dan ekspresi matanya kaya dan natural. Aktor Bill Nighy yang memerankannya bukan memakai topeng. Ia berakting dengan tubuh dan wajah yang dipindai melalui teknologi Imocap.
+	Lalu, data rekaman ekspresi dan gerak Nighy ditransfer menjadi karakter digital: Davy Jones. Dengan begitu, penonton melihat Davy Jones yang hidup ikut iba ketika ia sedih dan merinding saat dia marah.
+	Tak sekadar seni
+	Kompas bertemu dengan beberapa pekerja seni visual efek itu saat mengunjungi Studio ILM Singapura di Gedung Sandcrawler Singapura, Januari lalu. Anak perusahaan Lucasfilm yang berpusat di San Francisco, AS, ini berada di jajaran teratas perusahaan visual efek dunia. Deretan panjang penghargaan membuktikan itu, antara lain Academy Award, British Academy, serta Academy of Motion Picture Arts and Sciences untuk kategori pencapaian sains dan teknik.
+	Studio visual efek ini berkembang, tidak hanya melayani film-film produksi Lucasfilm, seperti Star Wars dan Indiana Jones. Saat ini sudah sekitar 300 film dari beragam produser Hollywood digarap visual efeknya oleh ILM. Perusahaan ini mengukuhkan posisinya di jajaran teratas. Dari ajang Academy Awards saja, ILM tercatat 41 kali masuk nominasi dan menerima 15 penghargaan visual efek terbaik, sejak Star Wars (1977), E.T (1982), Jurassic Park (1993), dan Forest Gump (1994). Sementara Rango (2012) menjadi film animasi terbaik.
+	Visual efek lazim digunakan dalam film, baik secara keseluruhan sebagai film animasi, menjadi bagian film, maupun disatukan dengan pemeran manusia (live action). Efek visual merupakan teknologi mahal. Pixar, salah satu produsen film animasi, mencatat, biaya produksi film animasi pada 2007 sudah kerap mencapai 100 juta dollar AS. Untuk sebuah film animasi, pengerjaan mulai dari konsep bisa memakan waktu lima tahun meskipun produksinya selesai dalam dua tahun. Bersama Lucasfilm dan Marvel, Pixar kini bergabung dalam Disney.
+	Ketika visual efek menjadi bagian dominan dari live action, anggaran pun membubung. Situs IMDB, misalnya, memperhitungkan, Pirates of the Caribbean: Dead Mans Chest (2006) menelan biaya produksi 225 juta dollar AS. Film ini menerima Academy Award untuk visual efek terbaik.
+	Penggarapan visual efek atau animasi film begitu mahal, juga karena itu merupakan kerja tim yang besar. Visual efek untuk film seperti Pacific Rim (2013) dikerjakan sekitar 500 pekerja kreatif, belum termasuk kru film itu sendiri.
+	Intan R Mutiaz, pengajar Desain Komunikasi Visual dan Multimedia Institut Teknologi Bandung, menekankan, animasi memang bukan sekadar karya seni. Produksi film animasi melibatkan beragam aspek kompleks. Mulai dari standar estetika, teknologi, kecanggihan perangkat keras, legalitas perangkat lunak, hingga etos kerja. Dengan ratusan pekerja kreatif yang terlibat, manajemen dan disiplin tinggi jadi prasyarat.
+	Hasilnya, Hollywood menyuguhkan produk seni animasi lebih dari sekadar tontonan, tetapi juga bagian dari gaya hidup, bahkan merasuk seperti ideologi baru dalam globalisasi. Animasi menjadi peranti untuk menyajikan imajinasi seolah tontonan realitas dengan berbagai muatan nilai di dalamnya.
+	Tantangan dan peluang nyata ada di situ. Boleh memilih, akan terus sekadar jadi penonton, atau ikut berkarya?
+	Grafik: Penilaian Terhadap Kualitas Film Indonesia Saat Ini (%)
+	Foto 4:
+	Foto 1
+	KOMPAS/NUR HIDAYATI
+	 Para artis efek visual mempresentasikan pekerjaan mereka di Studio Lucasfilm, Singapura.
+	Foto 2
+	Lucasfilm - Paramount Pictures
+	 Adegan dalam Indiana Jones and the Kingdom of the Crystal Skull.
+	Foto 3
+	KOMPAS/NUR HIDAYATI
+	Taman memberi kesegaran dalam Gedung Sandcrawler  yang antara lain mewadahi studio Lucasfilm dan Disney di Singapura.
+	Foto 4
+	ARSIP LUCAS FILM SINGAPORE
+	Ronny Gani, salah satu animator asal Indonesia yang bekerja di Lucasfilm Singapura.
+
+ 

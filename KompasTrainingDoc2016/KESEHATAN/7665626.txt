@@ -1,0 +1,22 @@
+
+	Sistem Informasi JKN Terintegrasi
+	Mempercepat Layanan Kesehatan bagi Pasien
+
+
+	JAKARTA, KOMPAS  Pelayanan kesehatan di rumah sakit yang bergabung dalam jaringan Badan Penyelenggara Jaminan Sosial Kesehatan kini memakai perangkat teknologi yang menjembatani beberapa sistem informasi. Hal itu diharapkan bisa mempercepat layanan kesehatan bagi peserta Jaminan Kesehatan Nasional.
+	Sistem itu adalah sistem penghubung (bridging system). Jadi, sistem itu menjembatani sejumlah sistem terdiri dari sistem informasi manajemen rumah sakit, surat eligibilitas peserta, Indonesia Case Based Groups (INA- CBGs).
+	Pemakaian perangkat teknologi informasi itu memungkinkan dua sistem informasi berbeda pada saat bersamaan mampu melakukan dua proses tanpa intervensi satu sistem pada sistem lain secara langsung.
+	Peluncuran perdana sistem penghubung itu dilakukan di Rumah Sakit Umum Pusat Cipto Mangunkusumo, Kamis (3/7), di Jakarta. Acara itu dihadiri Kepala BPJS Kesehatan Fachmi Idris, Menteri Kesehatan Nafsiah Mboi, dan Direktur RSUP RSCM Soejono.
+	Fachmi menyatakan, selama ini pasien harus antre berjam- jam di loket pendaftaran RS karena data mereka harus dimasukkan dua sistem berbeda, yakni sistem informasi RS dan sistem surat eligibilitas peserta (SEP)- INA-CBGs. Setelah kedua sistem itu dijembatani, proses memasukkan data peserta BPJS hanya dilakukan sekali.
+	Bagi pasien, sistem itu akan mempersingkat waktu antrean sehingga pasien bisa cepat mendapat layanan kesehatan. Adapun bagi RS, sistem itu meningkatkan layanan administrasi bagi peserta, menghemat sumber daya manusia dan sarana-prasarana, mempercepat perekaman data pelayanan kesehatan dan proses pengajuan klaim.
+	Bagi BPJS Kesehatan, manfaat sistem ini adalah akurasi data peserta, proses verifikasi, dan pembayaran klaim jadi lebih cepat. Pembiayaan pun lebih transparan karena perekaman datanya pada tiap sistem sama, kata Fachmi.
+	Soejono menambahkan, sistem penghubung itu bisa menghemat waktu antrean hingga tiga jam. Kami lihat tadi di loket pendaftaran proses pendaftaran pasien yang tadinya berjam-jam bisa dilakukan dalam hitungan menit, ujarnya.
+	Dua sistem penghubung
+	Direktur Pelayanan BPJS Fadjriadinur menambahkan, ada dua sistem penghubung, yaitu komprehensif dan parsial. Sistem yang komprehensif menjembatani sistem informasi RS, INA- CBGs, dan SEP BPJS. Adapun sistem parsial hanya menjembatani SEP BPJS dan INA-CBGs.
+	Data BPJS menunjukkan, hingga 27 Juni 2014, dari 1.515 RS di Indonesia, 1.178 RS telah mengimplementasikan sistem penghubung SEP-INA CBGs. Adapun rumah sakit di seluruh Indonesia yang sudah menerapkan sistem penghubung secara komprehensif ada 22 RS dan 8 RS di antaranya berada di Jakarta, yakni RSCM, RSUD Tarakan, RSUP Fatmawati, RS Haji, RS Kanker Dharmais, RS jantung Harapan Kita, RS Penyakit Infeksi Sulianti Saroso, dan RSUP Persahabatan.
+	Sementara itu, rumah sakit lain yang menerapkan sistem tersebut tersebar di daerah, seperti RSUD Margono Soekarjo Purwokerto, RSUP Dr Sardjito Yogyakarta, RSUD Tugurejo Semarang, dan RSUD Muwardi Surakarta. Rumah sakit lain yang juga menjalankan sistem itu di antaranya RSUP Wahidin Sudirohusodo Makassar, RSUD Arifin Achmad Pekanbaru, dan RSU Adam Malik Medan.
+	Menurut Fadjriadinur, masih banyak RS yang belum menerapkan sistem penghubung itu. Hal itu dipengaruhi kesiapan SDM RS dan sarana-prasarana serta kesiapan vendor penyedia sistem teknologi informasi RS bersangkutan. Ke depan, RS diharapkan bisa mengembangkan sistem internal sendiri yang mempercepat antrean di poliklinik dan apotek.
+	Pada kesempatan sama, Menkes Nafsiah Mboi menghendaki agar RS vertikal yang belum menerapkan sistem penghubung itu dalam 2-3 bulan ke depan sudah mulai menjalankan sistem itu.
+	Direktur Jenderal Bina Upaya Kesehatan Kemenkes Akmal Taher menyampaikan, sistem penghubung itu akan terus diperluas implementasinya, terutama di RS vertikal yang memiliki pasien banyak. Sistem itu diharapkan bisa mempercepat proses pelayanan pada pasien peserta JKN.
+	(ADH)
+

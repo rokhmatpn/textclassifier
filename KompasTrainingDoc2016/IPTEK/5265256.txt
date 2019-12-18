@@ -1,0 +1,33 @@
+
+	Mau 3G atau 4G, Konsistensi yang Utama
+
+
+	Tahun 2014 menjadi tahun penting dalam perkembangan jaringan pita lebar. Di era yang serba terkoneksi dengan berbagai media informasi yang berjejal, kebutuhan akses internet cepat memang sudah tak bisa ditawar lagi.
+	Di banyak negara, mimpi itu sudah terealisasi dengan baik sejak mereka sudah mengadopsi 3G, atau bahkan jauh sebelumnya ketika masih menggunakan 2G. Mereka konsisten menjaga kelayakan jaringan. Kini, setelah 4G, bahkan sebagian mereka sudah menyambut generasi kelima atau 5G.
+	Namun, di Indonesia, hingga gegap gempita 4G saat ini, masih banyak dari kalangan kita yang masih gigit jari dikecewakan oleh buruknya jaringan. Kekecewaan yang khas Indonesia itu diungkapkan dengan baik oleh Tod Sizer, Vice President of Wireless Research, Bell Labs Alcatel-Lucent, saat acara Technology Symposium akhir tahun lalu di Amerika Serikat.
+	Ini bukan tentang kecepatan, ini juga bukan tentang jaringan baru 5G, ini juga bukan tentang konvergensi mesin nirkabel ke mesin kabel, kata Tod Sizer. Namun, hal yang utama untuk masa depan komunikasi kita adalah bagaimana para provider mau mengerti keinginan konsumen.
+	Perspektif Tod Sizer ini menggambarkan bagaimana kebanyakan umumnya provider kita yang progresif di awal pemasaran, tetapi tak dibarengi dengan peningkatan performa, dan akhirnya lambat dan bahkan tak mau mendengarkan keluhan konsumen.
+	Konsumen tak peduli jaringan apa yang dipakai, kata Tod Sizer. Konsumen hanya ingin dirinya terkoneksi dengan informasi secara lebih baik. Tantangannya memang soal pilah memilah harga dengan performa. Buatkan jaringanmu yang mau beradaptasi dengan user-mu, bukan user yang harus beradaptasi dengan jaringanmu, begitu pesan Tod Sizer kepada provider.
+	Senada dengan Tod Sizer, Michel Combes yang menjadi CEO Alcatel-Lucent, menekankan agar provider mampu menangkap harapan customer sebagai pengguna akhir layanan. Provider harus memutakhirkan pengetahuannya, karena setidaknya ada tujuh tren untuk menghadapi masa depan.
+	Pertama, ledakan penggunaan gadget oleh setiap pengguna yang semuanya terkoneksi ke jaringan. Pengguna, kata Combes, bahkan memiliki hingga 10 gadget yang terkoneksi serentak.
+	Kedua, perubahan menuju koneksi ultra cepat, yang meredefinisi kompetisi antarperusahaan dan bahkan antarbangsa. Dalam lima tahun ke depan, bandwidth akan meningkat dengan faktor kelipatan 100, kata Combes.
+	Ketiga, dalam konteks dunia yang terkoneksi, jaringan ultra cepat IP (internet protocol), menjadi penting dibutuhkan. Keempat adalah komputasi awan bakalan meledak.
+	Kelima adalah harapan kepada perusahaan telekomunikasi dan kabel untuk bisa tumbuh cepat. Kunci investasi adalah pada akses broadband cepat, jaringan, dan infrastruktur komputasi awan, kata Combes.
+	Keenam adalah pengembangan layanan infrastruktur dari berbagai perusahaan akan terus meningkat dramatis. Tren ketujuh adalah perusahaan besar terutama perbankan dan sektor publik juga akan berinvestasi di sektor jaringan setingkat perusahaan telekomunikasi.
+	4G di Indonesia
+	Orlena Kusnadi, Chief Technology Officer Alcatel-Lucent Indonesia mengatakan, peluang Indonesia untuk bisa mengadopsi teknologi 4G sebenarnya sangat tinggi. Hanya saja, berbagai regulasi memang sempat menghambat Indonesia.
+	Dari pengalaman perusahaan telekomunikasi di Indonesia, yang berhasil migrasi dari 2G ke 3G, Orlena yakin skema yang sama bisa diterapkan untuk migrasi dari 3G ke 4G. Di Indonesia sendiri, sudah ada beberapa perusahaan yang uji coba jaringan 4G.
+	Bahkan, PT Internux di akhir 2013, berhasil meluncurkan produk 4G secara komersial. Di media sosial, produk ini termasuk banyak dibicarakan terutama di Jabodetabek, dengan ulasan dari berbagai sisi, mulai kecepatan yang dijanjikan hingga kualitas jaringan yang dinikmati pelanggan akhir.
+	Walaupun aturan 4G belum detail, Indonesia telah menyetujui penggunaan frekuensi 2.3 Ghz untuk kepentingan fixed wireless. Di frekuensi ini terbuka spektrum untuk teknologi netral, memberikan kesempatan bagi provider untuk memanfaatkan teknologi 4G, kata Orlena.
+	Dengan skema seperti itu, sebelum terbit aturan detail, maka perusahaan seperti pemegang lisensi WiMAX seperti Firstmedia, Internux, PT Berca Global Access (WIGO), menjadi perusahaan strategis untuk mengimplementasikan teknologi Long Term Evolution (LTE) di Indonesia.
+	Hanya saja, kata Orlena, setiap perusahaan telekomunikasi, kini memiliki dua pilihan apakah ingin menjadi pionir ataukah pengikut. Masing-masing memiliki peluang dan risikonya tersendiri.
+	Di Indonesia, Internux dengan paket Bolt yang mereka jual, menjadi pionir 4G Long Term Evolution (LTE) pertama di Indonesia, yang mereka rilis pada November 2013. Bolt menerapkan teknologi time division duplex long term evolution (TDD LTE) yang menawarkan kecepatan akses internet hingga 72 Mbps.
+	Namun demikian, di sosial media, banyak yang mengeluhkan kecepatan yang jauh dari janji 72 Mbps. Rata-rata mereka mendapat kecepatan di bawah puluhan Mbps. Namun, sebenarnya di Indonesia, speed yang konsisten di atas 1 Mbps sudah merupakan kemewahan tersendiri.
+	Kecepatan memang 4G tetap unggul dibandingkan teknologi lain yang ada di Indonesia saat ini. Jaringan 4G menjadi harapan terakhir setelah 3G Indonesia hanya disetel setengah hati. Namun bagi konsumen, mereka tak peduli mau di bawah 2G, 3G, 4G, atau 5G, yang penting konsistensi dan mau mendengarkan keluhan konsumen. (Amir Sodikin)
+	" Kunci investasi  adalah pada akses "broadband" cepat, jaringan, dan infrastruktur komputasi awan."
+	Foto: 
+	KOMPAS/DIDIT PUTRA ERLANGGA RAHARDJO
+	Bolt! 4G adalah produk layanan internet nirkabel pita lebar yang dihadirkan Internux di Indonesia pada akhir tahun 2013 lalu. Meski menjanjikan kecepatan 10 kali lebih tinggi, jangkauan layanan yang tidak merata membuat produk ini tidak bisa mempertahankan kecepatan akses secara merata.
+
+
+	 

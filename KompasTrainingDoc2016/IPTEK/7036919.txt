@@ -1,0 +1,42 @@
+
+	Solar Impulse 2
+	Pesawat Tanpa Avtur Siap Mendunia
+
+
+	Pesawat Solar Impulse 2 berhasil terbang perdana dari Lapangan Terbang Payerne, Swiss, Senin (2/6), selama 2 jam 17 menit. Meski bukan pesawat tenaga surya pertama, pesawat ini diklaim paling ambisius. Ia direncanakan mengelilingi dunia tahun depan, melintasi benua dan samudra selama 5 hari 5 malam tanpa setetes bahan bakar fosil pun.
+	Oleh M Zaid Wahyudi
+	Perancangan Solar Impulse adalah sebuah eksplorasi percobaan, segala sesuatunya serba baru, kata Bertrand Piccard, penggagas sekaligus ketua proyek Solar Impulse, Senin.
+	Pesawat bertenaga surya itu diharapkan mendorong penggunaan teknologi bersih, mengurangi ketergantungan manusia pada energi fosil yang jumlahnya kian terbatas, serta menekan emisi gas buang untuk menahan laju pemanasan global.
+	Model pesawat tenaga surya sudah ada sejak 1970-an, ketika sel surya sudah bisa diproduksi dengan harga terjangkau. Namun, Solar Impulse adalah pesawat tenaga surya berawak pertama yang mampu terbang malam hari. Pesawat generasi pertama Solar Impulse 2, yaitu Solar Impulse 1, mampu terbang lebih dari 26 jam melintasi Amerika tahun lalu.
+	Adapun penerbangan perdana Solar Impluse 2 dipiloti Markus Scherdel. Uji terbang itu merupakan bagian dari persiapan terbang keliling dunia, melintasi benua dan samudra sejauh 35.000 kilometer selama 120 jam, menggunakan pesawat yang sama, tahun depan.
+	Demi mewujudkan mimpi itu, Pejabat Eksekutif Tertinggi Solar Impulse Andre Borschberg memimpin puluhan perekayasa untuk mendesain dan membuat Solar Impulse 2 menjadi pesawat yang memerlukan energi minimal untuk terbang.
+	Tantangan teknik
+	Ahli perancangan pesawat di Program Studi Aeronautika dan Astronautika Institut Teknologi Bandung (ITB), Taufiq Mulyanto, Rabu (4/6), mengatakan, agar dapat terbang, pesawat harus mampu mengangkat dirinya. Daya angkat dari kecepatan gerak maju melawan daya hambat dari udara di sekitar pesawat.
+	Pada pesawat jet, gerak maju didorong mesin atau baling-baling pesawat menggunakan avtur. Sementara pada pesawat tenaga surya, energi mesin berasal dari sinar matahari yang diubah menjadi energi listrik.
+	Melalui tenaga surya, sumber energi pesawat jadi terbatas. Bagian pesawat yang bisa dipasangi sel surya pun terbatas. Oleh karena itu, pesawat harus mampu menyerap energi matahari sebanyak mungkin, tetapi harus tetap ringan agar badan pesawat bisa terangkat.
+	Ini tantangan desain pesawat, katanya.
+	Secara aerodinamik, desain pesawat harus efisien sehingga daya hambat dari udara di sekitarnya kecil. Dengan demikian, untuk mencapai kecepatan tertentu, energi yang diperlukan pesawat lebih kecil.
+	Dari aspek konversi energi, para perekayasa harus membangun sel surya dengan efisiensi lebih tinggi serta baterai dengan kapasitas simpan yang lebih baik. Baterai sel surya umumnya berat sehingga struktur pesawat harus dibuat seringan mungkin.
+	Berbagai batasan itu menghasilkan desain Solar Impulse 2 yang Senin lalu sukses menjalani uji terbang. Markus melaporkan sejumlah getaran awal saat uji terbang itu, tetapi itu semua sesuai perhitungan yang disimulasikan sebelumnya.
+	Desain
+	Solar Impulse 2 memiliki lebar sayap 72 meter, lebih lebar dari sayap pesawat Boeing 747-8I yang hanya 68,45 meter. Sayap selebar itu hanya mampu mengangkat beban pesawat sebesar 2,3 ton atau seberat mobil. Lebih dari itu, sayap pesawat akan patah.
+	Tenaga pendorong pesawat bersumber dari baling-baling yang digerakkan empat mesin listrik. Mesin listrik itu menerima pasokan energi dari 17.228 sel surya setebal 135 mikron yang disusun berlapis dan diletakkan di sayap, badan, dan ekor horizontal pesawat sehingga menghasilkan struktur pesawat yang tetap ringan.
+	Selain dari sel surya yang tipis, struktur ringan pesawat juga diperoleh dari serat karbon yang digunakan di badan pesawat. Hasilnya, berat keseluruhan pesawat lebih ringan sepuluh kali dibandingkan berat pesawat layang.
+	Sayap yang lebar itu ditopang oleh 140 tulang rusuk dari serat karbon yang diletakkan pada interval jarak 50 sentimeter. Posisi itu akan memberikan aerodinamika pesawat terbaik sekaligus mempertahankan kekakuan struktur sayap pesawat.
+	Energi dari sel surya digunakan langsung untuk memutar baling-baling pesawat pada siang hari dan disimpan dalam empat baterai litium polimer yang tersimpan pada mesin untuk sumber energi pesawat pada penerbangan malam hari. Keempat baterai itu memiliki berat total 633 kg atau lebih dari seperempat berat pesawat. Baterai yang digunakan memiliki kerapatan tinggi sehingga bisa menyimpan energi lebih banyak.
+	Keempat mesin pesawat memiliki kekuatan 70 tenaga kuda yang memungkinkan pesawat terbang dengan kecepatan 36-140 km per jam. Saat berada di atas lautan, kecepatan pesawat berkurang hanya 36-90 km per jam, sedangkan pada ketinggian terbang maksimum 8,5 km, pesawat bisa terbang dengan kecepatan 57-140 km per jam.
+	Pada posisi lebih tinggi, kerapatan udara lebih rendah sehingga daya hambat pesawat makin kecil dan pesawat bisa terbang dengan kecepatan lebih tinggi, kata Taufiq.
+	Pada malam hari, karena hanya mengandalkan baterai, energi pesawat lebih kecil. Supaya hemat, pesawat harus terbang lebih lambat sehingga tidak memerlukan energi besar. Maka, pesawat harus terbang lebih rendah.
+	Penerbangan malam Solar Impulse 2 dibatasi hanya setinggi 1,5 km dengan kecepatan maksimum 46 km per jam.
+	Tantangan pilot
+	Mengendalikan pesawat yang sangat ringan bukan hal yang mudah. Apalagi jika terbang di atas lautan berangin kecepatan tinggi. Makin kecil pesawat, makin sensitif pengaruh cuaca yang bisa membuat daya hambat pesawat besar, ujar Taufiq.
+	Untuk itu, pilot dituntut memahami sistem aerodinamika pesawat yang berbeda dengan mengemudikan pesawat berbahan bakar avtur. Selain itu, kokpit Solar Impulse 2 hanya seluas 3,8 meter kubik, muat satu orang. Kecilnya kokpit itu agar berat pesawat tetap ringan.
+	Ruang sempit itu masih diisi sejumlah perlengkapan, mulai dari persediaan oksigen, makanan dan minuman, hingga sebuah kursi multifungsi untuk meregangkan otot, tidur, sekaligus jadi toilet. Di belakang sandaran kursi disediakan parasut dan sekoci jika terjadi kedaruratan.
+	Kokpit tanpa pengatur tekanan dan suhu. Ruangan kokpit hanya dilapisi isolator termal kerapatan tinggi untuk mengurangi suhu ekstrem. Selama penerbangan hingga ketinggian maksimum 8,5 km itu, pilot harus siap menghadapi suhu minus 40 hingga 40 derajat celsius.
+	Selama penerbangan, pilot didilengkapi sistem autopilot yang canggih dan panduan dari tim di Pusat Pengendalian Misi (MCC) di Payerne. Tim darat itu membantu menginformasikan cuaca, membuka jalan bagi pesawat saat memasuki wilayah udara tertentu, serta menyiapkan pendaratan di sejumlah bandara.
+	Meski demikian, sang pilot nantinya tetap harus siap menjalani penerbangan penuh tantangan di ruangan sempit selama 5 hari 5 malam sendirian.
+	Ini adalah satu-satunya pesawat di dunia yang menuntut daya tahan tak terbatas sang pilot. Ini adalah pesawat yang menggunakan energi secara berkelanjutan dan tantangan kita adalah menyiapkan pilot yang berkelanjutan juga, kata Andre.
+	(AFP/BBC/SOLARIMPULSE)
+
+ 
+Grafik: Pesawat Solar Impulse 2 Siap Terbang Keliling Dunia

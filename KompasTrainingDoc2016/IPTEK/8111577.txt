@@ -1,0 +1,20 @@
+
+	Media Siber
+	Situs Berita Palsu Diblokir
+
+
+	JAKARTA, KOMPAS - Situs berita beralamat tambahan --news.com yang memalsukan situs berita nasional, Rabu (30/7), sudah tidak bisa lagi diakses karena diblokir. Permintaan pemblokiran berasal dari Kementerian Komunikasi dan Informatika kepada penyedia jasa internet (ISP) melalui surat resmi.
+	Tadi siang, pukul 12.00, sudah kami kirim surat permintaan kepada ISP agar nama domain tidak bisa diakses, kata Ismail Cawidu, Juru Bicara Kementerian Komunikasi dan Informatika.
+	Dari penelusuran, ada 10 situs berita palsu. Alamatnya ditambahi --news.com di belakang alamat situs berita nasional, misalnya kompas.com--news.com.
+	Situs yang dipalsukan itu adalah antaranews.com, beritasatu.com, detik.com, inilah.com, kompas.com, liputan6.com, merdeka.com, republika.com, tempo.co, dan tribunnews.com.
+	Alamat kompas.com dengan mudah diakses. Namun, alamat kompas.com--news.com saat diakses cuma halaman kosong. Padahal, saat diakses pada Selasa lalu, situs palsu itu masih memajang beberapa berita, tetapi diragukan kebenarannya.
+	Situs-situs berita palsu, lanjut Ismail, sejak Rabu sore tidak bisa diakses lagi. Pemblokiran atas dasar pengaduan dan laporan masyarakat. Situs palsu melanggar Undang-Undang Nomor 11 Tahun 2008 tentang Informasi dan Transaksi Elektronik (UU ITE).
+	Menurut Ismail, pemblokiran harus melewati pengaduan dan pelaporan dari masyarakat serta surat permintaan kepada ISP. Prosesnya berbeda dengan pemblokiran situs pornografi/pornoaksi yang tak memerlukan pelaporan masyarakat.
+	Dugaan pelaku
+	Pakar teknologi informasi Onno Widodo Purbo melalui e-mail mengungkapkan, berdasarkan pengecekan dengan perintah Linux, yakni whois, pembuat --news.com diduga di Amerika Serikat. Hasil pengecekan saya sementara menunjukkan, kompas.com--news.com dipegang oleh orang California, katanya.
+	Pelacakan dengan perintah whois relatif mudah untuk menemukan terduga pembuat subdomain palsu --news.com. Memblokir situs palsu mudah dilakukan, yang sulit justru menangkap pelaku di luar negeri. Diperlukan dukungan Kementerian Luar Negeri dan Interpol sebagai pihak yang bisa bergerak. Aksi Kemkominfo sebatas sisi teknis yang mencakup wilayah dalam negeri (domestik).
+	Menurut pakar digital forensik Ruby Alamsyah, pelaku bisa dilacak lewat alamat internet protocol (IP). Yang sulit ialah memburu pelaku dengan asumsi orang itu cepat menghilang.
+	Dilihat dari perspektif aturan, lanjut Ruby, kemunculan situs- situs berita bohong itu melanggar UU ITE. Selain itu, ada juga pelanggaran terhadap KUHP terkait penipuan dan fitnah.
+	Kepala Bidang Humas Polda Metro Jaya Komisaris Besar Rikwanto mengatakan, tim cyber crime masih menyelidiki situs-situs berita palsu itu. Pemilik dan atau pengelola situs berita nasional yang alamatnya dipalsukan sampai sekarang belum ada yang melapor ke Polri. Sejauh ini, belum ada pihak yang bisa dimintai keterangan. (BRO/ART/ICH)
+
+ 

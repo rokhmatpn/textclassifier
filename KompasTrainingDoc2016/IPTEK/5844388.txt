@@ -1,0 +1,15 @@
+
+	Teknologi Informasi
+	Jaringan Nirkabel Berperan Penting
+
+
+	Taiwan, Kompas - Ketersediaan jaringan nirkabel yang kuat, aman, dan terjangkau mempunyai peran penting menentukan tumbuh atau matinya laju bisnis perusahaan di masa depan. Apabila ketiga syarat itu mampu terpenuhi, semuanya bisa menjadi kunci utama menarik kepercayaan masyarakat.
+	Akses masyarakat hingga beragamnya aplikasi berbasis internet semakin tinggi. Meski memudahkan transaksi konsumen dan produsen, hal itu berpotensi meningkatkan beban jaringan. Bila tidak disadari, rentan memunculkan jurang antara infrastruktur teknologi informasi dan laju bisnis perusahaan, kata Wakil Presiden Fortinet untuk Asia Tenggara dan Hongkong George Chang di Taiwan, Rabu (2/4), seperti dilaporkan wartawan Kompas, Cornelius Helmy.
+	Fortinet adalah perusahaan penyedia perangkat keamanan jaringan bermarkas di Amerika Serikat yang didirikan sejak 14 tahun lalu. Beragam produk dan layanan berlangganannya dibuat mengatasi ancaman pada jaringan, tetapi tetap menyederhanakan infrastruktur keamanan jaringan. Diperkuat lebih dari 2.300 orang, Fortinet telah mengirimkan 1,4 juta produk hingga tahun 2014.
+	Kondisi itu, menurut Chang, mendorong Fortinet meluncurkan tiga alat pengontrol pengiriman aplikasi (application delivery controllers/ADC). ADC diyakini efektif mendukung pembagian beban aplikasi. Alasannya, beban aplikasi akibat penggunaan internet yang terlalu tinggi rentan melemahkan jaringan.
+	Tiga ADC yang diberi merek FortiADC-1500D, Forti ADC- 2000D, dan FortiADC-4000D itu juga diyakini mampu menyediakan skalabilitas dan ketersediaan aplikasi berbasis internet dalam satu pusat data atau lebih, kata Chang.
+	Wakil Presiden Pemasaran Fortinet John Maddison mengatakan, tiga ADC keluaran terbaru itu menunjukkan keinginan Fortinet memanjakan 170.000 konsumennya di seluruh dunia. Semua ADC berperforma tinggi, kaya fitur, dilengkapi sistem keamanan yang kuat, sekaligus mengurangi total biaya kepemilikan konsumen.
+	Tidak hanya itu, untuk mendukung keamanan jaringan, Direktur Konsultasi Solusi Fortinet untuk Asia Tenggara dan Hongkong Eric Chan mengatakan, pihaknya terus mempromosikan perangkat Firewall Fortigate seri 3000-5000.
+	Eric mengatakan, perangkat pusat data Firewall itu mampu menghadirkan kecepatan 40 gigabita per detik (Gbps) hingga 500 Gbps. Hanya dibutuhkan satu di setiap perusahaan, perangkat ini bisa menjamin keamanan sistem, meminimalkan jeda pada sistem pusat data, dan meringankan biaya perusahaan yang memperkerjakan banyak tenaga kerja.
+
+ 

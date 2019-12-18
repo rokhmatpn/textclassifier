@@ -1,0 +1,48 @@
+
+	Sosok
+	Sinyal Digital Membawa Basuki Berkiprah di Eropa
+
+
+	Sudah belasan tahun terakhir Basuki (37) berkecimpung di bidang teknologi komunikasi nirkabel. Ia mendesain algoritma pemrosesan sinyal digital telepon pintar generasi keempat untuk perusahaan telekomunikasi di Swedia, salah satu negara yang menjadi pusat teknologi komunikasi nirkabel di Eropa. Basuki tercatat sebagai pemegang belasan paten desain algoritma.
+	Oleh Antony Lee
+	Salah satu contoh paten itu semisal algoritma dalam heterogeneous networks untuk teknologi telepon genggam generasi keempat (4G). Dia mendesain algoritma agar telepon pintar mampu memproses sinyal yang diterimakendati mengalami banyak interferensi (sinyal pengganggu)sehingga tetap bisa menerima data dengan kecepatan tinggi.
+	Teknologi 4G, kata Basuki, memiliki banyak tantangan karena di satu sisi terdapat besarnya permintaan data berkecepatan tinggi, sementara di sisi lain sangat banyak interferensi akibat sel-sel base-station yang saling bertumpukan.
+	Belasan paten dicatatkan atas nama Basuki beserta tim melalui perusahaan tempatnya dulu bekerja, Ericsson AB, dan Huawei Technologies Sweden AB, tempatnya kini bekerja. Di Huawei, dia jadi spesialis senior yang memimpin tim kecil beranggotakan lima-enam peneliti multinasional yang bertugas mendesain algoritma agar telepon pintar punya performa tinggi, tetapi mampu menggunakan energi seefisien mungkin.
+	Kami coba mencari teknologi, bagaimana menyelesaikan persoalan itu dalam konteks matematika, lalu dibuat modelnya. Setelah disimulasikan dan terbukti berhasil, model itu diberikan ke bagian pengembangan untuk diimplementasikan ke chipset (otak telepon pintar), kata Basuki.
+	Kami berbincang di sela-sela santap siang pada pertengahan Desember lalu di kawasan Ideon, kota Lund, Swedia. Ideon merupakan salah satu kawasan sains terkemuka di Skandinavia yang jadi markas perusahaan- perusahaan berskala global di bidang teknologi informasi dan komunikasi.
+	Basuki mulai berkiprah di Eropa sejak 2005. Ia mendapat beasiswa sebagai mahasiswa program doktoral bidang komunikasi nirkabel di Aalborg Universitet, Denmark. Saat itu penelitiannya didukung Nokia Siemens Networks.
+	Dunia industri
+	Selulus tahun 2008, ia tiba di persimpangan jalan, antara mengabdi di dunia akademik dan terjun ke dunia industri. Aalborg Universitet menawarinya pascadoktoral, tetapi Basuki pun berpeluang bekerja di dua perusahaan besar, Nokia di Finlandia atau Ericsson di Lund, Swedia.
+	Ia memilih dunia industri karena dirasakannya penuh dinamika dan memberikan peluang lebih untuk berinteraksi dengan teknologi tepat guna. Pilihannya jatuh pada Ericsson AB, Swedia. Keputusannya itu berdasarkan pertimbangan riset 4G di Ericsson AB ataupun di Swedia umumnya terbilang maju.
+	Selain itu, kawasan Swedia selatan (Skane) terkenal sebagai Medicon Valley. Dengan bekerja di Lund, istrinya, Dina (31), yang berlatar belakang kedokteran, pun bisa melanjutkan pendidikan dan karier. Dina menjadi staf riset di Biomedical Center sekaligus mahasiswa doktoral Departemen Kardiologi, Lunds Universitet.
+	Bekerja di lingkungan multinasional di Eropa membuatnya tertantang. Ia harus mampu berkomunikasi lintas budaya sekaligus terbiasa berbicara langsung ke pokok persoalan. Ini karena sistem organisasi di Eropa Utara umumnya datar, tak hierarkis, sehingga komunikasinya terbuka. Dalam banyak hal, ini membuat kami bekerja lebih efisien, katanya.
+	Mimpi menjadi produsen
+	Salah satu kunci sukses Basuki ialah tak cepat menyerah. Saat pertama kali melamar posisi doktoral di Aalborg Universitet, ia sempat ditolak. Namun, beberapa minggu kemudian ia kembali melamar di universitas yang sama. Kali ini lamarannya diterima. Ia mendapat hikmah, topik penelitian pada lamaran kedua lebih tepat ketimbang topik lamaran pertama.
+	Selain itu, diperlukan ketekunan dan fokus pada pekerjaan. Basuki merasa kerja keras itu terbayar saat berhasil menemukan teknologi yang akan eksis di masa depan lebih cepat dibandingkan orang lain. Apalagi saat ide itu diterapkan di telepon genggam dan digunakan jutaan orang.
+	Itu kebanggaan, kata Basuki yang tak lantas berpuas diri. Apa yang saya raih belum seberapa dibandingkan ribuan paten 4G yang sudah ada.
+	Di sisi lain, dia mengaku ada hal yang kurang menyenangkan berkiprah di Eropa. Saya enggak enak karena bekerja di luar negeri, katanya. Ini membuatnya tinggal jauh dari keluarga, terutama orangtua.
+	Oleh karena itu, salah satu tantangan dia adalah bagaimana bisa berkiprah di Indonesia meski hal itu relatif masih sulit karena Indonesia sekadar jadi konsumen. Ia menilai belum banyak upaya pemerintah untuk membuat Indonesia jadi lebih mandiri di sektor telekomunikasi.
+	Namun, hal itu tak membuatnya berdiam diri. Basuki menjajaki kemungkinan membangun pusat desain dan penelitian berskala internasional di Indonesia. Ia mengajak anggota Diaspora Indonesia lain yang berpotensi dan punya keahlian serupa untuk berkolaborasi. Ia berharap hal ini bisa terwujud.
+	Indonesia itu pangsa pasarnya besar, tetapi sejauh ini hanya sebagai pengguna. Dari sisi teknologi, kita mengikuti apa yang sudah dikembangkan di luar negeri. Sebenarnya banyak orang Indonesia yang berpotensi, tetapi belum menemukan wadah, katanya.
+	Kendati jauh dari Tanah Air, Basuki berusaha berkontribusi untuk Indonesia. Misalnya, saat pulang, ia menyempatkan diri memberikan kuliah umum di beberapa universitas, seperti Institut Teknologi Bandung dan Telkom University. Ia ingin membuka wawasan mahasiswa agar termotivasi untuk belajar dan bersekolah lebih tinggi, sekaligus percaya diri.
+	Dia juga punya mimpi agar orang Indonesia yang tinggal di luar negeri dan tergabung dalam Diaspora Indonesia bisa membangun wadah jejaring global. Di jejaring ini, anggota Diaspora Indonesia bisa saling berkomunikasi, terutama mengenai potensi masing-masing.
+	India dan China sudah bagus. Ini juga memungkinkan peneliti dua negara itu yang bekerja di luar negeri mudah kembali dan berkiprah di negaranya, tutur Wakil Sekretaris Jenderal Diaspora Indonesia itu.
+	Semoga harapannya terwujud dan Indonesia tak lagi menjadi konsumen belaka.
+	Dr Ir BASUKI ENDAH PRIYANTO, MEng
+	? Lahir: Bandung, 9 Juni 1976
+	? Istri: Dokter Ihdina Sukma Dewi, MSc (31)
+	? Anak: Rayan Erik Priyanto (4,5)
+	? Pendidikan:
+	- PhD Wireless Communications Aalborg Universitet, Denmark, 2005-2008
+	- MEng Wireless Communications Nanyang Technological University, Singapura, 2000-2002
+	- Teknik Elektro (Cum Laude) Institut Teknologi Bandung, 1994-1998
+	? Pekerjaan:
+	- Senior Specialist Huawei Technologies Sweden AB, 2012-kini
+	- Staf Engineer Ericsson AB Sweden, 2008-2012
+	- External Researcher Nokia Siemens Networks ApS Denmark, 2005-2008
+	- Research Associate, Nanyang Technological University, Singapura, 2002-2005
+	- Network Engineer Schlumberger, 1999-2000
+	Foto:
+	KOMPAS/ANTONY LEE
+
+ 

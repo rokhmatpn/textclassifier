@@ -1,0 +1,34 @@
+
+	Penginderaan Jauh
+	ERP demi Merespons Kemacetan
+
+
+	Pemberlakuan 3 in 1 atau mengangkut minimal tiga penumpang di dalam satu mobil pribadi pada jam sibuk dianggap tak lagi mujarab mengatasi kemacetan di jalan protokol di Jakarta. Kini Pemerintah Provinsi DKI Jakarta siap menerapkan jalan berbayar elektronik atau electronic road pricing.
+	Oleh YUNI IKAWATI
+	Jumlah kendaraan yang bertambah cepat tanpa diimbangi perluasan kapasitas jalan kian memperbesar peluang terjadinya kemacetan di ibu kota Jakarta, terutama di jalan-jalan utama di pusat kota. Kondisi itu, yang setiap hari menyiksa pengguna jalan, sesungguhnya telah diantisipasi Pemerintah Provinsi DKI Jakarta pada 2003, yakni dengan menerapkan pemberlakuan 3 in 1 di 10 ruas jalan utama, antara lain di Jalan Jenderal Sudirman, Jalan MH Thamrin, dan sebagian ruas Jalan Gatot Subroto.
+	Namun, cara itu memiliki banyak kelemahan, yaitu keterbatasan daya jangkau penglihatan polisi pengawas lalu lintas, terutama pada petang hari. Yang terjadi, muncul fenomena joki yang dengan gamblang berdiri menawarkan jasa di tepian jalan.
+	Lalu, terbaru yang akan dilakukan Dinas Perhubungan DKI Jakarta adalah menerapkan jalan berbayar elektronik (electronic road pricing/ERP). Target pertama uji coba sistem itu adalah Jalan Jenderal Sudirman. Untuk itu dibangun gerbang ERP di depan Gedung Panin Bank Senayan.
+	Kepala Dinas Perhubungan DKI Jakarta M Akbar mengatakan, sistem ERP yang diuji coba di lokasi itu dikembangkan oleh Kapsch dari Swedia. Selain itu, ada tipe lain, yaitu Q-Free dari Norwegia yang mulai dites September mendatang. Lokasi uji cobanya di Jalan H Rasuna Said, Kuningan. Dua ruas jalan yang menjadi target berikutnya adalah Jalan MH Thamrin dan ruas jalan di daerah Kota Tua.
+	Penarikan tarif dilaksanakan pada kendaraan tertentu yang melewati gerbang itu untuk melintasi Jalan Jenderal Sudirman pada waktu yang ditetapkan. Pemberlakuan ERP adalah pada pukul 07.00-10.00, pukul 12.00- 14.00, dan pukul 16.00-19.00.
+	Sistem kerja
+	ERP terdiri dari dua jenis, yaitu sistem yang berbasis kamera elektronik dan yang menggunakan pemindai atau sensor elektronik. ERP kamera elektronik akan merekam setiap nomor kendaraan yang lewat gerbang ERP.
+	Untuk dapat merekam setiap kendaraan pada tiap lajur yang ada diperlukan beberapa kamera pemantau. Kamera itu tentunya harus yang beresolusi dan berkecepatan tinggi sehingga kendaraan yang melaju dengan kecepatan tinggi, ketika melintas gerbang ERP, nomor polisinya tetap dapat terbaca.
+	Nomor yang terekam kamera itu kemudian dikirimkan ke basis data kendaraan di komputer yang berada di kantor pusat pengendali. Berdasarkan data itu, kemudian dilakukan penagihan sesuai tarif yang berlaku dan jumlah kendaraan bersangkutan yang melintasi jalan berbayar itu dalam periode tertentu.
+	Pada ERP juga dilengkapi sistem sensor yang dilengkapi dengan gelombang radio. Untuk itu, antena pada gerbang akan mengirim sinyal ada mobil yang lewat. Sinyal itu kemudian diterima alat pemindai elektronik yang disebut OBU (on board unit). Dari hubungan komunikasi elektronis itulah saldo yang tersimpan di OBU akan dipotong secara otomatis. Antena kemudian mengirim sinyal kembali ketika mobil telah keluar zona berbayar.
+	Alat pemindai elektronik itu memuat data kendaraan dan dapat berlaku sebagai mesin pembayaran tunai yang akan langsung dipotong sesuai besarnya tarif jalan berbayar. 
+	Adapun penarifan secara elektronis ini dikenakan pada semua kendaraan, meliputi mobil, motor, bus, hingga truk, kecuali angkutan umum. Tarifnya berkisar Rp 7.000 untuk motor hingga Rp 21.000 untuk bus atau truk.
+	Teknologi inti pada ERP yang diterapkan Kapsch meliputi DSRC berkapasitas 915 MHz hingga 5.9 GHz, pencarian posisi oleh sistem satelit navigasi (global navigation satellite system; GNSS), dan ANPR (automatic number plate recognition), serta sensor optik dan laser. Sistem ERP yang dikembangkan Kapsch sejak 20 tahun lalu itu telah digunakan di 13 negara di dunia, termasuk Amerika Serikat dan Australia.
+	Singapura pertama
+	Singapura adalah kota pertama di dunia yang menerapkan sistem ini. ERP diimplementasikan oleh Land Transport Authority pada September 1998 untuk menggantikan Singapore Area Licensing Scheme, setelah berhasil diuji pada kendaraan yang berjalan pada kecepatan tinggi.
+	Saat ini telah ada 80 gerbang ERP yang terpasang di Negeri Singa itu. Selama penerapannya, pihak otoritas transportasi Singapura melaporkan penurunan hampir 25.000 kendaraan pada jam sibuk. Kecepatan kendaraan naik 20 persen. Hal itu mendorong pengendara untuk mengubah moda transportasi, rute perjalanan, atau waktu perjalanannya.
+	Sistem tersebut sesungguhnya pertama kali diuji coba di Hongkong antara tahun 1983 dan 1985. Namun, pada penerapannya ditentang masyarakat.
+	Adapun OBU sebenarnya juga bukan hal baru di Indonesia. OBU telah diterapkan di beberapa gerbang tol sejak beberapa tahun terakhir, yakni untuk pembayaran secara elektronik.
+	Berbeda dengan kartu elektronik yang harus menempelkan kartu pada kotak pemindai untuk membuka gerbang, OBU dapat membuka langsung begitu unit terdeteksi gerbang yang dilengkapi sensor.
+	Penerapan OBU pada tol sejauh ini kurang diminati karena sistemnya relatif mahal dibandingkan dengan sistem kartu elektronik. Untuk memiliki akses melalui gerbang OBU, pemilik kendaraan harus membeli unit OBU seharga Rp 400.000.
+	Teknologi sudah menyediakan alternatif. Namun, apakah sistem itu bekerja sesuai harapan, ada sistem mekanis dan faktor pengorganisasian manusia yang turut menentukan.
+
+
+	"ERP terdiri dari dua jenis, yaitu sistem yang berbasis kamera elektronik dan yang menggunakan pemindai atau sensor elektronik"
+
+Ilustrasi:
+Ardiansyah

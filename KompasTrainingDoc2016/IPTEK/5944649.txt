@@ -1,0 +1,18 @@
+
+	TNI Mandiri Teknologi
+	KSAD: Biaya Produksi Teknologi Sendiri Lebih Murah
+
+
+	JAKARTA, KOMPAS - Langkah TNI AD untuk memiliki jaringan data mandiri dengan membuat infrastruktur sendiri semakin jelas. Selain kehadiran satelit nano, TNI AD juga telah membuat open base transceiver station yang berarti komunikasi internal melalui jaringan seluler sendiri.
+	Total ada 15 riset dengan biaya Rp 31 miliar, kata Kepala Staf TNI AD Jenderal Budiman, Senin (7/4). Salah satu terobosan penting dalam rangkaian riset ini adalah satelit nano, yang merupakan hasil kerja sama dengan Universitas Surya. Rektor Universitas Surya Yohanes Surya mengatakan, dari segi teknologi, pencapaian ini ingin membuktikan, bangsa Indonesia mampu membuat satelit nano sendiri. Dengan balon, kita sudah bisa letakkan satelit itu 30 kilometer di angkasa. Sudah ada satu yang pasti berhasil, kata Yohanes.
+	Saat ini, satelit nano tersebut baru mampu mengakomodasi data yang berbentuk teks. Namun, ke depan, data yang ditransmisikan dari komputer di satu markas komando daerah militer (kodam) ke kodam lain akan berbentuk gambar video. Kemampuan materi untuk satelit itu sudah bisa mengatasi lintasan orbit 500 kilometer.
+	Satelit nano menjadi prioritas pengembangan jangka menengah. TNI AD tengah mengembangkan jaringan komunikasi data dengan serat optik. Serat optik ini sudah dibangun di Bandung dan Jabodetabek dan tahun ini ditargetkan jaringan tersebut selesai. TNI AD pun telah menetapkan memperluas jangkauan intranet. Saat ini, hubungan point to point hanya sampai sebatas 100 kilometer. Tahun ini jarak itu akan ditambah. Targetnya, jaringan bisa sampai berjarak 200 mil (sekitar 321,9 kilometer).
+	Budiman mengatakan, pengembangan teknologi ini sudah berjalan enam bulan terakhir. Riset dilakukan para prajurit TNI yang bekerja sama dengan para peneliti di kampus. Hak cipta dimiliki kedua belah pihak. Onno Purbo, salah satu pakar di bidang teknologi informasi, menyambut baik kerja sama itu. Ia mengatakan, sebagai rakyat Indonesia, dirinya bangga kalau TNI mandiri dalam membuat sendiri perangkat teknologinya. Saya ingin bangsa ini berdaulat dalam teknologi. Apalagi militernya, kata Onno.
+	Budiman menjelaskan, dengan memproduksi sendiri teknologi militer, biaya yang dikeluarkan menjadi jauh lebih murah. Ia mencontohkan, teknologi GPS tracking system APRS (automatic package reporting system) dibuat hanya dengan anggaran sekitar Rp 5 juta. Padahal, kalau beli alat impor serupa, biayanya bisa mencapai Rp 500 juta.
+	Kedua, terkait kerahasiaan dan keamanan. Negara pembuat tidak akan memberikan teknologi terbarunya kepada negara pembeli. Biasanya, lapis kedua alat perang itu diberikan kepada negara-negara sekutunya. Baru lapis ketiga diberikan kepada Indonesia.
+	Onno mengatakan, dalam jaringan data dan komunikasi intranet TNI, tentunya lebih aman karena jaringan tidak terkait dengan jaringan internet publik. Enkripsi pun dilakukan sendiri. Hal ini penting untuk keamanan jaringan. Sekarang yang terjadi, kunci server seluler itu masih dipegang asing, kata Onno.
+	Budiman mengatakan, ke depan TNI AD akan memiliki battle management system yang andal dengan jaringan data yang dibuat sendiri. Ia mengatakan, pihaknya juga bekerja sama dengan beberapa perusahaan swasta, seperti PT CMI yang membuat radio VHF, selain riset dengan Universitas Surya.
+	Proyek-proyek yang dikerjakan antara lain gyrocopter, mesh network communication system, simulasi modifikasi mobil tempur antipanas, simulasi senjata api antipanas, GPS tracking system APRS, multirotor, unmanned aerial vehicles (UAV) autopilot, simulasi menembak dengan laser gun, dan jammer perusak sinyal.
+	(edn)
+
+ 

@@ -1,0 +1,20 @@
+
+	Kejahatan Dunia Maya
+	Peretas Curi 53 Juta Data Pelanggan Home Depot
+
+
+	WASHINGTON, JUMAT - Pencurian 53 juta alamat e-mail pelanggan Home Depot, perusahaan ritel terbesar di Amerika Serikat, mengguncang negara itu. Kejahatan dunia maya ini, menurut Home Depot, Kamis (6/11), merupakan pencurian data terbesar dalam sejarah negara AS.
+	Modus kejahatan yang digunakan oleh peretas adalah memakai nama pengguna dan kata sandi milik pihak ketiga. Mereka kemudian masuk ke jaringan komputer. Pihak Home Depot juga mengakui data kartu kredit telah dicuri pada awal tahun ini.
+	Meskipun informasi yang dicuri tidak mengandung informasi pribadi yang sensitif, pihak Home Depot mengatakan, para peretas menyampaikan pesan palsu untuk mengelabui pelanggan. Bisa jadi pelanggan akan membocorkan data mereka, sebuah skema yang biasa disebut dengan phishing.
+	Pelanggan harus waspada terhadap penipuan seperti phishing, yang dirancang untuk mengelabui pelanggan dalam menyediakan informasi pribadi saat menanggapi e-mail palsu, kata Home Depot dalam sebuah pernyataan.
+	Proses pembaruan memakan waktu berminggu-minggu setelah Home Depot mengungkapkan kebocoran data 56 juta nomor kartu kredit yang terjadi antara bulan April dan September.
+	Menyebar virus
+	Para perusahaan mengungkapkan, peretas berhasil mendapatkan mandat dari vendor, yang tidak segera memberikan akses langsung ke point-of-sale perangkat perusahaan yang telah dicuri.
+	Para peretas kemudian seolah memperoleh hak tinggi yang memungkinkan mereka mengakses lebih dalam. Langkah itu diikuti dengan menyebarkan malware unik pada sistem checkout mandiri di Amerika Serikat dan Kanada.
+	Proses penyelidikan yang dilakukan oleh perusahaan tersebut dengan dibantu para ahli hukum dan keamanan menyimpulkan bahwa malware yang disebar tidak pernah terlihat dalam serangan sebelumnya. Malware itu memang dirancang agar tidak terdeteksi oleh perangkat lunak antivirus.
+	Home Depot mengatakan, kasus tersebut masih dalam penyelidikan, dan mereka telah menghilangkan malware dari sistem. Ditawarkan pula pemantauan kredit kepada nasabah yang mungkin terkena dampak pelanggaran.
+	Berulang
+	Pelanggaran serupa sebelumnya terjadi pada Desember tahun lalu. Perusahaan yang diserang saat itu adalah jaringan ritel AS, Target.
+	Dalam serangan terhadap jaringan ritel Target, para peretas berhasil memperoleh akses data lebih dari 40 juta nomor kartu kredit pelanggan. Selain itu, mereka juga berhasil membobol informasi pribadi serta identifikasi lainnya yang dimiliki oleh 70 juta orang. (AFP/JOS)
+
+ 

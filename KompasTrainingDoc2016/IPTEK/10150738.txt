@@ -1,0 +1,28 @@
+
+	Teknologi Informasi
+	Tawaran Aplikasi Menembus Macet
+
+
+	Berkali-kali pemerintah mencari solusi mengatasi kemacetan lalu lintas. Namun, langkah itu kalah cepat dengan dinamika masalah di lapangan. Kali ini Pemerintah Provinsi DKI Jakarta mencoba mengurai masalah itu dengan pendekatan teknologi informasi.
+	September lalu, Pemprov DKI resmi menjalin kerja sama dengan Waze, aplikasi navigasi berbasis global positioning system (GPS). Aplikasi ini bisa diunduh gratis dan difungsikan di ponsel pintar dan perangkat digital lain. Target kerja sama dengan Waze adalah memudahkan warga mengurai macet dengan cara berbagi informasi.
+	Dalam kerja sama ini, Pemprov DKI akan menyuplai informasi yang dibutuhkan warga kepada Waze.
+	Selasa (11/11) pagi, dua utusan Waze, yaitu Paige Fitzgerald dan Fej Shmuelevitz, menemui Pelaksana Tugas Gubernur DKI Jakarta Basuki Tjahaja Purnama. Mereka melanjutkan pembicaraan terkait kerja sama tersebut.
+	Basuki yakin kerja sama ini sangat menguntungkan. Menurut dia, DKI tak lagi perlu membangun intelligent traffic system (ITS) dengan anggaran triliunan rupiah. Sebelumnya, ITS ini dirancang terdiri dari tiga subsistem, yakni BTS (bus tracking system), ATCS (area tracking control system), dan TIS (traffic information system). Sistem itu diperlukan untuk mengontrol perjalanan transjakarta lewat satelit.
+	Namun, semua itu, kata Basuki, sudah tersedia pada aplikasi Waze. DKI pun dapat menghemat dana kerja sama dengan Waze ini ditawarkan cuma-cuma.
+	Shmuelevitz, Wakil Presiden Komunitas dan Operasi Waze, mengatakan, kerja sama ini menggabungkan informasi dari pemerintah dan pengguna Waze. Semua hal yang terjadi di jalan, mulai dari kondisi jalan, kemacetan, kecelakaan lalu lintas, dan lokasi polisi tersedia di layanan Waze.
+	Dengan semua informasi itu, pengendara di Jakarta menjadi lebih mudah memetakan jalan yang akan ditempuh. Sebaliknya, dengan semua informasi yang terjadi di jalan dilaporkan para pengguna secara real time, pemerintah pun dapat merespons pada saat itu juga jika diperlukan.
+	Nantinya, informasi dari pengguna Waze ditambah data pemerintah akan diolah dan kembali diinformasikan ke warga yang membutuhkan. Jika kerja sama ini direalisasikan pada 2015, Jakarta akan menjadi kota ke-10 di dunia yang menjalin kerja sama dengan Waze.
+	Faqih, pengguna ponsel pintar di Jakarta, berharap kerja sama ini bermanfaat bagi warga. Dia sudah mengenal aplikasi Waze sebelumnya, tetapi dia lebih senang menggunakan aplikasi Google Maps. Menurut dia, selain proses pengoperasiannya lamban, Waze memberikan terlalu banyak informasi yang tidak ia butuhkan.
+	Saya hanya butuh informasi jalan mana yang macet dan jalan mana yang lancar. Layanan itu ada di Google Maps, kata Faqih, yang menyatakan tampilan visual aplikasi Waze lebih menarik daripada Google Maps.
+	Kevin Roose, dalam artikelnya berjudul Did Google Just Buy a Dangerous Driving App? di laman nymag.com, 14 Juni 2013, mengulas aplikasi Waze justru berisiko membuat pengemudi berpotensi mengalami kecelakaan lalu lintas.
+	Menurut dia, fitur-fitur yang tersedia di Waze menyita perhatian dan membuat pengemudi ketagihan. Hal inilah yang membahayakan jika pengemudi terus-menerus berinteraksi dalam aplikasi itu ketika berkendara.
+	Tak ada yang gratis
+	Ruby Alamsyah, praktisi forensik digital, mengatakan, Waze menawarkan crowdsource (informasi dari sesama pengguna aplikasi) yang interaktif. Tidak banyak aplikasi navigasi yang memiliki fitur seperti ini.
+	Meskipun demikian, Ruby mengingatkan, Pemprov DKI terkesan terlalu memberi angin kepada pengelola Waze. Mereka akan menikmati crowdsource yang kaya informasi, baik dari warga maupun dari pemerintah.
+	Meski saat ini kerja sama itu ditawarkan gratis ke Pemprov DKI, bukan tidak mungkin informasi itu nantinya akan dimonetisasi oleh Waze. Sejarah mencatat, monetisasi crowdsource inilah yang telah membesarkan media sosial dunia, seperti Facebook dan Twitter.
+	Ruby berpendapat, aplikasi serupa dapat dikembangkan tenaga ahli Indonesia sehingga aplikasi yang dibesarkan di dalam negeri itu dapat dinikmati kekayaan informasinya secara mandiri.
+	Ruby mengapresiasi langkah Presiden Joko Widodo yang tidak buru-buru menerima tawaran pendiri Facebook, Mark Zuckerberg, untuk menggunakan situs gratis internet.org beberapa waktu lalu. Menurut dia, Jokowi sadar tidak ada makan siang yang gratis.
+	(Andy Riza Hidayat/Prasetyo Eko P)
+	 
+
+Grafik: Waze

@@ -1,0 +1,35 @@
+
+	Energi Terbarukan
+	Pendingin dari Panas Matahari
+
+
+	Bangunan baru untuk gedung Pusat Riset Manufaktur Fakultas Teknik Universitas Indonesia menggunakan fasilitas pendingin ruang yang unik. Prinsip pendinginannya menggunakan refrigeran air yang dipanaskan dengan tabung pengumpul panas matahari sehingga ramah lingkungan.
+	Oleh Nawa Tunggal
+	Ketika sumber energi tidak bisa sepenuhnya diambil dari sinar matahari karena tertutup awan mendung, digunakan alternatif gas alam (compressed natural gas/CNG), kata peneliti dan dosen pada Departemen Teknik Mesin pada Fakultas Teknik Universitas Indonesia (UI) Muhammad Idrus Alhamid, Kamis (13/2), di ruang kerjanya di Depok, Jawa Barat.
+	Gedung Pusat Riset Manufaktur berlantai enam. Pengumpul panas matahari atau solar thermal collector  memanfaatkan atap seluas 240 meter persegi.
+	Dibandingkan dengan penggunaan pendingin konvensional, yang sepenuhnya menggunakan energi listrik PLN, rancangan Idrus iniselain menghemat listrikjuga diklaim mengeluarkan emisi karbon dioksida lebih rendah.
+	Kapasitas pendinginnya mencapai 281 kilowatt. Dengan durasi pemakaian yang sama, pada pendingin konvensional mengonsumsi listrik 70 kilowatt dan menghasilkan emisi 183 ton karbon dioksida. Adapun hasil rancangan Idrus, energi listrik yang digunakan untuk kipas yang mengembuskan udara dingin hanya mengonsumsi 20 kilowatt.
+	Lalu, dengan asumsi penggunaan gas alam 46.000 meter kubik, dihasilkan emisi 141 ton karbon dioksida. Jika pemanfaatan pendingin ruang ini hanya siang hari saat kemarau, jauh lebih hemat. Sepenuhnya, energi yang dimanfaatkan bisa dari sinar matahari.
+	Rancangan pendingin ruang dari panas matahari ini mengurangi polusi udara dan menghemat energi, kata Idrus.
+	Saat ini, pembangunan gedung MRC mencapai 90 persen. Rancangan pendingin ruang dari panas matahari (solar thermal cooling system/SCTS) sudah diuji coba.
+	Beberapa perusahaan pun menyumbang peralatan, di antaranya Kawasaki Thermal Engineering Co, Ltd, Kuken Kogyo, PT Guntner Indonesia, dan Sunrain. Hasil pengembangan rekayasa ini pertama di Indonesia.
+	Soal kinerja
+	Secara garis besar, kinerja mesin pendingin ruang hasil rancangan Idrus memiliki dua sistem, yaitu sistem produksi air dingin dan sistem distribusi air dingin tersebut.
+	Untuk memproduksi air dingin digunakan tiga komponen utama. Ketiganya, peralatan absorption chiller untuk mengubah udara menjadi udara dingin, solar thermal collector untuk menghasilkan panas sampai 90 derajat celsius pada refrigeran air,dan cooling tower untuk menyimpan air yang akan didistribusikan dengan suhu awal 12 derajat celsius dan diturunkan menjadi 7 derajat celsius melalui peralatan evaporator.
+	Evaporator yang digunakan bertekanan 0,8 kilopascal. Tekanan ini memiliki kesetaraan dengan suhu air atau udara 5 derajat celsius.
+	Panas 90 derajat celsius dari solar thermal collector berfungsi menguapkan air pada larutan lithium bromida (LiBr). LiBr merupakan fluida yang dimanfaatkan dalam sistem pendinginan ini.
+	Pada saat diuapkan, larutan LiBr menjadi kental. Uap airnya kemudian dicairkan pada kondensor memanfaatkan air dingin dari cooling tower. Uap air yang sudah menjadi air lalu dialirkan ke evaporator. Air itu juga disemprotkan ke koil air.
+	Air yang melintasi evaporator bersuhu 12 derajat celsius. Pada saat melintasi evaporator dengan tekanan 0,8 kilopascal setara suhu 5 derajat celsius, maka suhu 12 derajat celsius turun menjadi 7 derajat celsius.
+	Suhu dingin 7 derajat celsius ini yang dialirkan ke setiap ruang. Suhu dingin itu mengalir di dalam kisi-kisi yang diembus angin dari kipas yang digerakkan listrik. Udara yang diembuskan dengan kipas itu menjadi dingin. Inilah yang menjadi pendingin ruangan, kata Idrus.
+	Selain menuju evaporator, air juga disemprotkan ke koil air. Air tersebut akan menguap karena menyerap kalor atau panas dari koil air. Uap airnya ditangkap larutan LiBr yang kental hingga larutan itu encer lagi.
+	Larutan LiBr encer memasuki siklus awal yang akan diuapkan melalui panas yang dihasilkan solar thermal collector. Prosesnya berulang terus-menerus untuk menghasilkan suhu dingin yang diembuskan ke ruangan.
+	Ongkos produksi
+	Menurut Idrus, ongkos produksi alat itu tidak murah. Investasi peralatan pendingin ruang dari panas matahari ini memang tergolong masih mahal karena selama ini belum ada perusahaan yang memproduksi komersial, kata Idrus.
+	Pendinginan diasumsikan untuk enam lantai dengan kapasitas berturut-turut 30 orang, 35 orang, 27 orang, 16 orang, 14 orang, dan 12 orang. Beban listriknya dihitung untuk setiap meter persegi menggunakan 15 watt.
+	Selama ini ada dua bentuk pemanfaatan sinar matahari, yaitu untuk photovoltaic (sel surya pengubah photon atau cahaya menjadi listrik) dan solar thermal atau panas matahari untuk sumber energi, kata Idrus.
+	Melalui energi panas matahari itu, Idrus memanfaatkannya justru untuk mendinginkan ruangan.
+	Dari sisi peluang, produksi massal alat ini sebenarnya bagus. Saat ini, pemanfaatan energi listrik untuk pendinginan ruangan di perkantoran-perkantoran terus meningkat.
+	Listrik yang digunakan pun masih mengandalkan energi yang tidak terbarukan, seperti batubara dan minyak solar. Dari sisi finansial, konsumsi energi saat ini masih tergolong mahal.
+	Idrus sudah memberikan sumbangan pemikiran ke depan. Pendingin dari panas matahari tersebut memberikan solusi untuk menghemat energi listrik.
+
+Grafik: Sistem Pendingin Termal Surya

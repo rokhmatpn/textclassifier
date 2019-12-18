@@ -1,0 +1,15 @@
+
+	Pengajaran Kedokteran
+	Kembangkan Aplikasi Berbasis Multimedia
+
+
+	DEPOK, KOMPAS - Ikatan Alumni Fakultas Kedokteran Universitas Indonesia menjalin kerja sama dengan Vertikal Integrasi Internasional (VI System) dan Microsoft Indonesia. Kedua institusi itu mengembangkan model pengajaran bidang kedokteran berbasis multimedia yang disebut MED+.
+	Dalam peluncuran MED+ di Kampus UI, Depok, Jawa Barat, Kamis (18/12), Andrey R Hidayat, CEO VI System, mengatakan, hak kekayaan intelektual (hak paten) aplikasi yang dibuat pengembang dalam negeri itu telah didaftarkan. Kelebihan MED+ dibandingkan dengan aplikasi yang dibuat negara lain terletak pada pengintegrasi materi ajar kedokteran dan biokimia.
+	Dalam mengembangkan aplikasi MED+, tim dari Ikatan Alumni UI (Iluni) FKUI yang terdiri dari Prof Rio Sofwanhadi, Prof Moh Sodikin, dan Doktor Nurhadi berkontribusi dalam menyediakan materi pengajaran. Microsoft menyediakan sistem operasi, sementara VI System mengembangkan aplikasi dan sistem integrasi.
+	Adanya aplikasi pendidikan kesehatan itu memungkinkan mahasiswa kedokteran mempelajari anatomi, fisiologi, dan patologi tubuh manusia dalam citra tiga dimensi.
+	Windows 8
+	Aplikasi MED+ akan tersedia secara khusus di tablet berbasis Windows 8.1 dan bisa diunduh di Windows Store. Penggunaan aplikasi MED+ di platform Windows 8.1 yang dilengkapi Office 365 itu akan menunjang kolaborasi dan interaksi dalam proses belajar-mengajar mahasiswa kedokteran.
+	Ketua Iluni FKUI Doddy P Partomihardjo menjelaskan, pada aplikasi itu terdapat enam modul pembelajaran sesuai dengan standar ilmu kedokteran. Pada tahap pertama ini, materi yang tersedia pada MED+ meliputi sistem kardiovaskular, sistem pencernaan, sistem pernapasan, sistem reproduksi, sistem urinal, dan sistem saraf.
+	Konten modul pendidikan kedokteran dalam aplikasi teknologi informasi itu menggunakan bahasa Indonesia. Aplikasi itu pun telah disesuaikan dengan buku Sobotta dan Grays Anatomy yang menjadi standar global ilmu kedokteran modern. Kini, semua modul bisa diakses gratis di Windows Store selama empat bulan mendatang. Selanjutnya, aplikasi itu akan berbayar. (YUN)
+
+ 

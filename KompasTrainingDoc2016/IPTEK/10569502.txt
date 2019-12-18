@@ -1,0 +1,19 @@
+
+	Teknologi Kedokteran
+	E-cardio untuk Deteksi Dini Penyakit Jantung
+
+
+	Jakarta, Kompas - Peneliti pada Fakultas Kedokteran dan Fakultas Ilmu Komputer Universitas Indonesia mengembangkan e-cardio, sistem berbasis Android untuk deteksi dini dan pemantauan penyakit jantung. Harapannya, sistem itu menjadi solusi ketidakmerataan ahli jantung di daerah dan berkontribusi menurunkan kematian akibat penyakit jantung.
+	Kepala Departemen Fisika Kedokteran FKUI Edrial Eddin, Senin (8/12), mengatakan, keberadaan e-cardio dilatarbelakangi kenyataan bahwa dokter spesialis jantung tidak terdistribusi merata ke seluruh daerah. Padahal, mereka dibutuhkan mengingat banyaknya kasus jantung dan pembuluh darah yang muncul dan berujung kematian.
+	E-cardio terdiri dari alat elektro kardiogram (EKG) perekam aktivitas listrik pada denyut jantung, serta aplikasi peranti lunak yang akan dipasang pada ponsel pintar berbasis Android.   
+	Berbeda dengan EKG pada umumnya, alat EKG pada e-cardio dibuat kompak.
+	E-cardio memungkinkan tenaga medis di daerah mengirimkan hasil perekaman EKG kepada dokter ahli melalui jaringan internet. Data diterima ponsel pintar dokter yang sudah dipasangi aplikasi khusus agar tak hanya menampilkan hasil perekaman, tetapi juga memberikan opsi rekomendasi tindakan.
+	Sebenarnya, kata Edrial, sistem yang hampir sama telah diterapkan di DKI Jakarta, dengan Rumah Sakit Jantung Harapan Kita. Bedanya, sistem di DKI Jakarta lebih fokus pada bagaimana mendapatkan data EKG secepatnya dalam berbagai cara.
+	Oleh karena itu, metode pengiriman data tidak baku. Hasil EKG ada yang dikirimkan melalui faksimile, ada yang difoto lalu dikirimkan melalui aplikasi Blackberry Messenger, atau aplikasi lain.
+	E-cardio membakukan pengiriman hasil EKG melalui aplikasi tertentu. Sebab, data medis tidak boleh dikirim melalui saluran publik, ujar Edrial.
+	Para peneliti menghabiskan waktu 6-7 bulan untuk survei dan 3 bulan membuat peranti lunak e-cardio. Kini, prototipe alat itu sedang diuji coba di beberapa puskesmas di Jakarta.
+	Pada penyelenggaraan Asia Pacific ICT Alliance (Apicta) tahun 2014, e-cardio menjadi juara 2 (Merit Award) untuk kategori penelitian dan pengembangan. Apicta adalah ajang tahunan yang bertujuan menyebarluaskan kesadaran teknologi informasi dan komunikasi di dunia.
+	Dekan FKUI Ratna Sitompul mengatakan, ada banyak inovasi bidang kedokteran yang dihasilkan para peneliti dalam negeri. Namun, selama ini hal tersebut belum terpublikasi dengan baik sehingga kurang dikenal.
+	Selain itu, pemanfaatan hasil-hasil penelitian oleh pemerintah ataupun industri juga masih belum optimal. (ADH)
+
+ 

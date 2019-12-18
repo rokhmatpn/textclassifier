@@ -1,0 +1,19 @@
+
+	Andal di Suhu 300o C
+
+
+	Oleh AW Subarkah
+	Sebagai negeri yang berada di rangkaian cincin api, Indonesia memang memiliki banyak risiko bencana gunung berapi. Namun, di balik ancaman ini terkandung cadangan energi geotermal sangat besar. Bahkan, potensi energi panas ini termasuk yang terbesar di dunia.
+	Sayangnya, kekayaan alam ini, seperti halnya minyak bumi dan gas alam, harus dieksplorasi melalui pengeboran ribuan meter ke dalam tanah. Tentu saja eksplorasi di kedalaman perut Bumi memerlukan mesin berteknologi tinggi untuk melihat sekeliling lubang pengeboran, melalui sensor-sensor dan pengendali berupa rangkaian elektronik mikro yang tahan panas.
+	Pada kedalaman 4 hingga 6 kilometer, temperatur meningkat 150-200 derajat celsius. Menghadapi kondisi panas ini, perangkat elektronik mikro konvensional yang mengikuti bor berada pada batas kemampuannya, sekalipun ada cip semikonduktor jenis CMOS yang kadang memiliki toleransi hingga 250 derajat celsius. Namun, keandalannya dengan cepat akan menurun pada suhu sepanas itu.
+	Hambatan ini akan segera bisa diatasi dengan pengembangan cip mikro yang mampu bekerja dengan nyaman sampai 300 derajat celsius. Dengan demikian, tingkat presisi pengindraan perangkat elektronik tetap terjaga. Ini berkat karya para ilmuwan dari Institut Fraunhofer Jerman.
+	Dengan kemampuan menahan panas hingga 300 derajat celsius, rangkaian elektronik mikro bisa mengendalikan dengan sangat presisi atau secara mandiri menganalisis parameter lingkungan di kedalaman. Dengan demikian, bisa menunjukkan lokasi tepat, yang dalam hal geotermal adalah sumber panas.
+	Cip terbaru
+	Para peneliti di bagian Elektronik Temperatur Tinggi Fraunhofer Institute for Microelectronic Circuits and Systems ini menyempurnakan cip semikonduktor (CMOS) dengan proses terperatur tinggi khusus yang mereka sebut SOI CMOS. SOI merupakan kependekan dari silikon pada isolator. Ini berarti menerapkan sebuah lapisan untuk mengisolasi transistor yang satu dengan transistor lainnya.
+	Isolasi ini mencegah kebocoran arus selama cip beroperasi. Arus listrik yang mengalir di luar jalurnya inilah yang meningkatkan panas cip. Penyempurnaan menggunakan cara metalisasi tungsten pada cip yang kurang sensitif terhadap panas daripada aluminium yang biasa digunakan. Kemampuan tahan terhadap panas ini sekaligus akan meningkatkan usia rangkaian elektronik mikro.
+	Cip mikro yang diharapkan bisa digunakan pada akhir tahun ini ukurannya hanya 0,35 mikrometer, jauh lebih kecil dari cip temperatur tinggi yang ada saat ini. Ukuran cip tahan panas yang sudah ada minimal 1 mikrometer.
+	Selain penerapan pada pengeboran perut Bumi, sebenarnya masih banyak aplikasi yang bisa dikembangkan, misalnya pada dunia penerbangan. Cip mikro tahan panas ini memungkinkan membuat sensor untuk ditempatkan sedekat mungkin dengan mesin turbin yang membuat mesin menjadi lebih andal, efisien, menghemat bahan bakar, dan membuat penerbangan semakin ramah lingkungan.
+	Sekalipun mungkin hanya berupa penyempurnaan pada rangkaian elektronik mikro, hal itu akan memberikan pengaruh pada perangkat pengeboran. Ini juga akan menguntungkan Negeri Cincin Api, mengingat potensi panas bumi saat ini baru dimanfaatkan sekitar 4 persen dari cadangan 28.000 megawatt.
+	Jika Indonesia lebih fokus pada melimpahnya sumber daya alam yang ramah lingkungan, termasuk gas alam, jelas masyarakat akan sangat diuntungkan.
+
+ 

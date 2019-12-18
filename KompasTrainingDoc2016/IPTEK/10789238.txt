@@ -1,0 +1,61 @@
+
+LAPORAN AKHIR TAHUN
+
+Memperluas Layanan Elektronik
+
+
+
+Jaringan internet kini telah menyusup ke pelosok Tanah Air. Selain lewat komputer, jaringan internet beroperasi melalui akses telepon seluler yang mulai banyak digunakan masyarakat umum. Peningkatan penggunaan sarana informasi dan komunikasi itu mendorong perkembangan layanan elektronik dalam jaringan di berbagai sektor secara nasional.
+
+Oleh Yuni Ikawati
+
+Tahun ini, pengguna internet di Indonesia mencapai lebih dari 83 juta orang atau menempati peringkat ke-6 dunia. Mereka dimudahkan dalam mendapat berbagai informasi melalui portal web, seperti Google dan Yahoo.
+
+Selain informasi multimedia, aplikasi terus dikembangkan untuk layanan umum, di antaranya sektor transportasi dan sektor pemerintahan. Tahun ini, sejumlah aplikasi baru diperkenalkan dan diuji coba, yakni pembayaran parkir dan tiket elektronik (electronic parking dan e-ticket) kereta api serta jalan berbayar elektronik atau electronic road pricing (ERP) di DKI Jakarta.
+
+Di lingkup pemerintahan, pemungutan suara elektronik atau e-voting dimulai di tingkat desa. Adapun katalog elektronik (e-catalog) dan pengadaan elektronik (e-procurement) mulai dicanangkan pemberlakuannya secara nasional pada pemerintahan Kabinet Kerja saat ini.
+
+Penerapan sistem teknologi informasi dan komunikasi itu terdiri atas peranti keras dan peranti lunak, meliputi sistem operasi dan aplikasinya. Tujuannya, meningkatkan kecepatan pelayanan, akurasi, dan transparansi dalam transaksi data. Jadi, penyimpangan bisa diminimalkan.
+
+Tiket elektronik
+
+Adapun pemakaian uang elektronik mulai diterapkan di bidang perparkiran di Jalan Braga, Kota Bandung, dan di Jalan Sabang, Jakarta. Sementara PT Kereta Api Indonesia (KAI), Juni 2014, memperkenalkan pembayaran elektronik untuk parkir yang terintegrasi dengan pembelian tiket berbentuk kartu multi-trip.
+
+Layanan itu bisa memakai uang elektronik yang dikeluarkan beberapa bank (BCA, BRI, BNI, dan Mandiri). Sistem diberlakukan di 23 stasiun di Jakarta, Bogor, Depok, Tangerang, Tangerang Selatan, dan Bekasi (Jabodetabek) sejak Juni 2014.
+
+Penggunaan serupa diterapkan di pintu masuk tol. Dengan menempelkan kartu di kotak sensor, palang pintu terbuka otomatis. Tiap penggunaan, saldo kartu berkurang sesuai biaya parkir atau pembayaran tiket.
+
+Di Jakarta, pemerintah siap menerapkan jalan berbayar secara elektronik di ruas Jalan Jenderal Sudirman, Juli 2014. Tujuannya, mengatasi kemacetan di jalan protokol itu. Rencananya, pemberlakuan secara resmi dilakukan akhir 2015.
+
+Pemantauan kendaraan di jalan itu memanfaatkan sistem sensor dan kamera otomatis yang terpasang pada gerbang, berupa konstruksi rangka pipa besi di ujung jalan.
+
+Kamera beresolusi tinggi merekam tiap nomor kendaraan yang melintasi gerbang itu, lalu mengirimkan secara telemetri ke server kantor pusat. Menurut data yang diterima, penagihan sesuai tarif dan jumlah kendaraan yang lewat jalan berbayar.
+
+Identifikasi juga dilakukan ERP dengan sistem sensor berbasis gelombang radio. Untuk itu, antena di gerbang mengirim sinyal ke mobil yang lewat. Sinyal diterima alat pemindai elektronik (on board unit/OBU) di kendaraan. Dari komunikasi elektronik itu, retribusi ERP didebet otomatis dari saldo OBU.
+
+Pengisian kembali saldo OBU bisa dengan menempelkan uang elektronik atau kartu prabayar di bagian sensor atau memasukkan di celah sehingga data di kartu pembayaran elektronik terekam di OBU.
+
+OBU sebenarnya telah diterapkan di beberapa gerbang tol sejak beberapa tahun terakhir. Itu berdampingan dengan sistem pembayaran elektronik e-money atau e-toll.
+
+Penerapan e-voting
+
+Teknologi informasi dan komunikasi (TIK) juga diterapkan dalam Pemilu 2014, mulai tabulasi, rekapitulasi, hingga penayangan hasil. Penerapan TIK itu akan ditingkatkan ke pemungutan suara elektronik atau e-voting kepala daerah hingga pilpres mendatang secara langsung. Implementasinya tergantung pembahasan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, dan Wali Kota.
+
+Teknologi e-voting dirintis penerapannya oleh Badan Pengkajian dan Penerapan Teknologi (BPPT) di tingkat desa sejak 2009. Hingga kini, sistem elektronik itu dimanfaatkan di 13 pemilihan kepala desa di lima kabupaten, yaitu Musi Rawas, Banyu Asin, Boyolali, Banyuwangi, dan Jembrana. Penggunaan e-voting tingkat desa didukung UU No 6/2014 tentang Desa.
+
+Untuk mendukung e-voting di sekitar 8.000 desa, BPPT meluncurkan desain besar sistem e-voting tingkat desa pada 12 November 2014. Desain itu mencakup sistem, pembuatan di industri, pola penyelenggaraan, dan audit teknologi. Prototipenya memenuhi standar internasional dan tersertifikasi.
+
+Sistem TIK itu dinilai memenuhi syarat transparan, akuntabel, cepat, akurat, efisien, dan mengatasi dimensi jarak. Hasil e-voting bisa muncul dalam sehari, sedangkan hasil pilkada dan pemilu konvensional butuh waktu seminggu hingga sebulan. Pemungutan suara elektronik juga memenuhi asas pemilu, yaitu langsung, umum, bebas, rahasia, jujur, dan adil.
+
+Sejak dikembangkan pada 2004 oleh BPPT dalam pemilihan kepala dusun, e-voting sudah sampai tahap versi ketiga, yaitu memakai layar sentuh dan kartu pintar. Jadi, mudah dipakai kalangan awam.
+
+Pengadaan
+
+Penggunaan katalog elektronik dan pengadaan elektronik dicanangkan Presiden Joko Widodo awal Desember 2014. Layanan elektronik itu sebelumnya diterapkannya di Kota Solo dan Provinsi DKI Jakarta. Selain mempercepat dan memudahkan proses, sistem itu mendukung transparansi dan menghemat 10 persen anggaran pengadaan barang dan jasa.
+
+Untuk itu, Jokowi pada 4 Desember menginstruksikan Lembaga Kebijakan Pengadaan Barang dan Jasa Pemerintah agar merevisi Peraturan Presiden No 70/2012. Ketentuan yang direvisi antara lain terkait katalog elektronik. Dalam pengadaan barang di instansi pemerintah, data katalog elektronik jadi acuan tender agar siapa pun bisa mengaksesnya lewat internet.
+
+Semua sistem layanan elektronik itu butuh sistem tata kelola yang baik dan keandalan manusia yang mengoperasikan.
+
+
+ 

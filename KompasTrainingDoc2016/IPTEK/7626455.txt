@@ -1,0 +1,26 @@
+
+	Neuroteknologi
+	Saya Berpikir, maka Saya Gerak
+
+
+	Teknologi seharusnya memudahkan aktivitas. Dengan begitu, teknologi bermanfaat besar bagi manusia. Salah satu teknologi termutakhir bidang rehabilitasi saraf adalah neurobridge, teknologi antarmuka manusia-mesin yang memungkinkan seseorang menggerakkan lagi anggota tubuhnya yang lumpuh menggunakan kekuatan pikiran.
+	Oleh Adhitya Ramadhan
+	Melalui neurobridge, sinyal perintah dari otak menuju otot berjalan lancar sehingga memungkinkan anggota tubuh lumpuh kembali digerakkan. Adalah Ian Burkhart (23), warga Dublin, Ohio, Amerika Serikat, yang menjadi pasien pertama yang mencoba neurobridge. Burkhart lumpuh akibat kecelakaan selam empat tahun lalu.
+	Neurobridge merupakan kerja sama Ohio State University Wexner Medical Center dengan Battelle, sebuah organisasi penelitian dan pengembangan nirlaba, selama lebih kurang 10 tahun terakhir.
+	Kerja neurobridge merupakan kombinasi cip komputer yang ditanamkan di dalam otak, antarmuka otak-komputer, dan ikatan elektroda definisi tinggi yang dililitkan di lengan pasien.
+	Sistem neurobridge menggunakan algoritma untuk secara efektif mempelajari aktivitas otak penggunanya. Sistem ini menerjemahkan sinyal otak, lalu mengirimkannya pada ikatan elektroda definisi tinggi yang dipakai pasien lumpuh. Elektroda ini lalu menstimulasi otot yang tepat agar bergerak sesuai pikiran dalam kecepatan sepersepuluh detik.
+	Neurobridge bekerja ibarat jalan pintas saraf yang menangkap sinyal otak, mencarikannya jalan melintasi saraf tulang belakang yang rusak, dan mengirimnya langsung ke otot yang tepat. Dengan demikian, itu memungkinkan otot bergerak sesuai perintah otak. Sistem ini seperti pembuatan jalan pintas pada jantung. Namun, bukan mengalirkan darah, sistem ini mengalirkan sinyal elektrik dari otak, ujar Chad Bouton, pimpinan peneliti di Battelle.
+	Menurut dokter di Wexner Medical Center, Ali Rezai, agar sistem tersebut bekerja, ahli bedah harus menempatkan cip neurobridge pada titik presisi di otak pasien Burkhart, tepatnya pada bagian korteks yang mengontrol gerakan tangan dan lengan. Selama operasi tiga jam, tim dokter menanamkan cip seukuran kacang pada bagian otak yang menyala pada saat diuji alat gambar resonansi magnetik fungsional (fMRI).
+	Burkhart menyiapkan diri berbulan-bulan sebelum uji coba dimulai. Sebab, ototnya lumpuh, layu, dan menyusut akibat jarang difungsikan. Persiapan diperlukan agar otot bisa merespons sinyal neurobridge lebih baik.
+	Setelah operasi, para peneliti bekerja mengatur urutan elektroda yang benar sehingga memungkinkan Burkhart menggerakkan jari dan tangannya secara fungsional. Tidak seperti alat lain yang merangsang motorik kasar, neurobridge memilih otot yang tepat untuk merespons rangsangan saraf yang sesuai.
+	Cara kerja dan syarat
+	Pada uji coba, Burkhart ditunjukkan gambar gerakan tangan dan diminta memikirkan gerakan itu. Cip membaca sinyal otak Burkhart lalu mengirimnya ke komputer yang mampu menerjemahkan ulang sinyal itu agar dapat dibaca otot. Komputer lalu mengirim sinyal itu pada ikatan elektroda, yang merangsang otot bergerak.
+	Penggunaan neurobridge membutuhkan konsentrasi tinggi. Pengguna harus benar-benar mampu memvisualkan gerakan. Kepada Livescience.com, Jerry Mysiw, direktur layanan rehabilitasi medis di Wexner Medical Center, mengatakan, Saya pikir kami telah mencapai sebuah peristiwa penting dalam evolusi teknologi antarmuka manusia-mesin.
+	Sebenarnya, sebelum neurobridge ada teknologi serupa yang juga memungkinkan orang lumpuh menggerakkan anggota tubuhnya. Tahun 2012, misalnya, uji coba braingate, sistem antarmuka saraf dilakukan. Teknologi itu memungkinkan perempuan lumpuh meminum secangkir kopi menggunakan lengan robotik yang dikendalikan pikiran.
+	Masih pada tahun 2012, peneliti di Northwestern University mengembangkan aneuroprosthesis yang memulihkan gerakan kompleks pada lengan yang lumpuh pada seekor monyet. Uji coba itu juga menanamkan susunan multielektroda langsung pada otak monyet. Multielektroda itu menerjemahkan dan memancarkan sinyal otak pada alat stimulasi elektrik fungsional, yang lalu mengirimkan sinyal pada otot yang lumpuh.
+	Namun, neurobridge sejauh ini diklaim satu-satunya sistem yang mampu membawa sinyal dari otak melintasi saraf tulang belakang dan langsung mengantarkan sinyal perintah otak menuju otot. Dengan demikian, otot yang lumpuh mampu digerakkan melalui kekuatan pikiran.
+	Burkhart melihat uji klinis neurobridge sebagai kemungkinan jalan keluar menolong orang dengan kerusakan saraf tulang belakang. Saya menyukai sains dan ini (neurobridge) mengusik rasa keingintahuan saya, ujarnya.
+	Tim peneliti pun berharap uji coba selanjutnya bisa dilakukan pada pasien lain sebagai bagian dari uji coba klinis. Harapannya, pada akhirnya teknologi tersebut dapat digunakan untuk mengobati kelumpuhan lain, seperti yang disebabkan oleh stroke atau gangguan otak traumatik. Sejauh ini, teknologi mengembalikan kualitas hidup.
+	Grafik: Neurobridge
+
+ 

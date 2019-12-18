@@ -1,0 +1,35 @@
+
+	Memberi Napas Baru buat Gadget Android Lama
+
+
+	 
+	Produk teknologi yang telah berusia biasanya mengalami persoalan performa. Seperti halnya komputer tua yang dipakai terus-menerus, telepon cerdas atau tablet berbasis Android pun akan mengalami penurunan performa setelah beberapa lama dipakai.
+	Banyak alasan mengapa hal itu terjadi, seperti memori yang terbatas atau tidak lagi mampu mendukung aplikasi yang terus berkembang. Parahnya lagi, produsen telepon cerdas ataupun tablet biasanya tidak lagi mendukung perangkat lunak produknya setelah beberapa lama.
+	Saat produsen tak melanjutkan dukungannya, ketika itulah telepon cerdas ataupun tablet perlahan, tetapi pasti, bakal sekarat. Sistem operasi dari Google ini pertama muncul dalam versi satu pada 2007, kemudian diikuti dengan Android Cupcake, disusul Donut, Froyo, Gingerbread, Honeycomb, Ice Cream Sandwich, Jelly Bean, dan terakhir Kitkat.
+	Produsen pun tak henti-hentinya mengeluarkan telepon cerdas dan tablet baru. Konsumen pun seperti dipaksa terus-menerus mengikutinya.
+	Namun, tentu tak semua orang bisa setiap saat membeli telepon cerdas atau tablet baru dan membuang perangkat lamanya. Banyak yang setia dengan gadget lamanya karena berbagai alasan, salah satunya mungkin masalah ekonomi.
+	Kemunculan Kitkat memberikan harapan baru bagi pemilik perangkat lama. Google seperti mengerti kebutuhan pengguna telepon genggam yang tidak mau terus-menerus berganti perangkat.
+	Berkat pengurangan pada jejak memori, Kitkat bisa nyaman berjalan di perangkat dengan RAM hanya 512 Mb. Perangkat dengan memori sebesar itu, jika bukan sebuah gadget murah, sudah pasti adalah gadget berusia lanjut.
+	Sayangnya, tidak semua beruntung langsung mendapatkan sistem operasi (operating system/OS) atau ROM terbaru ini. ?Bahkan, bukan hanya perangkat lama, gadget yang relatif baru pun banyak yang mendapat ROM terbaru.
+	Hanya model dan jenis tertentu saja gadget keluaran raksasa teknologi, seperti Samsung, Sony, dan Motorola, yang disuguhi Kitkat secara resmi. Samsung, misalnya, tidak memberikan Kitkat untuk perangkat Galaxy Tab 2 10.1.
+	Alasan para pembuat gadget tidak mendukung perangkat lama tentu saja mempertahankan biaya produksi serendah mungkin dengan tanpa perlu menangani pembaruan OS dan distribusinya untuk perangkat tua.
+	Untungnya, Android sebagai OS terbuka memiliki banyak komunitas dan pengembang yang mendedikasikan waktunya untuk terus mengembangkan OS sehingga membuat perangkat selalu segar. Keberadaan komunitas pengembang ini memberikan napas baru bagi perangkat lama.
+	Memanfaatkan custom ROM dari pengembang di komunitas Android ini menjadi sebuah cara ampuh membuat perangkat tua selalu segar.
+	Untuk bisa mengganti stock ROM dari pabrikan menjadi custom, ada sejumlah persyaratan. Pertama dan terpenting adalah siap dengan segala risiko, termasuk kehilangan garansi dan kematian permanen gadget tua itu. Namun, risiko ini sangat layak ditempuh demi membuat perangkat lama jadi segar kembali, daripada sekadar dibuang ke tempat sampah.
+	Berikutnya, siapkan perangkat yang sudah di-root dan telah terpasang custom recovery (produsen biasanya langsung mencabut garansi pada gadget yang di-root, tetapi tentu saja Anda bisa meng-unroot-nya kembali). Informasi tentang cara mem-flash ROM bisa didapat dari forum XDA-Developer atau sumber lain yang berlimpah di internet.
+	Berikutnya, memilih custom ROM yang cocok dan sesuai selera ataupun kebutuhan dan terpenting: diperuntukkan bagi model atau jenis gadget Anda. Jika salah mem-flash ROM dengan model lain, telepon atau tablet bisa mengalami kerusakan permanen.
+	Ada sangat banyak custom ROM yang beredar. Jika Anda pemilik Galaxy Tab 2 10.1, misalnya, dan ingin memberinya hadiah (meng-install-nya) dengan Kitkat, sudah tersedia beberapa ROM yang dikembangkan para pengembang.
+	CyanogenMod (CM), misalnya, sekarang sudah ada CM11, berbasis Kitkat (4.4.2), dan mendukung belasan perangkat termasuk GT 2 10.1. Belum ada rilis versi stabil untuk GT 2 10.1, baru pada tahap nightlies. Namun, untuk keperluan sehari-hari, sudah lebih dari memadai. Dengan nightlies, Anda bisa melakukan pembaruan (upgrade) ROM perangkat setiap satu atau dua hari jika memang tidak disibukkan dengan urusan lain.
+	Seperti disebut dalam situsnya, CM yang dibuat pertama kali oleh Steve Kondik adalah distribusi firmware aftermarket yang telah mengalami perombakan di sana-sini. CM didasarkan pada Android Open Source Project (AOSP), didesain untuk meningkatkan performa dibandingkan dengan ROM yang dirilis pabrikan. CM menjadi salah satu custom ROM terpopuler dan mendukung puluhan perangkat.
+	Komunitas CM kebanyakan adalah relawan dan penggiat dari segala penjuru dunia yang bekerja dengan tidak dibayar.
+	Custom ROM yang cukup populer, antara lain, adalah Omni, Mokee, Android Open Kang Project, Slimkat, Dhollmen, dan Sensonic HD.
+	Omni dalam situsnya menyebutkan, tujuan mereka mengembangkan custom ROM adalah untuk memberikan pilihan kepada jutaan pengguna Android di dunia. OS Android ini unggul dalam pilihan karena didukung komunitas pengembang yang membangunnya.
+	Keuntungan memakai custom ROM adalah tidak adanya bloatware atau aplikasi yang dipaksakan oleh pembuat perangkat dan sudah tertanam bersama stock ROM. Aplikasi-aplikasi itu biasanya jarang terpakai dan menghabiskan memori yang terbatas di perangkat.
+	Selain itu, pemilik juga bebas mengotak-atik penampilan ataupun performa gadget-nya. Jika ingin gadget tua berlari kencang, custom ROM biasanya memungkinkan pemilik gadget untuk melakukan overclocking dan masih banyak lagi.
+	Keuntungan lain adalah semua custom ROM bisa diunduh dengan gratis. (Prasetyo Eko P)
+	Foto:
+	GETTY IMAGES/CHUNG SUNG-JUN
+	Dua model cantik memperlihatkan smartphone Samsung Electronics Cos Android dalam acara peluncuran di Seoul, Korsel, 4 Februari 2010. Samsung menargetkan penjualan telepon cerdas di atas 18 juta unit dan penjualan telepon genggam sebanyak 270 juta unit.
+	 
+
+ 

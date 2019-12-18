@@ -1,0 +1,14 @@
+
+	PASAR MODAL
+	KSEI Fokus Data Mutakhir
+
+
+	Jakarta, Kompas - Sistem pengkinian data di pasar modal Indonesia masih menjadi fokus program PT Kustodian Sentral Efek Indonesia atau KSEI pada tahun 2014. Sebagai salah satu otoritas di pasar modal Indonesia, KSEI berharap pengelolaan data investor yang semakin baik menjadi penyempurnaan implementasi identitas tunggal pemodal atau single investor identification/SID.
+	Direktur Utama KSEI Heri Sunaryadi menyatakan, pihaknya siap melakukan serangkaian pengembangan, baik secara internal maupun pengembangan terkait infrastruktur pasar modal Indonesia. Sebelumnya, pada 27 Desember 2013, KSEI telah mengimplementasikan salah satu tahapan pengembangan yang sangat penting, yakni modul static data investor (SDI).
+	Implementasi modul SDI menjadi titik tolak pembentukan basis data investor pasar modal Indonesia, termasuk juga pengkinian datanya. Hal ini menjadi salah satu tahapan penting, kata Heri di Jakarta, Senin (10/2).
+	Ia menjelaskan, dengan modul SDI, pemegang rekening KSEI, yakni perusahaan efek dan bank kustodian, dapat memperbarui sendiri data nasabahnya apabila terjadi perubahan. Heri menegaskan, proses ini sangat penting dan membutuhkan kerja sama dari para pemegang KSEI.
+	Dengan data terkini dan valid, dapat dibangun basis data investor pasar modal yang secara lengkap dapat memberikan informasi demografi: jenis kelamin, wilayah, pekerjaan, dan informasi lainnya. Pengelolaan data investor yang semakin baik itu akan menyempurnakan implementasi SID serta sejalan dengan proyek pengembangan data warehouse pasar modal Indonesia.
+	Basis data investor itu lebih jauh dapat dijadikan acuan bagi pengembangan pasar modal atau kebijakan yang berhubungan dengan investor, kata Heri. (BEN)
+	 
+
+ 

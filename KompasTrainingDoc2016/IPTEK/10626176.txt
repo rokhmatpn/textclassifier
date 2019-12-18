@@ -1,0 +1,54 @@
+
+	Sosok: Khoirul Anwar
+	Teknologi Pulang Kandang
+
+
+	Khoirul Anwar (36) bahagia membaca kabar mengenai implementasi teknologi seluler generasi keempat di Indonesia. Salah satu operator telekomunikasi resmi menawarkan layanan seluler 4G Long Term Evolution kepada konsumen meski baru untuk Jakarta dan Bali. Operator yang lain menyatakan siap menyusul dalam waktu dekat.
+	Oleh Didit Putra Erlangga Rahardjo
+	Indonesia kini resmi mengadopsi teknologi seluler generasi keempat meski masih digunakan secara terbatas. Hal yang membuat Khoirul bangga adalah teori yang dia kembangkan untuk memancarluaskan secara nirkabel digunakan sebagai dasar dalam teknologi Long Term Evolution (LTE). Hal itu sekaligus menjadi jawaban atas keraguan yang pernah dia terima beberapa tahun sebelumnya.
+	Dalam dua konferensi internasional di Jepang dan Australia, teori saya dipertanyakan, kata Khoirul.
+	Teori yang dimaksud adalah pemanfaatan dua buah Fast Fourier Transform (FFT) dalam modulasi untuk komunikasi jaringan pita lebar nirkabel, sementara saat itu yang lazim adalah satu FFT. FFT adalah algoritma untuk mentransformasi informasi dan sinyal.
+	Di sini, penggunaan dua FFT dikhawatirkan justru saling membatalkan. Namun, Khoirul yakin sudah menemukan cara menghindarinya.
+	Dengan teknik satu FFT, sinyal yang dikirimkan saling bertambah dan pada satu fase tertentu akan muncul puncak (peak). Peak menjadi masalah apabila melampaui daerah linier dari penguat sinyal yang dimiliki perangkat sehingga menghasilkan kesalahan yang tak bisa dikoreksi.
+	Masalah tersebut terselesaikan dengan teknik dua FFT karena informasi yang dikirimkan diatur sehingga memiliki peak yang teratur dan menghasilkan penjumlahan gelombang tanpa puncak tinggi. Akibatnya, sinyal yang keluar tak akan melampaui daerah linier dari sistem penguat daya.
+	Temuan Khoirul bersama koleganya di Nara Institute of Science and Technology (NAIST), Jepang, awalnya untuk keperluan satelit agar lebih efisien dalam konsumsi daya mengingat di angkasa hanya bermodal panel surya. Dengan algoritma ini, tak perlu memasang penguat sinyal yang memakan daya tinggi karena peluang terjadi peak sudah diatasi.
+	Pada 2010 teknik itu mendapat pengakuan berupa rekomendasi International Telecommunication Union sebagai standar internasional untuk transmisi di satelit. Khoirul pun teringat canda bersama kawannya sewaktu kuliah di Institut Teknologi Bandung, yakni ingin menciptakan sesuatu yang bisa menjadi standar internasional. Rupanya hal itu tercapai.
+	Terpakai
+	Teknik pemanfaatan dua FFT dalam mengolah sinyal juga diadopsi dalam teknologi LTE. LTE secara komersial mulai diperkenalkan tahun 2009 untuk memberikan akses koneksi internet yang jauh lebih cepat daripada 3G.
+	Sewaktu dikabari profesornya, ia awalnya lebih bergembira karena penelitiannya mendapatkan pengakuan. Setidaknya saya bisa membuktikan kepada orang-orang yang pernah meremehkan teori saya.
+	Royalti dari teknologi 4G tak pernah tebersit di benak Khoirul dan dia tak berniat mengklaimnya. Sebagai ilmuwan, ia hanya ingin menciptakan sesuatu yang bermanfaat dan tak mengeksploitasinya untuk keuntungan pribadi semata. Dia mendapatkan royalti sewaktu penelitiannya dipakai operator satelit di Jepang.
+	Paten ini akan menjadi milik bersama 15 tahun sesudah dibuat apabila tak diperpanjang dan biarlah seperti itu, lanjutnya.
+	Tentang LTE, Khoirul bersikeras sebaiknya teknologi telekomunikasi segera mengadopsinya. Selain lebih kencang, teknologi ini juga ramah lingkungan karena lebih efisien dalam konsumsi daya ketimbang generasi sebelumnya.
+	Berbeda dengan LTE yang memanfaatkan modulasi dengan teknik ortogonal atau dikenal dengan orthogonal frequency-division multiplexing (OFDM), teknologi 3G menggunakan metode spreading code yang lebih boros dalam pemakaian frekuensi dan mengharuskan perangkat menggunakan daya berlebih untuk mengantisipasi gangguan apabila penggunaan padat.
+	Dalam teknologi LTE, penggunaan frekuensi lebih efisien dan menghindarkan dari kemungkinan noise sehingga lebih irit daya. Manfaat yang sama juga ditemui pada gawai.
+	Implementasi LTE di frekuensi tertentu tak berdampak apa pun apabila dibandingkan dengan frekuensi lain. Namun, perlu disadari, frekuensi tinggi akan berakibat redaman yang juga tinggi meskipun jalurnya lebih lebar. Hal sebaliknya terjadi untuk frekuensi rendah.
+	Semua tinggal ditimbang saja. Frekuensi rendah berarti operator telekomunikasi hanya butuh menara pemancar sedikit. Adapun frekuensi tinggi mengharuskan mereka memasang lebih banyak menara karena jangkauannya lebih kecil, katanya.
+	Diaspora
+	Dengan pencapaian itu, wajar apabila muncul ajakan kepada Khoirul agar dia kembali ke Tanah Air. Namun, untuk saat ini dia memilih berkarya sebagai diaspora di Jepang.
+	Tahun 2007 Khoirul mengirimkan proposal penggunaan teorinya untuk implementasi televisi digital. Saat itu, Eropa dan Jepang sudah memakai OFDM untuk transmisi televisi digital. Salah satu keuntungannya adalah memastikan isi siaran tak bisa diterima di wilayah negara lain.
+	Prioritas saya waktu itu adalah keamanan agar isi siaran tidak diintip negara lain. Teknologi tersebut juga memudahkan migrasi dari analog ke digital, ujar Khoirul. Sayang, proposal itu tak pernah ditanggapi.
+	Program master bidang telekomunikasi di NAIST digapai Khoirul berkat beasiswa Panasonic tahun 2002 dan rampung tahun 2005. Di sini dia menemukan solusi penggunaan dua FFT.
+	Dia mengutarakan beberapa alasan untuk tetap mengajar di Jepang, seperti kepastian karier dan kesejahteraan. Setiap pencapaian ilmuwan dihargai dengan evaluasi yang dilakukan secara berkala.
+	Dia merasa bisa berkontribusi lebih banyak bagi Indonesia dengan tetap di Jepang. Misalnya, mengajak mahasiswa mendapatkan beasiswa pascasarjana ke Jepang dan bisa mengikuti perkembangan teknologi terkini.
+	Menghasilkan Yagi-Uda berikutnya, itulah keinginan Khoirul. Meski namanya kurang akrab di telinga warga Indonesia, sejak lama Yagi-Uda (antena dengan bentuk menyerupai tulang ikan untuk menangkap siaran televisi) bisa ditemui di seluruh wilayah Indonesia hingga pelosok.
+	Inilah keinginan Khoirul, yang membuat ilmuwan asal Kediri itu terus berkarya demi teknologi yang bisa dipakai banyak orang.
+	Khoirul Anwar
+	? Lahir: Kediri, Jawa Timur, 22 Agustus 1978
+	? Istri: Sri Yayu Indriyani Rochandi
+	? Anak:
+	- Muhammad Ilman Al-Azzam
+	- Emiko Mihani Al-Anwar
+	- Muhammad Hunafa Anwar
+	- Muhammad Aydin Anwar
+	? Pendidikan:
+	- S-1 cum laude Teknik Elektro Institut Teknologi Bandung, 2000
+	- Master di Nara Institute of Science and Technology, Jepang, 2005
+	- Doktor di Nara Institute of Science and Technology, 2008
+	? Penghargaan:
+	- Best Student Paper Award dari Institute of Electrical and Electronics Engineers (IEEE) Radio and Wireless Symposium, 2006
+	- Penghargaan Achmad Bakrie, 2014
+	- Penghargaan Inovasi selama Kongres Diaspora Indonesia di Los Angeles, Amerika Serikat, 2014
+	? Pekerjaan: Sejak 2008 bergabung di School of Information Science, Japan Advanced Institute of Science and Technology, sebagai asisten profesor
+	Foto: 
+	KOMPAS/DIDIT PUTRA ERLANGGA RAHARDJO
+

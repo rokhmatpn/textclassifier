@@ -1,0 +1,34 @@
+
+	Energi
+	Mengubah Gas Alam ke Listrik
+
+
+	Dalam debat calon presiden dan calon wakil presiden terakhir, kembali mencuat tentang pemanfaatan gas alam, termasuk di antaranya konversi energi dari gas menjadi listrik. Hal ini mengingat bahan bakar gas lebih ramah lingkungan dibandingkan dengan bahan bakar minyak, selain juga masih besarnya cadangan gas alam di negeri ini.
+	Oleh: AW Subarkah
+	Harapan yang disampaikan Joko Widodo sebenarnya bukan barang baru. Bahkan, para pakar ketenagalistrikan negeri ini sudah lama merekomendasikan gas sebagai bahan bakar pembangkitan listrik.
+	Namun, setidaknya selama dua periode pemerintahan Presiden Susilo Bambang Yudhoyono, hal itu nyaris tak diperhatikan. Mereka justru lebih menekankan jenis pembangkit listrik tenaga uap (PLTU) batubara yang tingkat pencemarannya dikhawatirkan para pemerhati lingkungan.
+	Konversi gas menjadi listrik sebenarnya ada beberapa cara. Adapun cara paling revolusioner dengan mengubah dari gas langsung menjadi listrik. Cara langsung itu jelas akan lebih efisien daripada melalui teknologi konvensional, yaitu pembakaran gas untuk menggerakkan turbin, seperti pada pembangkit listrik tenaga gas (PLTG) atau PLTU gas, saat sebelum menjadi listrik gas harus dikonversikan menjadi tenaga gerak turbin sebelum memutar generator listrik.
+	Jika memakai cara konvensional, terlalu banyak energi terbuang. Hal itu berbeda dengan konversi energi langsung melalui teknologi baterai bahan bakar (fuel cell). Efisiensi akan naik beberapa kali dibandingkan cara pembakaran itu. Pengembangan fuel cell di Jerman yang baru dipublikasikan, secara unik diterapkan untuk keperluan rumahan demi mengurangi ketergantungan pada pasokan listrik dari jaringan listrik utama.
+	Prototipe yang dikembangkan Fraunhofer Institute for Ceramic Technologies and Systems (Fraunhofer IKTS) di Dresden, Jerman, bersama perusahaan pembuat alat pemanas Vaillant berhasil membuat fuel cell yang kompak, aman, dan kokoh. Bentuknya serupa pemanas gas biasa yang bisa digantung di tembok dan mudah perawatannya, mampu menghasilkan listrik sekitar 1 kilowatt, selain tentu saja menghasilkan panas.
+	Kini, di beberapa negara di Eropa telah terpasang lebih dari 150 unit untuk didemonstrasikan, sedangkan Vaillant mulai memproduksi untuk ukuran kecil pada awal 2014. Paralel dengan pengujian produk itu, kedua lembaga sudah mulai mengerjakan model-model baru, terutama model lebih murah dan tahan lama.
+	Makin simpel
+	Pengembangan fuel cell  itu sebenarnya banyak memberikan inspirasi pada aplikasi di negeri yang memiliki cadangan gas melimpah, termasuk Indonesia. Menurut data BP Statistics 2014, Indonesia punya cadangan gas 103,3 triliun kaki kubik dan termasuk 15 negara dengan cadangan gas terbesar di dunia.
+	Dengan eksplorasi yang masih terbatas, diperkirakan cadangan gas alam di Indonesia baru menipis lebih dari 50 tahun lagi. Sejauh ini, pemanfaatan gas terutama untuk bahan baku industri seperti pupuk, semen, dan petrokimia, sedangkan kebutuhan konsumen masih amat kecil.
+	Teknologi fuel cell sebenarnya telah diperkenalkan lebih dari 175 tahun lalu, tetapi masih sulit diwujudkan untuk kebutuhan pasar. Pengembangan yang penting untuk kebutuhan listrik pesawat antariksa, seperti misi Apollo ke Bulan pada 1960-an. Belakangan, mulai marak pemakaian teknologi itu untuk penerapan pada dunia otomotif sebagai penyempurna
+	teknologi mobil listrik. Tahun 2015 akan jadi tahun penting dimulainya pemasaran mobil-mobil fuel cell.
+	Penyebab utama rendahnya aplikasi di pasar terutama karena rumit, terlalu mahal, dan tak meyakinkan. Dengan pengembangan baru di Jerman, hal itu kian mendekatkan teknologinya ke pasar. Hal itu merupakan salah satu pengembangan penting untuk memenuhi kebutuhan personal. Sebelumnya, perusahaan Jepang sudah memasarkan kebutuhan pengisi baterai
+	(charger) telepon seluler dengan fuel cell yang disuntik cairan metanol.
+	Generator listrik mini tanpa suara rancangan ahli Institut Fraunhofer itu memakai teknologi SOFC (solid fuel cell) yang mampu beroperasi pada temperatur jauh lebih tinggi dibandingkan teknologi proton exchange membrane fuel cell
+	(PEMFC). Jika PEMFC hanya bisa sampai 80 derajat celsius, SOFC bisa sampai 850 derajat celsius sehingga bisa dibuat jauh lebih sederhana dan murah.
+	Reaksi kimia
+	Pembangkitan listrik pada
+	fuel cell pada dasarnya merupakan reaksi kimia antara unsur hidrogen (H) dan oksigen (O) yang menghasilkan air (H2O)
+	serta energi listrik. Saat ini banyak dikembangkan berbagai
+	teknologi fuel cell. Selain memakai bahan bakar gas, cairan metanol, teknologi itu juga memakai gas hidrogen langsung yang memerlukan tangki kuat karena gas hidrogen mudah meledak.
+	Pada fuel cell, yang dihubungkan dengan jaringan pipa gas lebih dulu, akan mengubah gas alam itu menjadi gas yang kaya hidrogen. Gas itu lalu akan bereaksi di dalam kotak fuel cell, terdiri dari susunan sel dengan oksigen dari udara dalam kesenyapan, reaksi yang disebut pembakaran dingin menghasilkan uap panas dan listrik.
+	Melihat keandalan sistem yang dikembangkan itu, tak ada salahnya apabila apa yang terjadi di Jerman ini juga mendapat perhatian. Masih banyak aplikasi lain yang mungkin bisa diperdalam, bukan hanya solusi mengurangi beban yang ditanggung PT Perusahaan Listrik Negara (Persero), melainkan juga melistriki daerah terpencil, termasuk kawasan pulau-pulau yang tak tersentuh jaringan PLN.
+	Begitu pula aplikasi sebagai baterai kendaraan listrik sehingga ke depan mobil listrik tak perlu menggendong aki yang berat. Maka, pembangunan jaringan pipa transmisi dan distribusi amat penting, termasuk melipatgandakan stasiun pengisian bahan bakar gas, demi merangsang penggunaan gas secara massal.
+
+Foto:
+Fraunhofer
+Produksi tumpukan cell di Fraunhofer IKTS, Jerman. Sebuah prototipe fuel cell terdiri dari beberapa tumpukan sel yang menggunakan komponen utama bahan keramik. Satu sel dan yang lainnya saling terhubung untuk mendapatkan tegangan keluaran yang cukup.

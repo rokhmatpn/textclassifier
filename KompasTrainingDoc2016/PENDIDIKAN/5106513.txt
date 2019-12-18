@@ -1,0 +1,16 @@
+
+	PENDATAAN GURU
+	Sistem Data Pokok Pendidikan Diklaim Aman
+
+
+	JAKARTA, KOMPAS - Kementerian Pendidikan dan Kebudayaan mengklaim pendataan pendidikan secara nasional melalui Data Pokok Pendidikan aman.
+	Data Pokok Pendidikan (Dapodik) tidak menggunakan domain publik. Data hanya bisa diakses orang yang punya password dan nomor unik pendidik tenaga kependidikan (NUPTK), kata Menteri Pendidikan dan Kebudayaan Mohammad Nuh, di Jakarta, Senin (24/2).
+	Menurut Nuh, Dapodik bukan hanya jumlah sekolah, siswa, ataupun guru. Program Dapodik membangun data yang relasional dari fungsi jumlah murid per jenjang, guru per jenjang dan mata pelajaran, jumlah ruang kelas atau rombongan belajar, hingga sekolah per kota/kabupaten.
+	Datanya relasional sehingga mudah mengecek data. Di suatu sekolah, ada data lengkap guru, siswa, rombongan belajar, hingga jam mengajar guru. Dengan mengacu Dapodik, tak bisa lagi manipulasi data, ujar Nuh.
+	Nuh menambahkan, berbagai kebijakan pendidikan, seperti program pelatihan guru, pemberian bantuan siswa miskin, dana bantuan operasional sekolah, atau program bantuan lain mengacu pada Dapodik. Karena itu, sistem Dapodik dipastikan aman.
+	Syawal Gultom, Kepala Badan Pengembangan Sumber Daya Manusia dan Penjaminan Mutu Pendidikan Kemdikbud, membantah adanya kebocoran data guru dalam layanan pendataan Padamu Negeri. Tidak ada data yang sensitif di Padamu Negeri. Pendataan ini hanya verifikasi data guru untuk pelatihan Kurikulum 2013, ujar Gultom.
+	Sebagaimana diberitakan, sejumlah guru mengeluh data pribadi yang dikumpulkan pemerintah, seperti Dapodik dan Padamu Negeri, mudah diakses umum. Akibatnya, terjadi penyalahgunaan data untuk kejahatan (Kompas, 21/2).
+	Sekretaris Jenderal Federasi Serikat Guru Indonesia (FSGI) Retno Listyarti menduga, ada jual beli data guru oleh oknum.
+	Menurut Retno, dinas pendidikan dan Kemdikbud harus bertanggung jawab ketika data rinci guru jatuh ke tangan orang tidak bertanggung jawab dan mengakibatkan kerugian bagi guru dan sekolah. Pengaduan berasal dari guru di DKI Jakarta, Jawa Barat, Jawa Tengah, Jawa Timur, Lampung, Jambi, Bengkulu, Sumatera Utara. (ELN)
+
+ 

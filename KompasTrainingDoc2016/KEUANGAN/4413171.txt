@@ -1,0 +1,23 @@
+
+	Demam Uang Digital
+	Apa Itu Bitcoin?
+
+
+	Itulah pertanyaan yang kerap muncul hingga kini apabila masyarakat mendengar kata bitcoin. Penjelasan paling sederhana, bitcoin adalah uang digital yang tidak dikeluarkan oleh bank sentral dari negara mana pun atau institusi apa pun dan dikirimkan langsung antarpengguna.
+	Pengguna menyimpan bitcoin dalam dompet digital berbentuk perangkat lunak yang bisa dipasang di komputer pribadi dan telepon seluler (ponsel).
+	Perlu dibedakan bitcoin dengan jasa pembayaran Paypal. Pembayaran lewat Paypal tetap menggunakan kartu kredit yang berarti tetap menggunakan uang di negara yang ditempati. Itulah keunggulan yang diklaim bitcoin, yakni mata uang yang desentralisasi dan tidak membutuhkan biaya jasa untuk berpindah tangan.
+	Apabila mata uang sebuah negara diterbitkan oleh bank sentral, bitcoin dihasilkan dari proses menambang atau mining. Yang terjadi, bitcoin didapatkan dengan bermodalkan komputer yang menyelesaikan perhitungan matematika yang rumit dan semakin lama bertambah tingkat kesulitannya.
+	Akibatnya, menambang bitcoin yang semula bisa dilakukan oleh satu unit komputer kini tidak memadai, harus beralih ke kartu grafis, dan sekarang cip khusus application specific integrated circuit (ASIC) yang dibuat hanya untuk menangani perhitungan rumit ini.
+	Meski terdengar gratis, menambang bitcoin butuh investasi yang besar untuk mengoperasikan komputer yang tersambung jaringan internet dan bekerja terus-menerus. Oleh karena itu, menambang bitcoin hanya disarankan bagi orang yang siap berinvestasi atau ingin bersenang-senang.
+	Pembuatnya, orang yang memakai nama samaran Satoshi Nakamoto, memang mengharapkan agar mata uang itu ditambang oleh orang yang mampu dan sisanya dipakai sebagai alat tukar.
+	Dalam empat tahun terakhir, bitcoin sudah mendapatkan sambutan beragam di dunia dengan lebih dari 1.000 institusi menyatakan siap menerima bitcoin sebagai alat pembayaran. Salah satu contohnya adalah pasar dalam jaringan (daring) Overstock yang menyatakan siap menerima pembayaran menggunakan bitcoin pada minggu kedua Januari 2014.
+	Nilai tukar mata uang ini melonjak pada April 2013 hingga setara dengan 266 dollar AS. Seorang pria dari Norwegia yang iseng membeli 5.000 bitcoin pada tahun 2009 senilai 26 dollar AS mendapati nilainya kini menjadi 886.000 dollar AS.
+	Namun, tidak semuanya mempunyai kisah manis bitcoin. Mata uang ini terpuruk pada pertengahan tahun 2013 seusai operasi penggerebekan Jalur Sutra, pasar daring ilegal yang menjual narkotika melalui internet. Dari operasi tersebut, pihak keamanan Amerika Serikat mendapati pemiliknya telah menumpuk 29.655 bitcoin atau senilai 27 juta dollar AS dengan nilai tukar saat ini. Rupanya bitcoin dipakai sebagai pembayaran di Jalur Sutra ilegal ini agar sulit dilacak.
+	Sejak hari itu, nilai tukar bitcoin kembali anjlok hingga 50 dollar AS karena terimbas berita tersebut. Akan tetapi, nilainya meningkat lagi menjadi 197 dollar AS pada Oktober 2013.
+	Bitcoin pun dipertanyakan karena unsur keamanannya, sulit untuk kembali begitu dipindahtangankan membuatnya rentan terhadap usaha peretasan. Meski sistem bitcoin diklaim aman, lain halnya dengan sistem transaksi sebuah pasar daring dari pembobolan oleh pihak luar atau orang dalam.
+	Ada pula kisah mengenai keteledoran seorang pria berkebangsaan Inggris yang membuang komputer miliknya dan baru sadar kemudian bahwa di dalamnya terdapat kode penyimpanan 7.500 bitcoin senilai 9 juta dollar AS.
+	Hingga kini, sikap otoritas keuangan dari sejumlah negara atas bitcoin masih terbelah. Ada yang bersedia mengimplementasikannya, tetapi ada pula yang menentang keras, seperti China.
+	Lalu lintas uang digital ini dipastikan sudah ada di Indonesia. Hal ini sebaiknya segera disikapi pemerintah dengan dukungan atau regulasi untuk menghindari dampak buruk demam uang digital ini. (DIDIT PUTRA ERLANGGA)
+
+Ilustrasi:
+Jitet

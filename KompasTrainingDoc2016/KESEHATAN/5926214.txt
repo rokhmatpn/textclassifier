@@ -1,0 +1,14 @@
+
+	Inovasi Teknologi
+	Philips Jajaki Kerja Sama Selenggarakan InteleICU
+
+
+	Cennai, Kompas - Philips menjajaki kerja sama dengan rumah sakit di Indonesia untuk menyelenggarakan program InteleICU, semacam pemantauan ruang gawat darurat rumah sakit dari jarak jauh. Program ini untuk mengatasi keterbatasan dokter ahli di bidang perawatan pasien kritis dan menekan angka kematian pasien kritis yang dirawat di ruang ICU.
+	Kami telah menjajaki kerja sama InteleICU dengan rumah sakit di Jakarta. Saya belum bisa menyebutkan rumah sakit mana karena belum ada penandatanganan (nota kerja sama). Diharapkan hal itu dilakukan dalam waktu dekat, kata Ravi Ramaswamy, Senior Director Head Philips Healthcare, Philips Innovation Campus India, di sela-sela kunjungan di Kota Cennai, India, Jumat (4/4).
+	Ravi mengatakan, tidak semua rumah sakit mempunyai dokter spesialis pelayanan medis intensif yang khusus menangani pasien di ruang ICU, terutama rumah sakit-rumah sakit yang berada di daerah pinggiran. Di India, kata Ravi, hanya ada sekitar 500 dokter spesialis pelayanan medis intensif, di Indonesia lebih sedikit lagi.
+	Dokter Ashwin Mani, Direktur Informatika Klinis InteleICU Cennai, mengatakan, pasien yang dirawat di ruang ICU harus ditangani oleh dokter spesialis pelayanan medis intensif. Karena keterbatasan jumlah dokter ahli itu di India, 50 persen pasien yang dirawat di ruang ICU meninggal. Dengan program InteleICU, angka kematian dapat ditekan 30 persen. InteleICU memungkinkan dokter spesialis pelayanan medis intensif di lokasi sentral memantau pasien di ruang ICU beberapa rumah sakit.
+	InteleICU di Kota Cennai merupakan yang pertama di Asia, didirikan pada 1 Juni 2013. InteleICU di Cennai berfungsi sebagai pusat pemantauan (pusat komando) yang memfasilitasi pemantauan ruang ICU di empat rumah sakit di daerah pinggiran yang berjarak ratusan kilometer dari Cennai. Salah satunya, Rumah Sakit Aditya Warangal yang berlokasi sekitar 500 kilometer dari Cennai.
+	Dengan IntelliSpace Consultative Critical Care (ICCC), pusat pemantauan di Cennai terhubung dengan ruang ICU di empat rumah sakit tersebut.
+	Para dokter spesialis pelayanan medis intensif di Cennai secara intensif memantau kondisi pasien yang dirawat di empat rumah sakit yang tidak mempunyai dokter ahli pelayanan medis intensif. Jika terjadi kondisi darurat atau kritis pada pasien, dokter di InteleICU akan memberikan pengarahan bagaimana menangani pasien kepada perawat atau dokter yang berjaga di ruang ICU rumah sakit yang dipantau tersebut. (IKA)
+
+ 

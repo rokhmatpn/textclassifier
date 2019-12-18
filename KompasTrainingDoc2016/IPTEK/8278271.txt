@@ -1,0 +1,33 @@
+
+	Pesawat Udara NirAwak
+	Terbang di Saat Perang dan Damai
+
+
+	Setelah gencatan senjata selama tiga hari, konflik di Gaza, Palestina, meletus lagi, Jumat (8/8). Pada invasi tahun ini, militer Israel dikejutkan oleh perlawanan pesawat udara nirawak milik pejuang Hamas. Meskipun serangan itu mudah ditangkis rudal Israel, kemampuan Hamas membuat pesawat tanpa awak itu mengagetkan Israel.
+	Oleh M Zaid Wahyudi dan Yuni Ikawati
+	Pesawat nirawak kian banyak dipakai dalam pertempuran, seperti yang dilakukan militer Amerika Serikat untuk menyerang milisi di Afganistan dan Pakistan. Pesawat nirawak dianggap efektif membunuh musuh dengan risiko lebih kecil. Namun, soal etika penggunaannya masih jadi perdebatan karena pengoperasiannya bagai permainan video game dengan korban manusia nyata.
+	Ahli perancangan pesawat pada Program Studi Aeronautika dan Astronautika Institut Teknologi Bandung, Taufiq Mulyanto, Rabu (23/7), mengatakan, drone, istilah umum pesawat nirawak, sejatinya adalah bentuk sederhana dan cikal bakal pesawat nirawak (unmanned aerial vehicle) saat ini.
+	Bentuk drone yang mulai berkembang tahun 1950-1960 amat sederhana, berupa pesawat mainan yang dikendalikan jarak jauh (remote control). Kini, sistem drone jauh lebih canggih dan kompleks sehingga lebih pas disebut pesawat nirawak. Bahkan, kini ada pesawat nirawak yang mampu terbang 30-36 jam non-stop, sedangkan pesawat terbang komersial hanya bisa terbang belasan jam.
+	Chris Cole dalam Drone Wars Briefing, 2012, menyebut Amerika Serikat dan Israel sebagai negara pertama yang menguji pemakaian drone untuk kepentingan militer, mengintai, dan menyerang sasaran terfokus pada 1960-1970. Sejak itu, semua negara berlomba mengembangkan pesawat nirawak.
+	Penggunaan pesawat nirawak pun lebih beragam, tak melulu untuk perang. Kini, pesawat nirawak jamak dipakai bagi pemetaan wilayah, pengawasan daerah perbatasan, atau pengukuran kawasan hutan. Bentuknya lebih bervariasi, menyesuaikan fungsi dan alat yang dibawa.
+	Pesawat nirawak untuk kepentingan militer dan sipil bisa menggantikan fungsi penerbangan berawak yang dianggap berisiko atau sulit untuk mengamati obyek tertentu di Bumi dari udara, kata Taufiq.
+	Oleh karena itu, pesawat nirawak cocok menggantikan penerbangan berawak yang membosankan (dull) seperti terbang berjam-jam mengawasi obyek tertentu, penerbangan di daerah kotor (dirty) semisal kawasan beradiasi tinggi, dan penerbangan di daerah berbahaya (dangerous) seperti di wilayah perang.
+	Di Indonesia, pesawat nirawak digunakan untuk pemetaan wilayah, perkebunan kelapa sawit, ataupun pertambangan. Untuk keperluan itu, pemakaiannya jauh lebih efektif dibandingkan dengan satelit karena pengambilan citra bisa setiap saat dan berulang, tak tergantung jalur orbit satelit.
+	Kepala Program Pengembangan Pesawat Terbang Lembaga Penerbangan dan Antariksa Nasional (Lapan) Agus Ariwibowo menambahkan, kemampuan pesawat nirawak terbang rendah membuat citra yang diambil punya resolusi lebih tinggi daripada citra yang diambil satelit.
+	Pesawat nirawak bisa terbang di bawah awan pada ketinggian kurang dari 150 meter atau setinggi 12 kilometer, di atas ketinggian terbang pesawat komersial. Karena mampu terbang di bawah awan, citra bisa diambil kapan pun tanpa terganggu tutupan awan yang jadi kendala utama selama ini.
+	Beberapa pesawat nirawak juga bisa dikendalikan bersama untuk mengawasi obyek sama. Cara itu jauh lebih efektif dan murah daripada pengawasan dengan pesawat berawak.
+	Desain
+	Sebagai wahana tak berawak, pesawat nirawak dikendalikan orang di luar wahana. Untuk itu, pesawat dilengkapi sistem pengendalian dan navigasi yang akan menggantikan fungsi pilot.
+	Pengendalinya bisa di mana saja, di darat, pesawat lain, atau kapal laut. Bahkan, pengendali dan pesawat nirawak yang dioperasikan bisa berbeda benua.
+	Kepala Program Pesawat Udara Nirawak Badan Pengkajian dan Penerapan Teknologi (BPPT) Joko Purwono mengatakan, komunikasi antara pengendali dan pesawat bisa langsung jika jarak kurang dari 120 kilometer. Akibat masalah lengkung Bumi, untuk jarak lebih jauh, komunikasi dan pengiriman data langsung atau daring antara pesawat dan pengendali harus dibantu satelit.
+	Tanpa bantuan satelit, pesawat hanya bisa merekam data, tak bisa mengirim langsung, kata dia. Meski dilengkapi sistem dan peralatan canggih, pesawat nirawak butuh manusia untuk fungsi tertentu, misalnya lepas landas dan pendaratan.
+	Dalam perancangan pesawat nirawak, menurut Taufiq, bentuk dan jenis mesin pesawat harus diperhatikan agar pesawat bisa terbang pada kecepatan, ketinggian, dan lama terbang tertentu. Agar bisa terbang, pesawat dirancang seringan mungkin. Berat pesawat diatur. Untuk terbang lama, bahan bakar pesawat harus banyak. Jadi, berat komponen lain dikurangi, kata dia.
+	Buatan Indonesia
+	Kini, BPPT, Lapan, dan sejumlah perguruan tinggi sudah membuat pesawat nirawak untuk berbagai keperluan. Salah satu pesawat nirawak buatan BPPT adalah Wulung. Tiga prototipe pesawat itu diproduksi PT Dirgantara Indonesia. Wulung mampu terbang enam jam radius operasi 200 kilometer dari pusat kendali dengan kecepatan 100 km per jam. Pesawat akan dipakai Tentara Nasional Indonesia mengawasi daerah perbatasan.
+	Wulung bisa masuk pesawat Hercules sehingga bisa dipindahkan mengawasi seluruh wilayah Indonesia, kata Joko.
+	BPPT juga mengembangkan pesawat nirawak lain, seperti Sriti, Alap-alap, Gagak, dan Pelatuk. Kini, mereka mengembangkan pesawat nirawak medium altitude long endurance (MALE) yang mampu terbang 20-30 jam non-stop dan pesawat untuk hujan buatan.
+	Pesawat nirawak buatan Lapan yang disebut Lapan Surveillance Unmanned Seri 2 (LSU-02) juga mampu terbang hingga 200 km non-stop dan memantau perbatasan. Pesawat itu memotret puncak Gunung Merapi setelah erupsi dan banjir Kampung Melayu, Jakarta, Januari 2013. Kini Lapan mengembangkan LSU-05 dengan daya jelajah hingga 350 km.
+	Ke depan, Lapan ingin memodifikasi pesawat ringan berawak (light-sport aircraft/LSA) menjadi pesawat nirawak guna pemetaan kawasan lebih luas, seperti pulau besar di Indonesia. Modifikasi memanfaatkan berat awak yang ditiadakan sehingga pesawat yang semula hanya bisa terbang delapan jam berjarak 1.000 km, akan mampu terbang hingga 24 jam dengan jarak 2.500-3.000 km.
+	Taufiq mengingatkan, teknologi pesawat nirawak bukan teknologi terbuka, komponennya banyak bergantung pada negara lain. Kemandirian industri dirgantara harus dibangun agar tak terpengaruh embargo negara lain.
+	Grafik: Pesawat Nirawak
+ 

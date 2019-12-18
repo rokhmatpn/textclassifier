@@ -1,0 +1,30 @@
+
+	Teknologi Antariksa
+	Satelit di Langit Nusantara
+
+
+	Memiliki belasan ribu pulau, Indonesia memakai satelit mulai tahun 1970-an. Keberadaan satelit itu untuk beragam manfaat, tak hanya telekomunikasi dan penyiaran televisi, tetapi juga sistem navigasi dan penginderaan jauh. Aplikasi teknologi persatelitan terus berkembang, tetapi kemandirian desain dan rancang bangun wahana itu baru dimulai pada 2006.
+	OLEH YUNI IKAWATI
+	Satelit telekomunikasi terawal dimiliki dan beroperasi di Indonesia sejak 8 Juli 1976. Ketika itu, sistem satelit Palapa buatan Amerika Serikat mulai beroperasi. Dominasi satelit buatan perusahaan Hughes itu bertahan 20 tahun, yaitu hingga seri Palapa ke-9 yaitu Palapa C2.
+	Namun, dilihat dari roket peluncurnya, untuk pertama kali satelit Palapa seri C2 diorbitkan Eropa memakai roket Ariane, buatan Arianespace dari ujung selatan Amerika Selatan, yakni di bandara ruang angkasa milik Perancis, Kourou Guyana.
+	Hingga kini, perusahaan konsorsium Eropa itu dipilih mengorbitkan generasi baru satelit telekomunikasi nasional, yaitu Telkom 3S milik PT Telekomunikasi Indonesia. Satelit buatan Thales Alenia Space (TAS) berbobot 3.500 kilogram (kg) itu diluncurkan akhir tahun 2016 dan beroperasi selama 15 tahun.
+	Dengan roket peluncur Ariane 5 ECA, satelit itu akan ditempatkan pada orbit geostasioner di ketinggian 35.786 kilometer dari permukaan Bumi. Pada ketinggian itu, kecepatan orbit satelit sama dengan rotasi Bumi. Posisinya di 118 derajat bujur timur di atas khatulistiwa.
+	Satelit Telkom 3S merupakan produk ke-80 jenis Spacebus yang dibuat TAS. Muatannya meliputi 24 transponder C Band, mencakup layanan telekomunikasi bagi wilayah Asia Tenggara. Adapun 10 transponder Ku Band memungkinkan siaran televisi resolusi tinggi atau high-definition television dan sambungan remote GSM/internet jarak jauh.
+	Belakangan, Arianespace, perusahaan peluncuran satelit yang didukung Badan Antariksa Eropa (ESA), juga diminta meluncurkan satelit BRIsat milik Bank BRI. Kepemilikan dan pengoperasian satelit oleh bank nasional merupakan pertama di Indonesia. Kedua satelit itu akan diluncurkan di Kourou Guyana, Perancis.
+	Satelit BRIsat dibuat Space System/Loral dan berbobot sekitar 3.500 kg saat peluncuran, dengan masa pakai lebih dari 15 tahun. BRI butuh pengoperasian satelit telekomunikasi mandiri demi menjaring 11.000 cabang di seluruh pelosok Tanah Air.
+	Menurut Managing Director Arianespace Singapura Richard Bowles, di Singapura, beberapa waktu lalu, transaksi perbankan via satelit BRIsat dijamin aman dan rahasia. Itu karena sistem enkripsi data yang digunakan.
+	Dengan BRI sebagai pengelola satelit, kini di Indonesia ada enam perusahaan yang punya dan mengoperasikan sistem satelit komunikasi dan penyiaran secara komersial. Hingga tahun 2016, sembilan satelit akan beroperasi. Selain satelit nasional, ada satelit sejenis milik asing yang berjumlah sekitar 50 unit, berjajar dari Aceh hingga Papua.
+	Selain satelit komunikasi, langit Nusantara diramaikan juga oleh satelit navigasi. Ada tiga konstelasi yang beroperasi, yaitu satelit global positioning system (GPS) milik AS, Glonass milik Rusia, dan Compass milik Tiongkok. Dengan bantuan satelit itu, posisi obyek di muka Bumi bisa diketahui koordinatnya.
+	Satelit inderaja
+	Satelit juga dikembangkan manfaatnya untuk observasi permukaan Bumi yang disebut penginderaan jauh (inderaja). Untuk itu, satelit dimuati sistem kamera. Ada yang berbasis optik, infra merah, dan radar.
+	Berbagai satelit beresolusi rendah dan tinggi diluncurkan untuk inderaja, di antaranya Landsat, Ikonos, Quickbird, Radarsat, dan JERS. Satelit bersistem radar mulai dipakai untuk memantau daerah yang kerap tertutup awan. Sebab, sistem itu bisa menembus awan dan memantau saat malam.
+	Satelit inderaja digunakan untuk pemantauan sumber daya alam, pemetaan, dan pemantauan kebencanaan. Data satelit itu bisa dibuat neraca sumber daya alam dan tata ruang wilayah.
+	Satelit itu juga dipakai untuk pengukuran, pelaporan, dan verifikasi kondisi hutan dan lahan gambut. Itu dilakukan Lembaga Penerbangan dan Antariksa Nasional (Lapan) bersama dengan Badan Pengelola Reduksi Emisi Gas Rumah Kaca dari Deforestasi, Degradasi Hutan, dan Lahan Gambut (BP REDD+).
+	Pemantauan itu dikaitkan dengan upaya meredam perubahan iklim akibat emisi gas rumah kaca, terutama karbon. Untuk itu, data satelit inderaja dipadukan dengan data inventarisasi hutan demi pendugaan emisi gas rumah kaca yang disebabkan aktivitas manusia dan perubahan luasan hutan.
+	Data satelit inderaja juga untuk memantau wilayah laut. Itu dilakukan Badan Penelitian dan Pengembangan Kelautan dan Perikanan bersama dengan CLS Argos Perancis pada program Infrastructure Development for Space Oceanography (Indeso).
+	Program itu antara lain untuk memantau penangkapan ikan ilegal dengan mengirim data langsung dari satelit ke penindak. Pada kasus pencemaran minyak di laut, penindakan bisa dengan mendeteksi tumpahan minyak real time agar biodiversitas kelautan terhindar dari bencana ekologi lebih besar.
+	Model dinamis spasial ekosistem dan populasi juga bisa untuk menyediakan informasi lokasi potensi ikan di laut Indonesia agar nelayan menangkap ikan lebih efektif dan efisien. Dengan satelit beresolusi tinggi, zonasi pesisir terintegrasi bisa ditetapkan di antaranya untuk terumbu karang dan budidaya rumput laut, kata Kepala Balitbang KP Achmad Purnomo.
+	Di antara satelit yang menjelajah ruang angkasa Indonesia, hanya satu yang dibuat bangsa Indonesia, yaitu satelit mikro buatan Lapan bekerja sama dengan Universitas Teknik Berlin bernama Lapan-TUBsat atau Lapan A1. Satelit yang didedikasikan untuk observasi ilmiah itu merupakan satelit inderaja.
+	Menurut pakar teknologi satelit Lapan Heru Triharjanto, Lapan menyiapkan satelit mikro generasi berikut, yaitu Lapan A2 dan Lapan A3, yang akan diluncurkan pada 2015 dan 2016, dengan memakai roket lembaga ruang angkasa India, ISRO. Nantinya, Indonesia secara mandiri meluncurkan satelit.
+	Grafik: Satelit Pendidikan Jarak Jauh
+

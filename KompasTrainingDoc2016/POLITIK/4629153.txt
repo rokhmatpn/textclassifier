@@ -1,0 +1,20 @@
+
+	Waspadai Manipulasi Sistem Perhitungan
+	Perlu Audit Teknologi dan Solusi Alternatif
+
+
+	Jakarta, Kompas - Pemilihan umum legislatif kurang dari dua bulan lagi. Namun, hingga kini audit teknologi sistem komputer untuk perhitungan suara yang digunakan Komisi Pemilihan Umum 2014 belum dilakukan. Tanpa pemeriksaan dan pengujian kelayakan sistem teknologi informasi, manipulasi perhitungan suara berpeluang terjadi.
+	Hal ini disampaikan Sekretaris Jenderal Ikatan Auditor Teknologi Indonesia Arya Rezavidi, Kamis (6/2), di Jakarta. Sistem teknologi informasi yang digunakan pada pemilu tahun ini sama dengan Pemilu 2004 dan 2009, ujarnya. Sistem itu semimanual. Sebelum perhitungan suara, hasil perolehan suara di tempat pemungutan suara (TPS) harus dimasukkan secara manual.
+	Cara ini berpotensi terjadi manipulasi, antara lain pada program aplikasi komputer untuk merekapitulasi perolehan suara. Melalui audit teknologi berupa pengujian kinerja sistem dapat diketahui kelayakan sistem dalam perhitungan suara. Setelah diaudit, sistem TI pemilu dikunci sehingga tidak dapat diganti saat digunakan pada hari-H, ujar Arya.
+	Menurut Ketua Ikatan Audit Sistem Informasi Indonesia Hari S Noegroho, dengan batasan waktu yang ada, diperlukan kebijakan pengamanan jangka pendek untuk mengurangi risiko kesalahan pada proses rekapitulasi Pemilu 2014.
+	Badan Pengawas Pemilu perlu segera melakukan audit atas tata cara proses penyelenggaraan pemilu, khususnya untuk mengamankan semua kemungkinan kesalahan proses rekapitulasi manual.
+	Solusi alternatif
+	Apabila batasan waktu menyebabkan perubahan pada tata cara perhitungan yang ada tidak mungkin, diperlukan solusi lain dengan beberapa asumsi sesuai situasi dan kondisi yang ada.
+	Jika TI Komisi Pemilihan Umum (KPU) tidak siap, diperlukan tindakan memanfaatkan situs web KPU untuk memublikasikan seluruh data per TPS yang masuk ke KPU dan menjadi sumber data dalam proses rekapitulasi. Publik diminta melaporkan jika ada data dari TPS-nya ditayangkan tak sesuai.
+	Kemudian dilakukan pemisahan proses pengisian formulir menjadi dua kelompok kerja yang dibedakan untuk menghitung baris dan menghitung kolom. Pemisahan proses ini dilakukan sejak dari tingkat kecamatan hingga nasional. Kedua formulir diserahkan ke panitia untuk verifikasi.
+	Sertifikat baru dibuat setelah perhitungan independen antara kelompok kolom dan kelompok baris dinyatakan cocok.
+	Jika TI KPU siap, dapat dilakukan dua pilihan, yaitu publikasi data per TPS dan hasil perhitungan rekapitulasi otomatis oleh TI KPU dan memanfaatkan sebagai media pengawasan paralel untuk pembanding hasil perhitungan rekapitulasi secara manual.
+	Cara lain, memublikasikan dua data hasil TI KPU dan menyalin formulir kertas kerja rekapitulasi manual pada situs web KPU untuk diawasi secara publik dan dilaporkan apabila ada ketidakcocokan data atau kesalahan perhitungan.
+	Dengan demikian, transparansi proses dilakukan dengan melibatkan masyarakat dalam pengawasan melalui situs web KPU, kata Hari yang juga Wakil Ketua Ikatan Auditor Teknologi Indonesia. (YUN)
+
+ 

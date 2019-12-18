@@ -1,0 +1,36 @@
+
+	Angka Produksi dan Konsumsi Beras
+
+
+	Oleh Iswadi
+	Badan Pusat Statistik mengumumkan angka sementara produksi padi pada 2013 mencapai 71,29 juta ton gabah kering giling.
+	Angka produksi tersebut secara kasar setara dengan beras untuk konsumsi penduduk 40,08 juta ton. Dengan menggunakan angka ketersediaan beras untuk konsumsi per kapita 139,15 kilogram per tahun, Indonesia seolah mengalami surplus 5,46 juta ton. Benarkah demikian?
+	Angka produksi padi yang dirilis BPS adalah perkiraan produksi dalam kualitas gabah kering giling (GKG) yang diperoleh dari pengukuran produktivitas di lahan sawah dan di lahan bukan sawah dalam kualitas gabah kering panen (GKP). Produksi GKP tersebut kemudian dikalikan dengan angka konversi hingga diperoleh angka produksi dalam kualitas GKG.
+	Berbagai kajian
+	Sejak 2009 hingga kini, angka konversi GKP ke GKG yang digunakan 86,02 persen yang merupakan hasil survei susut panen dan pasca panen padi 2005-2007. Angka konversi itu sebenarnya telah diperbarui pada 2012 melalui  survei konversi gabah ke beras menjadi angka konversi baru, yakni 83,12 persen.
+	Dengan angka konversi ini, produksi padi dalam kualitas GKG akan terkoreksi negatif 2,90 persen. Namun, BPS menangguhkan pemberlakuan angka konversi tersebut dengan alasan survei dilakukan satu paket dengan survei lain yang hasilnya harus diberlakukan bersamaan.
+	Untuk memperoleh produksi beras dari angka produksi GKG, digunakan angka rendemen penggilingan. Hingga kini BPS menggunakan angka rendemen 62,74 persen yang juga merupakan hasil survei susut panen dan pasca panen 20052007. Angka ini pun telah dimutakhirkan dan menghasilkan angka rendemen 62,85 persen.
+	Walau terlihat lebih besar daripada rendemen sebelumnya, penurunan konversi GKP ke GKG yang jauh lebih besar akan tetap memberikan koreksi negatif terhadap produksi beras. Jika kedua angka tersebut digunakan, produksi beras akan terkoreksi menjadi 38,80 juta ton atau surplus 4,18 juta ton. Namun, perlu dicatat, BPS tidak merilis produksi dalam kualitas beras secara resmi.
+	Perlu dipahami, perkiraan produksi beras sebanyak itu diperoleh dari hitung-hitungan yang melibatkan sekumpulan angka konversi yang sudah tua, seperti angka penggunaan GKG untuk nonpangan (pakan ternak/unggas, bibit/benih, bahan baku industri non-makanan, dan susut) 7,30 persen, penggunaan beras untuk nonpangan (pakan ternak, industri non-makanan, dan susut) 3,33 persen. Angka-angka tersebut diambil dari neraca bahan makanan (NBM) terbitan Badan Ketahanan Pangan yang juga perlu dievaluasi asal-usul dan kemutakhirannya.
+	Angka konversi lain yang sudah usang adalah konversi galengan. Konversi ini digunakan untuk memperoleh luasan bersih dari data luasan, seperti luas
+	panen dan luas tanam, untuk proses produksi pangan di lahan sawah. Konversi galengan yang digunakan saat ini diestimasi pada level kabupaten dan merupakan data yang diperoleh dari survei pertanian yang pelaksanaannya diintegrasikan dengan Survei Sosial Ekonomi Nasional (Susenas) Tahun 1969/1970. Angka tersebut belum pernah diperbarui, padahal kondisi di lapangan berubah.
+	Gambaran kebutuhan beras untuk konsumsi penduduk sangat erat terkait angka konsumsi beras per kapita. Hingga saat ini, angka konsumsi beras yang benar masih misteri. Angka ini merupakan angka yang cukup ruwet dalam estimasi dan penggunaannya. Angka konsumsi beras pada 2012 hasil Susenas sebesar 97,65 kg per kapita per tahun. Akan tetapi, banyak pihak yang menganggap angka tersebut underestimate karena hanya mencakup konsumsi beras yang diolah dalam rumah tangga dan tidak mencakup konsumsi dalam bentuk makanan jadi di luar rumah tangga.
+	Hingga saat ini, konsumsi beras per kapita yang digunakan secara resmi oleh pemerintah 139,15 persen. Angka keramat ini sering digunakan dengan penuh kegalauan akibat ketidakpahaman asal-usulnya. Angka 139,15 persen sebenarnya bukan merupakan angka konsumsi riil beras perkapita, lebih tepat jika disebut angka ketersediaan beras untuk konsumsi (per kapita) pada 2005.
+	Angka tersebut dihitung dari NBM. Besaran diperoleh dengan menghitung rata-rata ketersediaan beras untuk konsumsi penduduk dari 2001 sampai 2004 (saat itu masih angka sementara). Untuk mengantisipasi ketidaktersediaan angka konsumsi per kapita yang dapat diterima semua pihak, rapat koordinasi pangan pada 15 Desember 2005 di kantor Badan Ketahanan Pangan menyepakati penggunaan angka 139,15 persen sebagai angka konsumsi beras per kapita.
+	Angka konsumsi beras per kapita lain yang beredar tanpa kepastian adalah 114,80 kilogram per tahun. Awalnya angka itu berupa informasi dalam usaha penyempurnaan angka konsumsi beras per kapita hasil Susenas yang dianggap underestimate.
+	Kajian pun dilakukan dengan mencoba mengumpulkan data konsumsi beras yang diolah di luar rumah tangga, seperti industri, hotel, restoran dan jasa penyediaan makan-minum lainnya, jasa angkutan air, jasa kesehatan, dan jasa-jasa lain pada 2012. Angka tersebut sejatinya merupakan angka pembahasan dalam lingkungan terbatas sebagai bahan pembanding untuk kajian sebelum akhirnya menjadi official statistics. Namun, dalam perjalanannya banyak pihak cenderung lebih percaya pada angka tersebut dan menggunakannya dalam analisis.
+	Pembenahan data statistik
+	Pembenahan statistik beras merupakan satu keniscayaan. Pembenahan harus segera dilakukan secara komprehensif, baik dari sisi data produksi, konsumsi, maupun penggunaan. Angka konversi dan penggunaan beras yang sudah usang harus segera direvitalisasi.
+	Agar data dapat digunakan secara apple to apple, pembenahan data harus dilakukan secara terintegrasi dalam koordinasi dan pengawasan yang ketat. Perbaikan data harus disandarkan pada kondisi nol yang netral tanpa pertimbangan kepentingan politik ataupun penilaian kinerja kementerian teknis terkait. Pembenahan data harus melalui perencanaan yang matang dan melibatkan ahli statistik dalam dan luar negeri.
+	Data hasil pembenahan bukan tidak mungkin akan berada pada level yang jauh dari data yang selama ini digunakan. Jika ini terjadi, banyak hasil penelitian, laporan kinerja, dan indikator ekonomi lain yang akan terlihat tak valid.
+	Akan tetapi, masa depan ketahanan pangan bangsa ini harus menjadi prioritas. Banyak adjustment yang bisa dilakukan jika memang kenyataan menunjukkan level data hasil pembenahan berada jauh dari garis tren data yang sudah ada.
+	Iswadi
+	Kepala Seksi Evaluasi dan
+	Pelaporan Statistik Tanaman
+	Pangan BPS; Alumnus The
+	University of Queensland,
+	Australia
+
+ 
+Ilustrasi:
+Handining

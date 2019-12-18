@@ -1,0 +1,21 @@
+
+	Hati-hati, Kloning Smartphone Makin Canggih
+
+
+	 
+	Tergiur iming-iming harga murah produk smartphone berbasis Android, Samsung S4, seorang teman membeli Samsung S4 yang ditawarkan kenalannya. Dengan berkilah sebagai produk blackmarket, harganya dipatok menarik, hanya 50 persen dari harga pasaran.
+	Tetapi, beruntung ada kesepakatan, yaitu jika ternyata smartphone tersebut palsu, maka uang bisa dikembalikan. Deal! Saya diminta mengecek keaslian handphone paling bergengsi yang diproduksi Samsung ini.
+	Dengan hanya membandingkan produk asli Samsung S4 dengan produk yang baru dibeli, tampak tak ada perbedaan dari sisi tampilan fisik. Bahkan, ukuran empat sensor yang tak sama di bagian depan, juga dibuat sangat baik oleh produk ini.
+	Dari sisi fisik, saya yakin produk blackmarket itu benar-benar asli Samsung S4. Kemasan kotak dan segala aksesorinya, termasuk baterai dan charger, pun makin meyakinkan jika produk itu asli S4.
+	Kini saatnya mencoba keandalan S4. Dari sisi kecepatan booting, tak ada masalah, dengan logo Samsung dan suara khas Samsung. Fungsi touch screen tampak meyakinkan, tak ada masalah. Sedikit mulai ada keraguan ketika menguji kualitas kamera yang biasa-biasa saja.
+	Saatnya memasang aplikasi AnTuTu Benchmark dan CPU-Z, yang bisa diunduh dari Google Play. Dua aplikasi ini dibutuhkan untuk mendeteksi jeroan Samsung S4, mulai dari nama produsen pembuat CPU, jenis CPU, hingga spesifikasi teknis lainnya seperti resolusi layar, densitas layar, RAM, hingga spesifikasi kamera.
+	Luar biasa, berbagai sensor yang dimiliki Samsung S4 yang membuktikan kecanggihan smartphone ini juga terdeteksi aktif di produk yang diuji. Sampai di situ, sangat sulit untuk mengatakan produk yang diuji adalah palsu.
+	Ternyata dua aplikasi itu bisa memberikan informasi yang berbeda, itu berarti produk yang diuji bisa mengecoh aplikasi pendeteksi. Dengan CPU-Z terdeteksi CPU-nya adalah ARM Cortex-A7, dan AnTuTu mendeteksinya MTK MT6572.
+	Dua aplikasi itu tak memberikan penilaian apakah spesifikasi yang ada asli atau bukan. Jika kita tak memegang spesifikasi asli Samsung S4, maka kita tak bisa memberikan penilaian. Beruntung akhirnya ada aplikasi lain yang gratis diunduh yaitu Genuine Galaxy S4/Note 3.
+	Dengan menjalankan Genuine Galaxy S4/Note 3, software ini langsung memberikan penilaian apakah gadget kita asli atau palsu. Begitu dijalankan aplikasinya, langsung tampil pesan: Iam afraid youre not using Galaxy S4, yang berarti smartphone tersebut bukan S4.
+	Alasan pun diberikan rinci oleh aplikasi ini. Di antaranya total RAM hanya 469MB, padalah harusnya 2GB. Total ROM 1,2GB, padahal harusnya 16GB, resolusi layar hanya 800x400, padahal referensinya 1920x1080, CPU core terdeteksi 2 harusnya 4.
+	Dari aplikasi terakhir itu, jelas bahwa S4 blackmarket yang dijanjikan itu ternyata palsu buatan China. Bisnis smarphone murah dengan berkedok produk blackmarket kini makin marak dan menurut penuturan pedagang, banyak yang sudah membeli produk sejenis.
+	Saya tidak tahu kalau palsu, tahunya itu blackmarket makanya saya jual sebagai produk blackmarket, kata seorang penjual berkilah. Bisnis seperti ini makin sempurna dan tak didesain untuk membohongi karena rantai penjualnya justru mengandalkan orang-orang yang tak paham gadget. Jadi, hati-hati jika Anda ditawari produk blackmarket. (Amir Sodikin)
+	"Saya tidak tahu kalau palsu, tahunya itu "blackmarket" makanya saya jual sebagai produk "blackmarket".
+
+ 

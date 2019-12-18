@@ -1,0 +1,34 @@
+
+	Teknologi Informasi
+	Dari Desa Merintis E-Voting
+
+
+	Pemungutan suara secara elektronik atau electronic voting pada pilkada batal diterapkan di tingkat kabupaten/kota. Ini berdasarkan keputusan Sidang Paripurna DPR, akhir September lalu. Meski begitu, penerapan e-voting untuk pemilihan langsung oleh masyarakat telah dilaksanakan di tingkat desa, bahkan kini meluas.
+	Oleh YUNI IKAWATI
+	Pengenalan inovasi teknologi informasi itu dalam penyelenggaraan demokrasi di Indonesia tanpa gembar-gembor, bahkan dimulai lima tahun lalu. Pada Juli 2009, e-voting pertama kali digelar di Banjar Pasatan, dusun di Kabupaten Jembrana, Bali. Dalam 7 bulan berikutnya, 53 pemilihan kepala dusun (pilkadus) menyusul di kabupaten itu.
+	Langkah Jembrana melaksanakan e-voting di tingkat dusun boleh dibilang fenomenal dan monumental. Kabupaten yang terletak di pulau wisata dunia itu mampu paling awal menerapkan e-voting, bahkan di kawasan Asia Tenggara.
+	Hal itu berkat komitmen kepala daerah dan semangat kegotongroyongan berswadaya membangun prasarana e-voting yang tak murah itu. Implementasinya di bawah kepemimpinan Bupati Jembrana saat itu, I Gede Winasa. Upaya rintisan dimulai pada 2001 sampai e-voting terwujud 8 tahun kemudian.
+	Sebelum sampai tahap e-voting, lebih dulu dibangun jejaring teknologi informasi dan komunikasi (TIK), terdiri dari sistem telekomunikasi dan komputer. Jejaring itu disebut Jimbarwana Network atau JembranaNet. Jaringan induk itu menjaring local area network (LAN) di tiap kecamatan hingga ke dusun. Di dalamnya terkait simpul-simpul jaringan di kantor desa, sekolah-sekolah, dan layanan publik yang terdiri dari perangkat komputer, akses internet, dan telekomunikasi.
+	Pembangunan infrastruktur TIK itu melibatkan tim dari Pusat Teknologi Informasi dan Komunikasi Badan Pengkajian dan Penerapan Teknologi (TIK BPPT). Melalui jejaring itu, berbagai layanan elektronik bagi publik terselenggara, seperti layanan kesehatan dan pendidikan dan e-voting.
+	Kuncinya adalah kartu tanda penduduk elektronik (e-KTP) yang mengandung rangkaian elektronik mikro disebut cip berukuran 1 x 1 sentimeter persegi untuk menyimpan data. Data itu antara lain biometrik dan sidik jari pemilik e-KTP.
+	Pada e-KTP, ada sistem pengaman berupa enkripsi atau pengacak data yang melindungi data transaksi dan info penting sehingga tak bisa disadap dan diubah secara ilegal. Penyelenggaraan e-voting itu bisa menghemat biaya hingga 60 persen dibandingkan cara konvensional memakai surat suara.
+	Keberhasilan Jembrana lalu jadi percontohan bagi kabupaten lain dalam menerapkan e-voting berbasis e-KTP.
+	Versi ketiga
+	Pembuatan sistem e-voting memakai sistem operasi terbuka Linux atau IGOS (Indonesia Go Open Source) dan Open Office. Hal itu, menurut Direktur TIK BPPT Hammam Riza, demi mengurangi ketergantungan pada produsen komputer asing. Dengan sistem itu, pengembangan peranti lunak aplikasi pada e-voting bisa dilakukan sendiri sesuai kebutuhan.
+	Kini aplikasi baru e-voting yang dirancang adalah fitur bagi para pemilih berkebutuhan khusus, seperti tunanetra dan tunarungu, serta fitur multibahasa daerah. Untuk penyelenggaraan e-voting tingkat desa, Pusat TIK BPPT selesai menyusun desain besar atau grand design e-voting pilkades demi mendukung penerapan pilkades di Indonesia, yang terdiri dari 80.000 desa.
+	Rancangan menyeluruh itu akan diluncurkan pada November nanti. Di dalamnya tercakup semua aspek, baik sistem, pola penyelenggaraan, perangkat di industri, dan audit teknologi pada pra sampai pasca pemilihan.
+	Dari sisi teknologi e-voting, pengembangan perangkat keras dan lunak dimulai 10 tahun lalu. Berbarengan pengembangan teknologi, ditetapkan pula standar, arsitektur, spesifikasi teknis dan petunjuk pelaksanaan.
+	Menurut Kepala Tim Perekayasa E-Voting BPPT Faisol BaAbdullah, pengembangan teknologi e-voting sudah sampai versi III. Versi pertama berbasis web, versi II dan III berbasis bahasa pemrograman Java. Dari sisi arsitektur sistem, dikembangkan monitor layar sentuh terintegrasi dengan mesin pemungutan suara elektronik.
+	Perangkat e-voting rancangan tim BPPT berjenis DRE (direct record electronic). Itu berbeda dengan dua jenis lain, yakni central count optical scanning (CCOS) dan prescinct-count optical scanning (PCOS), yang memakai pemindai elektronik kertas suara. DRE dipilih sebab bisa menyimpan data pilihan suara langsung dari layar sentuh tanpa mencetak dan memindai lebih dulu, kata Faisol.
+	Beberapa daerah
+	Prototipe e-voting layar sentuh terintegrasi telah diterapkan pada pilkades 2013 di Boyolali, Jawa Tengah, di Jembrana, Bali, dan Musi Rawas, Sumatera Selatan. Untuk pilkada, simulasi dilakukan di 42 TPS di Bantaeng, bekerja sama dengan Universitas Hasanuddin, simulasi e-Pemilu pada Juni 2014 di Kota Pekalongan.
+	Penyelenggaraan e-voting di tiap TPS hanya butuh unit peranti keras. Selain layar sentuh terintegrasi dengan mesin voting, perlu ada papan ketik dan tetikus atau mouse, printer, aki mobil sebagai sumber daya, kartu pintar dan unit pembaca kartu, serta modem USB.
+	Di antara perangkat itu, yang terpenting adalah USB penyimpan data dan program aplikasi. Untuk pengadaan peranti lain, bisa dari pasar setempat, ucap Kepala Program E-voting BPPT Andrari Grahitandaru.
+	Proses e-voting di bilik suara pun mudah, cukup empat tahap. Sebelum masuk bilik suara, panitia memverifikasi keabsahan identitas pemilih, lalu pemilih mendapat kartu pintar untuk aktivasi mesin e-voting. Saat kartu pintar dimasukkan mesin e-voting, muncul tayangan pilihan kandidat di layar sentuh.
+	Pemilih cukup menyentuhkan jari tepat di gambar kandidat dipilih pada layar monitor. Lalu, kertas audit hasil pilihan keluar dari printer mini, pemilih mencabut kartu dan mengambil kertas itu. Di tahap akhir, kertas dimasukkan kotak dan kartu diserahkan ke panitia. Waktu yang dibutuhkan pemilih di bilik suara sekitar 30 detik.
+	Data perolehan suara dihitung otomatis dan dikirimkan secara elektronis ke pusat data KPU Daerah. Data perolehan suara ditayangkan berjenjang sampai TPS agar warga bisa melihat perolehan suara di TPS.
+	Prototipe itu lulus uji coba untuk memenuhi standar internasional dan tersertifikasi, kata Faisol. Sertifikasi itu antara lain untuk sistem manajemen pemilihan sesuai standar internasional ISO 17582.
+	Pemakaian sistem itu bisa berulang dan bergantian dengan pemilihan lain. Menurut Hammam, biaya satu sistem e-voting rancangan BPPT Rp 10 juta, termasuk perangkat lunak aplikasi, bisa dipakai 1.000 kali selama 3 tahun. Idealnya, tiap KPU Daerah punya 50 sistem e-voting.
+	Dengan kemampuan anak bangsa menguasai teknologi e-voting, bangsa Indonesia bisa mandiri berdemokrasi, secara efisien, akurat, dan terpercaya.
+
+Grafik: Proses "E-Voting"

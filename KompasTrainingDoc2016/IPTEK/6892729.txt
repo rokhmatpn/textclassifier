@@ -1,0 +1,22 @@
+
+	Catatan Iptek
+	Lembah Uncanny
+
+
+	Oleh Agnes Aristiarini
+	Ketika ilmu pengetahuan semakin luas dan teknologi penciptaan robot semakin berkembang, akankah mereka mengancam martabat dan kemanusiaan kita?
+	Dalam film Star Wars yang legendaris, robot R2-D2 yang ahli mekanik dan C-3PO yang ahli budayamenguasai lebih dari enam juta bentuk komunikasi, etik, dan adat istiadat seluruh galaksiberperan besar memenangi pertempuran para ksatria Jedi melawan Darth Vader dan pasukannya.
+	Kehadiran R2-D2 dan C-3PO tidak hanya membantu kebenaran melawan kejahatan, tetapi juga menghibur dengan segala kekonyolannya. Dalam dunia nyata, kemajuan teknologi robot yang semakin mirip dengan manusia justru mengundang banyak tanya dan kekhawatiran.
+	Fenomena ketidaknyamanan
+	Masahiro Mori, pakar robot yang disegani dari Jepang, sudah mengenali fenomena itu sejak 1970-an. Ia menyebutnya sebagai fenomena uncanny valley atau lembah aneh yang membuat perasaan tidak nyaman. Pendek kata: seram.
+	Perasaan itu biasanya muncul ketika manusia berhadapan dengan Android alias robot humanoid yang dalam banyak hal bertindak dan berwujud mirip manusia (California Institute for Telecommunications and Information Technology dalam Encounters with The Thing That Should Not Be, 2011).
+	Robot akan lebih mudah diterima publik jika tidak terlalu menyerupai manusia, kata Ayse Pinar Saygin dari University of California, San Diego, AS, yang meneliti fenomena ini.
+	Bersama timnya, Saygin menguji reaksi 20 subyek berusia 20-36 tahun pada manusia, robot, dan robot humanoid yang dibuat mirip manusia. Hasilnya, manusia ternyata tidak takut jika obyek yang dilihatnya adalah manusia dan bertindak seperti manusia atau obyek seperti robot dan bertindak sebagaimana robot. Masalah baru muncul jika obyek hanya mirip-mirip manusia dan bertindak meniru manusia.
+	Tidaklah mengherankan jika masyarakat menyambut baik R2-D2, C-3PO, maupun Asimof karena penampilannya memang masih sangat robot. Namun, begitu berhadapan dengan humanoid terbaru Jepang, Q2, yang perancangannya menggunakan model manusia, muncullah fenomena uncanny valley (Your Brain on Android, UCSD News, 2011).
+	Pijakan ke depan
+	Penelitian ini penting karena akan menjadi pijakan pengembangan robot ke depan. Saygin bahkan menyarankan dilakukannya uji uncanny valley sebelum memutuskan untuk investasi dalam industri robot.
+	Meskipun demikian, telaah terbaru menyebutkan bahwa fenomena uncanny valley muncul jika bentuk robot mirip manusia, tetapi bergerak tidak alamiah sehingga orang mempersepsikannya sebagai tidak normal atau sakit. Penjelasan ini kurang lebih sama dengan fenomena kemunculan perasaan jijik saat orang melihat kotoran atau daging yang membusuk.
+	Maka dalam dunia robotik yang berkembang luar biasa, para ahli kini justru bersaing merancang membangun robot humanoid yang tidak bisa dibedakan lagi dengan manusia yang sesungguhnya. Itulah yang terjadi ketika Peter Kahn mengunjungi Laboratorium Humanoid Karl MacDormans di Indiana University. Dalam Robots: Is the Uncanny Valley Real (BBC News, 2013), Rose Eveleth menulis bahwa Kahn meminta izin istrinya sebelum menyentuh robot humanoid Jepang yang cantik mungil dalam balutan blazer merah jambu.
+	Ke depan, bisa jadi muncul uncanny valley ketika melihat orang jatuh cinta dan hidup berpasangan dengan robot. Inikah ancaman kemanusiaan yang sesungguhnya? Waktu yang menjawabnya.
+
+ 

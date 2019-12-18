@@ -1,0 +1,37 @@
+
+	MERS Mengintip di Beranda Kita
+
+
+	Oleh CA Nidom
+	Penyakit Middle East Respiratory Syndrom (MERS) gejalanya mirip dengan influenza, khususnya flu burung. Tidak aneh jika kemudian disebut flu arab.
+	Virus MERS telah menginfeksi 396 orang, 111 meninggal, dan menyebar ke 15 negara termasuk Asia Tenggara dan Amerika Serikat. Karena sudah masuk Malaysia, timbul kekhawatiran juga masuk ke Indonesia.
+	Penyakit flu burung, baik H5N1 maupun H7N9, belum hilang dari Indonesia, kini penyakit baru, MERS atau flu arab, sudah mengintip di beranda rumah kita. Penyakit-penyakit seperti ebola dan hendra menanti giliran.
+	Tim peneliti AIRC-UA dan Kementan telah mengidentifikasi adanya antibodi terhadap virus ebola pada serum orangutan Kalimantan dan mamalia domestik. Bagaimana dengan kasus infeksi ebola pada orang Indonesia?
+	Ada perbedaan cara pandang terhadap demam berdarah antara orang Afrika dan Indonesia. Orang Afrika mencurigai virus ebola pada setiap kasus demam berdarah, sedangkan orang Indonesia mencurigai virus dengue pada kasus demam berdarah.
+	Satu rumpun
+	Virus MERS dan SARS berasal dari golongan Coronaviridae yang punya empat kelas, yaitu alfa, beta, gama, dan delta. Virus MERS dan SARS masuk beta bersama virus korona lain dari kelelawar, tikus, babi, dan sapi.
+	Seperti virus korona lain, MERS punya struktur RNA beruntai positif tunggal. Beda dengan virus flu burung yang beruntai negatif dan berfragmen. Jadi, pola mutasi MERS lebih lambat dan sederhana. Virus korona hanya bermutasi dengan tujuan adaptasi. Dengan struktur seperti ini, virus korona tidak berpotensi saling bertukar genoma. Tidak seperti virus flu yang berpotensi bertukar fragmen di antara mereka sehingga bisa membentuk subtipe baru dengan tingkat keganasan yang tidak terduga.
+	Reseptor, tempat perlekatan virus MERS berupa DPP-4 (dipeptidyl peptidase-4) atau dikenal CD-26, sebagian besar terletak pada saluran napas bagian bawah, mulai dari sel bronkhial sampai sel paru. Lokasi reseptor ini mirip lokasi virus flu burung sehingga infeksi MERS menyebabkan radang paru akut dan menyulitkan diagnosis. Jika pengambilan spesimen tidak tepat lokasi dan waktu, bisa dihasilkan diagnosis negatif palsu. Virus MERS juga bisa ditemukan pada cairan tubuh seperti darah, urine, dan tinja.
+	Tingkat kefatalan (CFR) penyakit MERS (58 persen) berada di antara SARS (10 persen) dan flu burung (80 persen). Gejala klinis hampir mirip, yaitu terganggunya pernapasan. Jika infeksi ringan, MERS akan dianggap flu biasa.
+	Unta juga flu
+	Mekanisme penularan virus MERS dari unta ke manusia atau sebaliknya belum diketahui. Kenyataannya unta juga memiliki reseptor DPP-4, seperti manusia dan kuda, yang lebih mudah terinfeksi virus MERS dibandingkan kambing dan kelelawar.
+	Sebetulnya berdasarkan pada urutan RNA mirip dengan virus MERS dari spesimen unta. Sampai saat ini belum diumumkan adanya virus MERS yang hidup. Urutan RNA virus MERS telah ditemukan pada unta di beberapa negara jazirah Arab. Artinya, dalam tubuh unta pernah atau sedang terjadi replikasi virus meski hanya RNA yang ditemukan.
+	Kejadian ini mirip dengan ditemukan struktur virus flu burung H17N10 dari kelelawar di Amerika Latin atau virus lloviu, suatu virus mirip ebola yang ditemukan pada kelelawar di Eropa. Semua ini berkat perkembangan alat diagnosis urai nukleotida/RNA yang disebut Next Generation Sequencing.
+	Jadi, belum ada kejelasan siapa yang menjadi sumber virus MERS, apakah manusia, unta, kelelawar, kuda, atau spesies lainnya. Namun, berdasarkan pengalaman, jika suatu virus sudah menular zig-zag dari hewan ke manusia atau sebaliknya, pengendalian virus akan menjadi sulit. Salah satu cara yang diyakini memutus rantai adalah pemusnahan hewan pembawa. Mungkinkah memusnahkan unta demi keselamatan jiwa manusia?
+	Belajar dari kejadian flu burung di Indonesia, penyakit ini tetap beredar selama 10 tahun di Indonesia karena tidak ada tindakan pemusnahan sumber virus flu burung. Unta dan virus MERS di Arab Saudi berisiko jauh lebih tinggi menulari mengingat adanya kunjungan jemaah umrah dan haji dari seluruh dunia.
+	Pencegahan
+	Obat antiviral khusus MERS belum tersedia. Beberapa negara menganjurkan obat antiviral alternatif, seperti Ribavirin dan Peg interferon. Sebetulnya Indonesia kaya tanaman obat sebagai alternatif pencegahan. Sebagaimana hasil riset AIRC-UA tentang penggunaan tanaman/ herbal pada flu burung, untuk mencegah penyakit MERS bisa menggunakan ramuan tradisional seperti empon-empon (kunyit, jahe, temulawak, lengkuas, dan sebagainya) untuk meningkatkan respons imun tubuh.
+	Ada dua produk perkebunan yang pernah diteliti sebagai antiviral flu burung, yaitu teh putih (EGWT) dan ekstrak kakao. Keduanya merupakan hasil klon PT Riset Perkebunan Nusantara melalui Pusat Penelitian Teh dan Kina (PPTK) Bandung dan Pusat Penelitian Kopi dan Kakao Indonesia (PPKKI) Jember. Teh putih dan ekstrak kakao mampu menetralisasi virus flu burung manusia dengan cara menghambat virus menempel pada reseptor sel dan meningkatkan respons imun tubuh.
+	Selain menghindari kontak langsung dengan sumber penyakit MERS, para jemaah harus memakai masker standar (N-95) secara terus-menerus selama di Arab Saudi. Selain itu, juga sering cuci tangan dan kaki dengan detergen, berhenti merokok, mengurangi aktivitas bicara, dan menguatkan fungsi kekebalan tubuh.
+	Sampai saat ini, vaksin MERS belum tersedia. Ini agak sedikit mengherankan karena virus MERS muncul sejak 2012.
+	Sebetulnya di Indonesia telah dibentuk Forum Komunikasi Peneliti Vaksin Indonesia dengan para anggota kebanyakan dari perguruan tinggi. Tujuannya untuk saling menginformasikan platform, model, dan hambatan yang ditemukan mulai dari aktivitas hulu (riset dasar) sampai pengembangan industri vaksin.
+	Kemampuan para peneliti menyiapkan vaksin sudah teruji. AIRC-UA, misalnya, telah berhasil mengembangkan platform atau model vaksin dengan teknologi Reverse Genetic. Jika sewaktu-waktu terjadi wabah pandemi flu burung, mereka mampu menyiapkan vaccine seed dalam waktu tak lebih dari satu bulan.
+	Demikian juga platform teknologi vaksin DNA telah dikembangkan oleh tim peneliti IVHCB-UI. Sekarang tinggal bagaimana memberdayakan para peneliti dalam menyiapkan platform aplikatif untuk penyakit MERS atau penyakit lain yang bersifat mendadak.
+	CA Nidom
+	Anggota Komnas PINERE Kementerian Kesehatan
+	 
+	Ilustrasi:
+	Didie Sw
+	 
+
+ 

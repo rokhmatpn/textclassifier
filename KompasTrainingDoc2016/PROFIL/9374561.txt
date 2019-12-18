@@ -1,0 +1,59 @@
+
+	Isamu Akasaki, Hiroshi Amano, dan Shuji Nakamura
+	Para Pembawa Terang Abad Ke-21
+
+
+	Lampu pijar menerangi abad ke-20, (tetapi) abad ke-21 akan diterangi lampu LED.
+	Kalimat di atas akan selamanya dikenang oleh Isamu Akasaki (85), Hiroshi Amano (54), dan Shuji Nakamura (60) sebagai penghormatan puncak dunia atas prestasi mereka. Berkat mereka, dunia akan segera lepas dari ketergantungan terhadap lampu pijar, alat penerang yang boros energi.
+	Oleh Dahono Fitrianto
+	Praktis sejak Thomas Alva Edison menemukan lampu pijar, atau populer disebut bohlam, yang layak diproduksi massal pada 1879, seluruh dunia tak bisa lepas dari alat penerang tersebut.
+	Namun, dengan ditemukannya dioda pemancar cahaya (light emitting diode/LED) warna biru pada dekade 1990-an oleh Akasaki, Amano, dan Nakamura, terbukalah peluang membuat LED yang memancarkan cahaya putih. Sumber pencahayaan abad ke-21 pun telah datang dan para penemunya berhak mendapat Hadiah Nobel Fisika 2014.
+	Zaman sekarang, lampu LED sudah sangat umum digunakan, mulai dari lampu senter, lampu kendaraan, hingga pemanfaatan sebagai layar televisi dan monitor komputer. Saat ditanya apakah ia menyadari arti penting temuannya itu, Nakamura mengatakan, Tak ada yang bisa membuat telepon seluler tanpa temuan saya itu. Ya, layar telepon yang selalu kita bawa ke mana-mana itu dibuat dengan teknologi LED.
+	Nakamura, yang telah menjadi warga negara Amerika Serikat (AS), saat ini menjadi profesor di Universitas California di Santa Barbara (UCSB), AS. Akasaki masih aktif sebagai profesor di Universitas Meijo dan profesor kehormatan di Universitas Nagoya, Jepang. Sementara Amano baru diangkat sebagai profesor di Universitas Nagoya pada 2010.
+	Shuji Nakamura
+	Ini tak bisa dipercaya, ujar Nakamura saat ditelepon di tengah malam untuk diberi tahu soal hadiah prestisius itu, Selasa (7/10).
+	Sangat menyenangkan melihat impian saya mengenai lampu LED telah menjadi kenyataan, ujar Nakamura, yang kini menjadi Direktur Riset Pusat Pencahayaan Zat Padat dan Elektronika Energi (SSLEEC) UCSB.
+	Di luar kebiasaan peraih Hadiah Nobel Fisika yang rata-rata berasal dari kalangan akademis, Nakamura menemukan LED birunya saat ia bekerja di sebuah perusahaan kecil di Jepang, Nichia Chemical.
+	Menurut biografinya di laman resmi SSLEEC (ssleec.ucsb.edu), Nakamura lahir di Ehime di Jepang barat daya, 22 Mei 1954. Dia meraih gelar sarjana hingga doktor di bidang teknik elektro dari Universitas Tokushima.
+	Tahun 1979 ditandai dengan Nakamura meraih gelar master dan mulai bekerja di perusahaan kimia Nichia Chemical Industries Ltd.
+	Sepuluh tahun kemudian, ia memulai riset untuk menemukan LED yang bisa memancarkan sinar biru. LED biru ini menjadi sedemikian penting karena menjadi semacam mata rantai yang hilang untuk melengkapi LED hijau dan merah yang sudah ditemukan sejak pertengahan abad ke-20. Jika LED biru ditemukan, gabungan LED biru, merah, dan hijau akan memancarkan cahaya putih yang dicari-cari selama ini.
+	Nakamura akhirnya menemukan LED biru setelah mengembangkan LED yang dibuat dari kristal semikonduktor galium nitrida (GaN).
+	Ironisnya, ia hanya mendapat bonus 20.000 yen (Rp 2,3 juta) dari Nichia Chemical atas prestasinya itu. Padahal, paten temuannya tersebut didaftarkan atas nama perusahaan yang kemudian mendapat untung besar.
+	Baru pada 2004, atau lima tahun setelah dia keluar dan menuntut perusahaan itu, pengadilan Tokyo memerintahkan Nichia Chemical membayar ganti rugi sebesar 20 miliar yen (Rp 2,3 triliun) kepada Nakamura. Setelah melalui proses banding, akhirnya perusahaan itu bersedia membayar 844 juta yen.
+	Ia diangkat sebagai profesor bidang ilmu material zat padat di UCSB pada tahun 2000. Hingga saat ini, dia memegang lebih dari 100 hak paten dan sedikitnya 400 makalah di bidang ilmunya itu.
+	Isamu Akasaki
+	Perburuan LED biru tak hanya dilakukan Nakamura. Secara terpisah, Isamu Akasaki memulai pencarian itu sejak 1973, saat ia masih menjadi asisten profesor di Fakultas Teknik Universitas Nagoya.
+	Pada awalnya, orang bilang (LED biru) ini tak akan bisa ditemukan pada abad ke-20. Banyak orang yang kemudian pergi meninggalkan proyek riset ini, tetapi saya tidak pernah berpikir ke sana, tutur Profesor Akasaki kepada wartawan di Universitas Meijo, Nagoya, Selasa.
+	Dalam biografinya di laman resmi Universitas Nagoya (en.nagoya- u.ac.jp), Akasaki mengaku pernah merasa sendirian di tengah gurun gersang saat kolega-koleganya menyerah menghadapi kesulitan pencarian LED biru dan memilih melakukan riset lain.
+	Namun, dia pantang menyerah dan terus melakukan riset pembuatan kristal GaN siang dan malam. Sampai pada suatu hari, saat mengamati kristal-kristalnya di bawah mikroskop fluoresens, dia melihat satu kristal yang memancarkan cahaya biru.
+	Saya tak pernah berpikir soal sukses atau gagal. Saya sekadar melakukan apa yang ingin saya lakukan. Saya beruntung kolega-kolega saya mendukung saya, ujar pria kelahiran 30 Januari 1929 ini.
+	Ia pun berpesan kepada para peneliti muda, Jangan terkecoh dengan subyek-subyek (penelitian) yang terkesan bergaya dan sedang menjadi tren. Lakukan apa yang kalian suka jika itu memang benar-benar yang ingin kalian lakukan.
+	Hiroshi Amano
+	Amano adalah yang termuda dari ketiga penerima Hadiah Nobel Fisika tahun ini. Ilmuwan kelahiran Hamamatsu, Jepang barat, 11 September 1960, itu melakukan penelitian tentang LED biru bersama Profesor Akasaki di Universitas Nagoya.
+	Ia bergabung dengan grup peneliti yang dipimpin Akasaki pada 1982, saat dia masih mahasiswa S-1 di universitas tersebut. Sejak saat itu, ia tak pernah lepas dari riset tentang penumbuhan, karakterisasi, dan penerapan apa yang disebut semikonduktor nitrida grup III.
+	Menurut biografinya di laman resmi Universitas Nagoya, Amano berhasil menumbuhkan kristal GaN tipe-p pada 1989. Temuannya itu berujung pada keberhasilan membuat LED yang memancarkan sinar biru untuk pertama kali berdasar GaN tipe sambungan p-n.
+	Dalam wawancara dengan stasiun televisi NTV, Rabu (8/10), Amano mengatakan, kemenangannya itu berkat sistem pendidikan menengah dan tinggi di Jepang.
+	Ketahuilah bahwa tujuan utama edukasi, atau apa pun, adalah melakukan sesuatu untuk membantu orang lain. Itu menjelaskan semuanya, tutur Amano.
+	(AFP/AP/REuters)
+	Prof Shuji Nakamura
+	? Lahir: Ehime, Jepang, 22 Mei 1954
+	? Kewarganegaraan: AS
+	? Pendidikan: Sarjana (1977), Master (1979), dan PhD (1994) Teknik Elektro dari Universitas Tokushima, Jepang.
+	? Pekerjaan: Profesor dan Direktur Riset Solid State Lighting &amp; Energy Electronics Center (SSLEEC) Universitas California di Santa Barbara
+	? Penghargaan: 24 penghargaan internasional, termasuk Global Innovation Leader Award, Optical Media Global Industry Awards, 2006
+	 
+	Prof Isamu Akasaki
+	? Lahir: Chiran, Jepang, 30 Januari 1929
+	? Kewarganegaraan: Jepang
+	? Pendidikan: Sarjana Fakultas Sains Universitas Kyoto (1954), Doktor Teknik Fakultas Teknik Universitas Nagoya (1964)
+	? Pekerjaan: Profesor Kehormatan (Distinguished Professor) di Universitas Nagoya dan Profesor di Universitas Meijo
+	 
+	Prof Hiroshi Amano
+	? Lahir: Hamamatsu, Jepang, 11 September 1960
+	? Kewarganegaraan: Jepang
+	? Pendidikan: Sarjana Teknik (1983), Master Teknik (1985), dan Doktor Teknik (1989) dari Universitas Nagoya
+	? Pekerjaan: Profesor di Fakultas Teknik Universitas Nagoya
+	(Sumber: ssleec.ucsb.edu/en.nagoya-u.ac.jp)
+
+Foto-foto:
+AFP

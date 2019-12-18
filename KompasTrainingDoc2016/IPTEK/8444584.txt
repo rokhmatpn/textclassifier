@@ -1,0 +1,21 @@
+
+	Teknologi Informasi
+	Penetrasi Internet Meningkat di Daerah
+
+
+	JAKARTA, KOMPAS - Penetrasi internet di Indonesia mulai merata di daerah meskipun survei Asosiasi Penyelenggara Jasa Internet Indonesia belum menunjukkan relevansi antara penetrasi itu dan kepadatan penduduk serta perputaran ekonomi. Itu terjadi meski Indonesia belum memiliki tata kelola internet, terutama kebijakan soal infrastruktur.
+	Dalam survei penetrasi internet oleh Asosiasi Penyelenggara Jasa Internet Indonesia (APJII), setidaknya ada dua provinsi dengan perkembangan pesat, yakni Aceh sebesar 37,9 persen dan NTB (38,3 persen). Pertumbuhan itu unik karena tidak menyebar atau terpengaruh daerah sekitarnya, misalnya Aceh dengan pertumbuhan ekonomi di bawah 1 persen, sedangkan pertumbuhan ekonomi Sumatera Utara 5,4 persen, tetapi angka penetrasi internetnya hanya 19,3 persen.
+	Pengguna internet di Indonesia meningkat 13 persen dalam setahun dari 63 juta jiwa menjadi 71,19 juta jiwa, kata Semuel Abrijani Pangerapan, Ketua Umum APJII, dalam Dialog Nasional Tata Kelola Internet, di Jakarta, Rabu (20/8).
+	Di Pulau Jawa, dua provinsi dengan penetrasi internet tertinggi adalah DKI Jakarta (42,8 persen) dan DI Yogyakarta (41,5 persen). Dua provinsi dengan penetrasi terendah adalah Kalimantan Barat (17,8 persen) dan Papua Barat (15,7 persen).
+	Infrastruktur adalah salah satu topik yang dibahas dalam dialog nasional; bersama isu lain, yakni hukum, sosial budaya, dan ekonomi. Hasil diskusi akan dilaporkan dalam Internet Governance Forum, di Istanbul, Turki, awal September. Sebelumnya, IGF 2013 digelar di Bali.
+	Yohannes Sumaryo dari Masyarakat Pemanfaat Internet mengungkapkan, hasil survei infrastruktur internet terhadap 67.611 desa di Indonesia menunjukkan fakta bahwa sepertiga dari jumlah desa itu belum terkoneksi internet. Kondisi itu mengkhawatirkan karena internet dibutuhkan untuk menjamin akuntabilitas dari pengucuran dana desa yang nominalnya Rp 1,4 miliar per desa sesuai implementasi Undang-Undang Nomor 14 Tahun 2014 tentang Desa.
+	Menurut Menteri Komunikasi dan Informatika Tifatul Sembiring, tak meratanya penetrasi internet di Indonesia lebih karena persebaran penduduk. Sebanyak 60 persen penduduk Indonesia terpusat di Pulau Jawa, diikuti Pulau Sumatera sebanyak 20 persen, dan Sulawesi. Kepadatan penduduk itulah yang mendorong penggunaan internet.
+	Protokol internet
+	Sementara itu Satriyo Wibowo dari Gugus Tugas Nasional IPv6 menyampaikan, infrastruktur Indonesia siap menjalankan protokol internet generasi terbaru dari generasi sebelumnya, yakni IPv4. Pihaknya rampung menjalankan tiga tahap pengujian, mulai dari penyedia layanan internet, diikuti fase konsumen korporat dan pengguna sebagai tahap akhir.
+	Tinggal bergantung pada pertimbangan bisnis dari penyedia jaringan internet untuk mengimplementasikan IPv6. Saat ini baru dilakukan dua pihak, yakni Biznet dan Firstmedia, kata dia.
+	IPv6 adalah protokol internet terbaru untuk mengatur lokasi ataupun identitas perangkat yang terhubung jaringan internet dan memastikan mereka memiliki alamat. Dalam IPv4, ada 4,3 miliar alamat yang terpakai lebih dari 90 persen sehingga IPv6 disiapkan dengan alamat sebanyak 340 undecillion atau 3,4 kali 10 pangkat 38. Jumlah itu diperkirakan mencukupi kebutuhan pertumbuhan perangkat yang terhubung ke internet.
+	Menurut Satriyo, implementasi dari IPv6 di Indonesia kemungkinan baru bisa tahun 2015 atau 2016. Pihaknya masih mendapati penyedia layanan internet yang menawarkan paket data menggunakan IPv4. (ELD)
+
+ 
+"Pengguna internet di Indonesia meningkat 13 persen dalam setahun.
+Semuel Abrijani Pangerapan

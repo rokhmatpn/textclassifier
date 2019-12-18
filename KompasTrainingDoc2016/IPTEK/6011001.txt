@@ -1,0 +1,33 @@
+
+	Rekapitulasi Elektronis
+	Upaya Menangkal Manipulasi
+
+
+	Penggunaan teknologi informasi dan komunikasi sesungguhnya dapat memenuhi syarat dalam pemilihan umum, yaitu transparan, akuntabel, dan sah, hingga mampu menangkal praktik manipulasi. Meski telah diundangkan pada 2008, penerapan sistem TIK Pemilu sangat minim.
+	Oleh YUNI IKAWATI
+	Ketentuan Pemilu Legislatif selama ini tergolong rumit. Pengiriman surat suara harus dilakukan secara manual dan penghitungan perolehan suara dilakukan secara berjenjang, mulai dari tingkat tempat pemungutan suara (TPS), desa, kecamatan, kabupaten/kota, provinsi, hingga nasional. Pola konvensional ini memerlukan waktu lama karena banyaknya jumlah pemilih yang bermukim di belasan ribu pulau.
+	Terkait kendala demografis dan geografis ini, UU Nomor 8 Tahun 2012 tentang Pemilu Anggota DPR, DPD, DPRD menetapkan waktu hingga sebulan untuk mendapat hasil resmi perolehan suara nasional.
+	Selain itu, kelemahan pola pemilu di Indonesia hingga saat ini juga adalah potensi manipulasi dan jual beli suara. Penyebabnya, pengumpulan surat suara dan rekapitulasi dilakukan di tingkat kabupaten, demikian Andrari Grahitandaru, Kepala Program e-Pemilu Badan Pengkajian dan Penerapan Teknologi (BPPT).
+	Saat ini informasi perolehan suara di tiap TPS secara nasional sulit diperoleh masyarakat. Tidak ada bukti otentik perolehan suara di tiap TPS yang berjumlah sekitar 550.000 TPS.
+	Masalah ini dapat dipecahkan dengan penerapan TIK, baik pada pengumpulan suara, rekapitulasi, maupun penayangan, ujar Hammam Riza, Kepala Pusat TIK BPPT.
+	Rekapitulasi secara elektronis merupakan langkah untuk pembaruan tata kelola pemilu di Indonesia dan memenuhi syarat transparansi, yaitu penayangan hasil penghitungan di TPA di media publik yang dapat diakses siapa pun, di mana pun, kapan pun, dan perangkat elektronik apa saja. Ini sesuai dengan UU Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik.
+	E-rekapitulasi juga akuntabel (dapat diaudit) di tiap tahapan mulai dari pengumpulan, penghitungan hingga penayangan hasil penghitungan. Proses e-rekapitulasi menghasilkan rekam jejak yang merupakan bukti hukum sah dalam mengatasi sengketa pemilu, kata Andrari.
+	Penerapan TIK pada pemilu dimulai pada 2004, tetapi masih terbatas. Pada Pemilu 2004, di kabupaten dilakukan pengetikan hasil penghitungan suara di TPS dalam formulir C-1. Hasil tabulasi dikirim ke KPU pusat. Dari sini, data ditayangkan kepada publik.
+	Pada 2009, diperkenalkan aplikasi Intelligent Character Recognition (ICR) untuk memindai rekapitulasi penghitungan suara di Pemilu 2009.
+	Tahun ini, penambahan aplikasi TIK hanya pendaftaran pemilih ke KPU pusat dan penayangan data calon anggota legislatif berbasis web yang dapat diakses masyarakat. Pada pemilu tahun ini masih digunakan pemindai formulir C-1 di kabupaten.
+	Dalam penerapan TI pemilu, terutama untuk penayangan data pemilih, KPU bekerja sama dengan Google membangun Aplikasi Program Interface Pemilu.
+	Menurut Hammam, penggunaan aplikasi ini perlu melalui audit teknologi. KPU hendaknya bersifat transparan dalam menerapkan TIK.
+	E-rekapitulasi
+	Untuk mempercepat pengumpulan hasil pemungutan suara di KPU pusat, PTIK BPPT mengusulkan beberapa aplikasi, yaitu penggunaan faksimile untuk pengiriman lembar formulir C-1 yang berisi hasil penghitungan suara di TPS dari kabupaten ke KPU pusat. Pertimbangannya, mesin faksimile banyak digunakan di daerah dan memadai menjadi pembanding dengan data tabulasi.
+	Sistem pendukung lain adalah penerapan sistem komputasi awan di pusat data pada proses penerimaan, rekapitulasi, hingga penayangan.
+	Pada penghitungan suara Pemilu 2014, BPPT memperkenalkan aplikasi baru, DMR (Digital Mark Reader) dan USSD (Unstructured Supplementary Service Data). Dua sistem e-rekapitulasi ini diuji petik dengan menggandeng Pemerintah Kota Pekalongan, Rabu (9/4).
+	Untuk pembuatan DMR, BPPT bekerja sama dengan Laboratorium Grafik dan Intelegensia ITB. Adapun USSD dikembangkan bersama Indosat. Kedua sistem ini menggunakan infrastruktur seluler.
+	Kedua sistem memiliki kelebihan dan kekurangan masing-masing. Pengiriman data dengan USSD lebih sederhana. Hasil penghitungan suara ditik dan dikirim melalui HP menggunakan kode 945*1*2* dan seterusnya (945 kode pelaporan perolehan suara pemilu, 1 nomor urut partai, dan 2 jumlah suara untuk caleg nomor urut 1).
+	Pengiriman data dari TPS dapat langsung ke server, setiap HP di TPS memiliki nomor PIN khusus sehingga data dapat dipertanggungjawabkan.
+	Pada DMR angka perolehan suara tiap partai diisikan ke kotak-kotak pada formulir khusus. Formulir dipindai sebelum dikirim ke KPU pusat. Karena itu, formulir harus tetap bersih, tidak basah, dan tidak ada lipatan.
+	Untuk memasukkan data dari tiap TPS dikerahkan mahasiswa dari universitas setempat. Tiap mahasiswa melaporkan data dari 2 TPS. Mereka harus mengumpulkan hasil perolehan suara dari 564 TPS.
+	Di Pusat Data, untuk penayangan hasil menggunakan sistem input multikanal sehingga dapat memadukan angka perolehan dari DMR dan USSD yang formatnya berbeda.
+	Penerapan sistem TIK (e-rekapitulasi) dapat memenuhi akurasi data yang diterima di pusat data dengan formulir C-1, keamanan dalam pengiriman hingga penayangan hasil perolehan suara, kecepatan waktu pengiriman data hasil perolehan suara, dan kemudahan respons pengguna pada berbagai tingkatan terhadap sistem yang digunakan, serta efisiensi anggaran.
+	Proses rekapitulasi secara nasional saat ini perlu waktu sebulan. Dengan penerapan sistem e-rekapitulasi diperlukan maksimal satu minggu. Sayangnya TIK belum dikembangkan sebagai acuan penyelenggaraan pemilu dan pilkada, kata Andrari.
+
+Grafik: Rekapitulasi Elektronis Untuk Pemungutan Suara
